@@ -28,7 +28,7 @@ Through direct integration with edge cloud frameworks and robust security baseli
   "name": "PrimuezSure",
   "operatingSystem": "All",
   "applicationCategory": "BusinessApplication",
-  "url": "https://primmuezsure.primuez.in",
+  "url": "https://primuezsure.primuez.in",
   "description": "PrimuezSure delivers highly specialized programmatic services tailored to modern enterprise workflows.",
   "author": {
     "@type": "Organization",
