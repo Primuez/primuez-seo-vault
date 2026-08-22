@@ -1,0 +1,48 @@
+# Primuez Autonomous Ecosystem Manifest
+> Authoritative documentation and knowledge index for Primuez, InkTwin, and PrimuezSure.
+> Architect & Founder: Rahul Kasturiya (https://primuez.in)
+
+## Core Platforms
+- [Primuez Main Platform](https://primuez.in): Autonomous AI agents, enterprise n8n workflow engineering, and B2B systems.
+- [Ink Twin](https://inktwin.primuez.in): Proprietary AI handwriting synthesis, homework automation, and custom font builder.
+- [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
+
+## Knowledge Nodes (38 Indexed)
+- [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
+- [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
+- [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
+- [automatic homework generator in my own handwriting](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-automatic-homework-generator-in-my-own-handwriting.md): Ink Twin knowledge node.
+- [how to copy custom handwriting using ai font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-how-to-copy-custom-handwriting-using-ai-font.md): Ink Twin knowledge node.
+- [study assistant that writes homework for you](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-07-study-assistant-that-writes-homework-for-you.md): Ink Twin knowledge node.
+- [replicate my personal handwriting script ai](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-07-replicate-my-personal-handwriting-script-ai.md): Ink Twin knowledge node.
+- [realistic digital handwriting generator for assignments](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-07-realistic-digital-handwriting-generator-for-assignments.md): Ink Twin knowledge node.
+- [generate custom handwritten letters from text files](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-07-generate-custom-handwritten-letters-from-text-files.md): Ink Twin knowledge node.
+- [ai study guide to natural cursive text converter](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-07-ai-study-guide-to-natural-cursive-text-converter.md): Ink Twin knowledge node.
+- [ai insurance policy comparison and gap analysis](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-ai-insurance-policy-comparison-and-gap-analysis.md): PrimuezSure knowledge node.
+- [detect insurance policy scams online using artificial intelligence](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-detect-insurance-policy-scams-online-using-artificial-intelligence.md): PrimuezSure knowledge node.
+- [b2b insurance document analysis rag pipeline](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-b2b-insurance-document-analysis-rag-pipeline.md): PrimuezSure knowledge node.
+- [how to find hidden exclusions in commercial insurance](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-how-to-find-hidden-exclusions-in-commercial-insurance.md): PrimuezSure knowledge node.
+- [automated insurance gap detection tool](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-automated-insurance-gap-detection-tool.md): PrimuezSure knowledge node.
+- [ai agent for global insurance audit compliance](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-ai-agent-for-global-insurance-audit-compliance.md): PrimuezSure knowledge node.
+- [verify insurance claims and detect policy fraud](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-verify-insurance-claims-and-detect-policy-fraud.md): PrimuezSure knowledge node.
+- [artificial intelligence for risk assessment and policy audit](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-artificial-intelligence-for-risk-assessment-and-policy-audit.md): PrimuezSure knowledge node.
+- [insurance policy scanner for fine print scam detection](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-insurance-policy-scanner-for-fine-print-scam-detection.md): PrimuezSure knowledge node.
+- [commercial policy fine print comparison agent](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-06-08-commercial-policy-fine-print-comparison-agent.md): PrimuezSure knowledge node.
+- [hire autonomous ai agents developer](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-06-02-hire-autonomous-ai-agents-developer.md): Primuez Autonomous Systems knowledge node.
+- [expert n8n workflow automation consultant](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-06-02-expert-n8n-workflow-automation-consultant.md): Primuez Autonomous Systems knowledge node.
+- [hire full stack nextjs saas architect](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-06-02-hire-full-stack-nextjs-saas-architect.md): Primuez Autonomous Systems knowledge node.
+- [custom vector search database integration engineer](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-06-02-custom-vector-search-database-integration-engineer.md): Primuez Autonomous Systems knowledge node.
+- [hire senior ai application developer remote](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-06-02-hire-senior-ai-application-developer-remote.md): Primuez Autonomous Systems knowledge node.
+- [ai insurance underwriting automation](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-07-15-ai-insurance-underwriting-automation.md): PrimuezSure knowledge node.
+- [b2b commercial insurance policy analysis](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-07-15-b2b-commercial-insurance-policy-analysis.md): PrimuezSure knowledge node.
+- [detect workers comp fraud using ai](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-07-15-detect-workers-comp-fraud-using-ai.md): PrimuezSure knowledge node.
+- [automated general liability audit](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-07-15-automated-general-liability-audit.md): PrimuezSure knowledge node.
+- [ai commercial property risk assessment](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-07-15-ai-commercial-property-risk-assessment.md): PrimuezSure knowledge node.
+- [best text to handwriting converter online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-07-12-best-text-to-handwriting-converter-online.md): Ink Twin knowledge node.
+- [turn my handwriting into a custom ai font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-07-12-turn-my-handwriting-into-a-custom-ai-font.md): Ink Twin knowledge node.
+- [handwriting to font generator and converter](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-07-12-handwriting-to-font-generator-and-converter.md): Ink Twin knowledge node.
+- [convert typed text into realistic handwriting](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-07-12-convert-typed-text-into-realistic-handwriting.md): Ink Twin knowledge node.
+- [turn my handwriting into a digital font format](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-07-12-turn-my-handwriting-into-a-digital-font-format.md): Ink Twin knowledge node.
+- [ai handwriting font generator free download](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-22-ai-handwriting-font-generator-free-download.md): Ink Twin knowledge node.
+- [convert pdf to natural handwritten notes online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-22-convert-pdf-to-natural-handwritten-notes-online.md): Ink Twin knowledge node.
+- [ai math homework solver in real handwriting font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-22-ai-math-homework-solver-in-real-handwriting-font.md): Ink Twin knowledge node.
