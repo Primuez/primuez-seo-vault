@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-08-22T13:35:10.867Z",
+  "lastSync": "2026-08-22T13:37:38.228Z",
   "totalNodes": 70,
-  "publishedNodes": 38,
-  "pendingNodes": 32,
-  "progressPercentage": 54,
+  "publishedNodes": 41,
+  "pendingNodes": 29,
+  "progressPercentage": 59,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 25,
-      "completed": 18
+      "completed": 21
     },
     "primuezsure.primuez.in": {
       "total": 25,
@@ -28,6 +28,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "how to make typed assignment look handwritten",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-22T13:37:38.227Z",
+      "filePath": "inktwin/2026-08-22-how-to-make-typed-assignment-look-handwritten.md",
+      "wordCount": 795,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "realistic cursive font generator for students",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-22T13:37:33.555Z",
+      "filePath": "inktwin/2026-08-22-realistic-cursive-font-generator-for-students.md",
+      "wordCount": 655,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "custom handwriting ttf font maker from camera scan",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-22T13:37:29.460Z",
+      "filePath": "inktwin/2026-08-22-custom-handwriting-ttf-font-maker-from-camera-scan.md",
+      "wordCount": 700,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "ai math homework solver in real handwriting font",
       "app": "inktwin.primuez.in",
@@ -76,51 +109,9 @@
       "addedAt": "2026-07-09T10:01:30.101Z",
       "generatedAt": "2026-07-15T00:01:44.190Z",
       "filePath": "primuezsure/2026-07-15-automated-general-liability-audit.md"
-    },
-    {
-      "keyword": "ai commercial property risk assessment",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-07-09T10:01:30.101Z",
-      "generatedAt": "2026-07-15T00:01:27.578Z",
-      "filePath": "primuezsure/2026-07-15-ai-commercial-property-risk-assessment.md"
-    },
-    {
-      "keyword": "ai insurance underwriting automation",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-07-09T10:01:30.101Z",
-      "generatedAt": "2026-07-15T00:01:23.999Z",
-      "filePath": "primuezsure/2026-07-15-ai-insurance-underwriting-automation.md"
-    },
-    {
-      "keyword": "detect workers comp fraud using ai",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-07-09T10:01:30.101Z",
-      "generatedAt": "2026-07-15T00:01:18.749Z",
-      "filePath": "primuezsure/2026-07-15-detect-workers-comp-fraud-using-ai.md"
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "custom handwriting ttf font maker from camera scan",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "realistic cursive font generator for students",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "how to make typed assignment look handwritten",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
     {
       "keyword": "ai study assistant text to handwriting ocr",
       "app": "inktwin.primuez.in",
@@ -147,6 +138,24 @@
     },
     {
       "keyword": "commercial property insurance policy audit rag pipeline",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "ai fine print scanner for commercial liability policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "detect hidden exclusions in business insurance contracts",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "automated workers comp policy verification tool",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-08-22T13:35:00.000Z"
