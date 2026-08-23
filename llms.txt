@@ -7,7 +7,7 @@
 - [Ink Twin](https://inktwin.primuez.in): Proprietary AI handwriting synthesis, homework automation, and custom font builder.
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 
-## Knowledge Nodes (41 Indexed)
+## Knowledge Nodes (44 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -49,3 +49,6 @@
 - [custom handwriting ttf font maker from camera scan](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-22-custom-handwriting-ttf-font-maker-from-camera-scan.md): Ink Twin knowledge node.
 - [realistic cursive font generator for students](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-22-realistic-cursive-font-generator-for-students.md): Ink Twin knowledge node.
 - [how to make typed assignment look handwritten](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-22-how-to-make-typed-assignment-look-handwritten.md): Ink Twin knowledge node.
+- [ai study assistant text to handwriting ocr](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-23-ai-study-assistant-text-to-handwriting-ocr.md): Ink Twin knowledge node.
+- [svg glyph vectorizer from handwriting template](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-23-svg-glyph-vectorizer-from-handwriting-template.md): Ink Twin knowledge node.
+- [digital penmanship replicator ai tool](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-23-digital-penmanship-replicator-ai-tool.md): Ink Twin knowledge node.

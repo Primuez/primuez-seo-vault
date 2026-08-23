@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-08-22T13:37:38.228Z",
+  "lastSync": "2026-08-23T00:00:33.410Z",
   "totalNodes": 70,
-  "publishedNodes": 41,
-  "pendingNodes": 29,
-  "progressPercentage": 59,
+  "publishedNodes": 44,
+  "pendingNodes": 26,
+  "progressPercentage": 63,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 25,
-      "completed": 21
+      "completed": 24
     },
     "primuezsure.primuez.in": {
       "total": 25,
@@ -28,6 +28,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "digital penmanship replicator ai tool",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-23T00:00:33.390Z",
+      "filePath": "inktwin/2026-08-23-digital-penmanship-replicator-ai-tool.md",
+      "wordCount": 671,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "svg glyph vectorizer from handwriting template",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-23T00:00:27.901Z",
+      "filePath": "inktwin/2026-08-23-svg-glyph-vectorizer-from-handwriting-template.md",
+      "wordCount": 685,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai study assistant text to handwriting ocr",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-23T00:00:13.234Z",
+      "filePath": "inktwin/2026-08-23-ai-study-assistant-text-to-handwriting-ocr.md",
+      "wordCount": 660,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "how to make typed assignment look handwritten",
       "app": "inktwin.primuez.in",
@@ -82,54 +115,9 @@
       "wordCount": 683,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "ai handwriting font generator free download",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-22T13:35:01.676Z",
-      "filePath": "inktwin/2026-08-22-ai-handwriting-font-generator-free-download.md",
-      "wordCount": 659,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "b2b commercial insurance policy analysis",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-07-09T10:01:30.101Z",
-      "generatedAt": "2026-07-15T00:02:05.796Z",
-      "filePath": "primuezsure/2026-07-15-b2b-commercial-insurance-policy-analysis.md"
-    },
-    {
-      "keyword": "automated general liability audit",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-07-09T10:01:30.101Z",
-      "generatedAt": "2026-07-15T00:01:44.190Z",
-      "filePath": "primuezsure/2026-07-15-automated-general-liability-audit.md"
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "ai study assistant text to handwriting ocr",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "svg glyph vectorizer from handwriting template",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "digital penmanship replicator ai tool",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
     {
       "keyword": "humanize ai essay into physical handwriting output",
       "app": "inktwin.primuez.in",
@@ -156,6 +144,24 @@
     },
     {
       "keyword": "automated workers comp policy verification tool",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "ai insurance claim fraud detection system b2b",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "commercial general liability policy comparison agent",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "autonomous insurance underwriting gap analysis software",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-08-22T13:35:00.000Z"

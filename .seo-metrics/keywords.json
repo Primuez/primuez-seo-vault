@@ -323,20 +323,35 @@
   {
     "keyword": "ai study assistant text to handwriting ocr",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-08-23T00:00:13.234Z",
+    "filePath": "inktwin/2026-08-23-ai-study-assistant-text-to-handwriting-ocr.md",
+    "wordCount": 660,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "svg glyph vectorizer from handwriting template",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-08-23T00:00:27.901Z",
+    "filePath": "inktwin/2026-08-23-svg-glyph-vectorizer-from-handwriting-template.md",
+    "wordCount": 685,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "digital penmanship replicator ai tool",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-08-23T00:00:33.390Z",
+    "filePath": "inktwin/2026-08-23-digital-penmanship-replicator-ai-tool.md",
+    "wordCount": 671,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "humanize ai essay into physical handwriting output",
