@@ -356,20 +356,35 @@
   {
     "keyword": "humanize ai essay into physical handwriting output",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-08-23T03:49:37.330Z",
+    "filePath": "inktwin/2026-08-23-humanize-ai-essay-into-physical-handwriting-output.md",
+    "wordCount": 658,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "commercial property insurance policy audit rag pipeline",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-08-23T03:49:43.597Z",
+    "filePath": "primuezsure/2026-08-23-commercial-property-insurance-policy-audit-rag-pipeline.md",
+    "wordCount": 703,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "ai fine print scanner for commercial liability policies",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-08-23T03:49:48.443Z",
+    "filePath": "primuezsure/2026-08-23-ai-fine-print-scanner-for-commercial-liability-policies.md",
+    "wordCount": 659,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "detect hidden exclusions in business insurance contracts",

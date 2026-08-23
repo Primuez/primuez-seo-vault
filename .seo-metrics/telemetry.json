@@ -1,22 +1,22 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-08-23T00:00:33.410Z",
+  "lastSync": "2026-08-23T03:49:48.445Z",
   "totalNodes": 70,
-  "publishedNodes": 44,
-  "pendingNodes": 26,
-  "progressPercentage": 63,
+  "publishedNodes": 47,
+  "pendingNodes": 23,
+  "progressPercentage": 67,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 25,
-      "completed": 24
+      "completed": 25
     },
     "primuezsure.primuez.in": {
       "total": 25,
-      "completed": 15
+      "completed": 17
     },
     "primuez.in": {
       "total": 15,
@@ -28,6 +28,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "ai fine print scanner for commercial liability policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-23T03:49:48.443Z",
+      "filePath": "primuezsure/2026-08-23-ai-fine-print-scanner-for-commercial-liability-policies.md",
+      "wordCount": 659,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "commercial property insurance policy audit rag pipeline",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-23T03:49:43.597Z",
+      "filePath": "primuezsure/2026-08-23-commercial-property-insurance-policy-audit-rag-pipeline.md",
+      "wordCount": 703,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "humanize ai essay into physical handwriting output",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-23T03:49:37.330Z",
+      "filePath": "inktwin/2026-08-23-humanize-ai-essay-into-physical-handwriting-output.md",
+      "wordCount": 658,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "digital penmanship replicator ai tool",
       "app": "inktwin.primuez.in",
@@ -82,60 +115,9 @@
       "wordCount": 655,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "custom handwriting ttf font maker from camera scan",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-22T13:37:29.460Z",
-      "filePath": "inktwin/2026-08-22-custom-handwriting-ttf-font-maker-from-camera-scan.md",
-      "wordCount": 700,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai math homework solver in real handwriting font",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-22T13:35:10.865Z",
-      "filePath": "inktwin/2026-08-22-ai-math-homework-solver-in-real-handwriting-font.md",
-      "wordCount": 670,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "convert pdf to natural handwritten notes online",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-22T13:35:06.304Z",
-      "filePath": "inktwin/2026-08-22-convert-pdf-to-natural-handwritten-notes-online.md",
-      "wordCount": 683,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "humanize ai essay into physical handwriting output",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "commercial property insurance policy audit rag pipeline",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "ai fine print scanner for commercial liability policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
     {
       "keyword": "detect hidden exclusions in business insurance contracts",
       "app": "primuezsure.primuez.in",
@@ -162,6 +144,24 @@
     },
     {
       "keyword": "autonomous insurance underwriting gap analysis software",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "b2b insurance compliance document parser ai",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "enterprise risk assessment and fine print audit ai",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "automate certificate of insurance tracking and verification",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-08-22T13:35:00.000Z"
