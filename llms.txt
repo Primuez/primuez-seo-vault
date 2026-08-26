@@ -7,7 +7,7 @@
 - [Ink Twin](https://inktwin.primuez.in): Proprietary AI handwriting synthesis, homework automation, and custom font builder.
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 
-## Knowledge Nodes (47 Indexed)
+## Knowledge Nodes (50 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -55,3 +55,6 @@
 - [humanize ai essay into physical handwriting output](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-08-23-humanize-ai-essay-into-physical-handwriting-output.md): Ink Twin knowledge node.
 - [commercial property insurance policy audit rag pipeline](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-08-23-commercial-property-insurance-policy-audit-rag-pipeline.md): PrimuezSure knowledge node.
 - [ai fine print scanner for commercial liability policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-08-23-ai-fine-print-scanner-for-commercial-liability-policies.md): PrimuezSure knowledge node.
+- [detect hidden exclusions in business insurance contracts](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-08-26-detect-hidden-exclusions-in-business-insurance-contracts.md): PrimuezSure knowledge node.
+- [automated workers comp policy verification tool](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-08-26-automated-workers-comp-policy-verification-tool.md): PrimuezSure knowledge node.
+- [ai insurance claim fraud detection system b2b](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-08-26-ai-insurance-claim-fraud-detection-system-b2b.md): PrimuezSure knowledge node.
