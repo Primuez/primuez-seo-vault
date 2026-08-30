@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-08-26T00:00:32.689Z",
+  "lastSync": "2026-08-30T00:01:01.114Z",
   "totalNodes": 70,
-  "publishedNodes": 50,
-  "pendingNodes": 20,
-  "progressPercentage": 71,
+  "publishedNodes": 53,
+  "pendingNodes": 17,
+  "progressPercentage": 76,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 25,
-      "completed": 20
+      "completed": 23
     },
     "primuez.in": {
       "total": 15,
@@ -28,6 +28,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "b2b insurance compliance document parser ai",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-30T00:01:01.105Z",
+      "filePath": "primuezsure/2026-08-30-b2b-insurance-compliance-document-parser-ai.md",
+      "wordCount": 642,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "autonomous insurance underwriting gap analysis software",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-30T00:00:55.621Z",
+      "filePath": "primuezsure/2026-08-30-autonomous-insurance-underwriting-gap-analysis-software.md",
+      "wordCount": 649,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "commercial general liability policy comparison agent",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-08-30T00:00:50.030Z",
+      "filePath": "primuezsure/2026-08-30-commercial-general-liability-policy-comparison-agent.md",
+      "wordCount": 642,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "ai insurance claim fraud detection system b2b",
       "app": "primuezsure.primuez.in",
@@ -82,60 +115,9 @@
       "wordCount": 703,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "humanize ai essay into physical handwriting output",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-23T03:49:37.330Z",
-      "filePath": "inktwin/2026-08-23-humanize-ai-essay-into-physical-handwriting-output.md",
-      "wordCount": 658,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "digital penmanship replicator ai tool",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-23T00:00:33.390Z",
-      "filePath": "inktwin/2026-08-23-digital-penmanship-replicator-ai-tool.md",
-      "wordCount": 671,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "svg glyph vectorizer from handwriting template",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-23T00:00:27.901Z",
-      "filePath": "inktwin/2026-08-23-svg-glyph-vectorizer-from-handwriting-template.md",
-      "wordCount": 685,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "commercial general liability policy comparison agent",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "autonomous insurance underwriting gap analysis software",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "b2b insurance compliance document parser ai",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
     {
       "keyword": "enterprise risk assessment and fine print audit ai",
       "app": "primuezsure.primuez.in",
@@ -162,6 +144,24 @@
     },
     {
       "keyword": "custom b2b daas lead enrichment pipeline developer",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "self-healing vps docker multi-agent architecture",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "autonomous erp synchronization with n8n and webhooks",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "full stack ai saas architect nextjs cloudflare",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-08-22T13:35:00.000Z"
