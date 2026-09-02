@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-08-30T00:01:01.114Z",
+  "lastSync": "2026-09-02T00:01:11.497Z",
   "totalNodes": 70,
-  "publishedNodes": 53,
-  "pendingNodes": 17,
-  "progressPercentage": 76,
+  "publishedNodes": 56,
+  "pendingNodes": 14,
+  "progressPercentage": 80,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,11 +16,11 @@
     },
     "primuezsure.primuez.in": {
       "total": 25,
-      "completed": 23
+      "completed": 25
     },
     "primuez.in": {
       "total": 15,
-      "completed": 5
+      "completed": 6
     },
     "daas.primuez.in": {
       "total": 5,
@@ -28,6 +28,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "hire autonomous ai agents engineer for manufacturing",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-02T00:01:11.492Z",
+      "filePath": "portfolio/2026-09-02-hire-autonomous-ai-agents-engineer-for-manufacturing.md",
+      "wordCount": 743,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automate certificate of insurance tracking and verification",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-02T00:01:05.834Z",
+      "filePath": "primuezsure/2026-09-02-automate-certificate-of-insurance-tracking-and-verification.md",
+      "wordCount": 699,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "enterprise risk assessment and fine print audit ai",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-02T00:00:59.482Z",
+      "filePath": "primuezsure/2026-09-02-enterprise-risk-assessment-and-fine-print-audit-ai.md",
+      "wordCount": 647,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "b2b insurance compliance document parser ai",
       "app": "primuezsure.primuez.in",
@@ -82,60 +115,9 @@
       "wordCount": 657,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "detect hidden exclusions in business insurance contracts",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-26T00:00:20.776Z",
-      "filePath": "primuezsure/2026-08-26-detect-hidden-exclusions-in-business-insurance-contracts.md",
-      "wordCount": 671,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai fine print scanner for commercial liability policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-23T03:49:48.443Z",
-      "filePath": "primuezsure/2026-08-23-ai-fine-print-scanner-for-commercial-liability-policies.md",
-      "wordCount": 659,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "commercial property insurance policy audit rag pipeline",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-23T03:49:43.597Z",
-      "filePath": "primuezsure/2026-08-23-commercial-property-insurance-policy-audit-rag-pipeline.md",
-      "wordCount": 703,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "enterprise risk assessment and fine print audit ai",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "automate certificate of insurance tracking and verification",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "hire autonomous ai agents engineer for manufacturing",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
     {
       "keyword": "enterprise n8n workflow automation consultant india",
       "app": "primuez.in",
@@ -162,6 +144,24 @@
     },
     {
       "keyword": "full stack ai saas architect nextjs cloudflare",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "replace manual backoffice data entry with ai agents",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "custom legal advisor and tax query ai agents",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "whatsapp business automation with evolution api and n8n",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-08-22T13:35:00.000Z"

@@ -7,7 +7,7 @@
 - [Ink Twin](https://inktwin.primuez.in): Proprietary AI handwriting synthesis, homework automation, and custom font builder.
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 
-## Knowledge Nodes (53 Indexed)
+## Knowledge Nodes (56 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -61,3 +61,6 @@
 - [commercial general liability policy comparison agent](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-08-30-commercial-general-liability-policy-comparison-agent.md): PrimuezSure knowledge node.
 - [autonomous insurance underwriting gap analysis software](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-08-30-autonomous-insurance-underwriting-gap-analysis-software.md): PrimuezSure knowledge node.
 - [b2b insurance compliance document parser ai](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-08-30-b2b-insurance-compliance-document-parser-ai.md): PrimuezSure knowledge node.
+- [enterprise risk assessment and fine print audit ai](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-09-02-enterprise-risk-assessment-and-fine-print-audit-ai.md): PrimuezSure knowledge node.
+- [automate certificate of insurance tracking and verification](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-09-02-automate-certificate-of-insurance-tracking-and-verification.md): PrimuezSure knowledge node.
+- [hire autonomous ai agents engineer for manufacturing](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-02-hire-autonomous-ai-agents-engineer-for-manufacturing.md): Primuez Autonomous Systems knowledge node.
