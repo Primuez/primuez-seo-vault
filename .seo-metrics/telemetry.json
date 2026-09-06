@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-09-02T00:01:11.497Z",
+  "lastSync": "2026-09-06T00:01:13.587Z",
   "totalNodes": 70,
-  "publishedNodes": 56,
-  "pendingNodes": 14,
-  "progressPercentage": 80,
+  "publishedNodes": 59,
+  "pendingNodes": 11,
+  "progressPercentage": 84,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 15,
-      "completed": 6
+      "completed": 9
     },
     "daas.primuez.in": {
       "total": 5,
@@ -28,6 +28,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "self-healing vps docker multi-agent architecture",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-06T00:01:13.582Z",
+      "filePath": "portfolio/2026-09-06-self-healing-vps-docker-multi-agent-architecture.md",
+      "wordCount": 650,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "custom b2b daas lead enrichment pipeline developer",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-06T00:01:08.514Z",
+      "filePath": "portfolio/2026-09-06-custom-b2b-daas-lead-enrichment-pipeline-developer.md",
+      "wordCount": 679,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "enterprise n8n workflow automation consultant india",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-06T00:01:03.130Z",
+      "filePath": "portfolio/2026-09-06-enterprise-n8n-workflow-automation-consultant-india.md",
+      "wordCount": 644,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "hire autonomous ai agents engineer for manufacturing",
       "app": "primuez.in",
@@ -82,60 +115,9 @@
       "wordCount": 649,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "commercial general liability policy comparison agent",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-30T00:00:50.030Z",
-      "filePath": "primuezsure/2026-08-30-commercial-general-liability-policy-comparison-agent.md",
-      "wordCount": 642,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai insurance claim fraud detection system b2b",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-26T00:00:32.682Z",
-      "filePath": "primuezsure/2026-08-26-ai-insurance-claim-fraud-detection-system-b2b.md",
-      "wordCount": 645,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated workers comp policy verification tool",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-26T00:00:28.050Z",
-      "filePath": "primuezsure/2026-08-26-automated-workers-comp-policy-verification-tool.md",
-      "wordCount": 657,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "enterprise n8n workflow automation consultant india",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "custom b2b daas lead enrichment pipeline developer",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "self-healing vps docker multi-agent architecture",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
     {
       "keyword": "autonomous erp synchronization with n8n and webhooks",
       "app": "primuez.in",
@@ -163,6 +145,24 @@
     {
       "keyword": "whatsapp business automation with evolution api and n8n",
       "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "automated gym checkin and rfid gate integration engineer",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "automated b2b lead generation and enrichment pipeline",
+      "app": "daas.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "apify actor and google maps scraper to crm pipeline",
+      "app": "daas.primuez.in",
       "generated": false,
       "addedAt": "2026-08-22T13:35:00.000Z"
     }
