@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-09-06T00:01:13.587Z",
+  "lastSync": "2026-09-09T00:00:31.359Z",
   "totalNodes": 70,
-  "publishedNodes": 59,
-  "pendingNodes": 11,
-  "progressPercentage": 84,
+  "publishedNodes": 62,
+  "pendingNodes": 8,
+  "progressPercentage": 89,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 15,
-      "completed": 9
+      "completed": 12
     },
     "daas.primuez.in": {
       "total": 5,
@@ -28,6 +28,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "replace manual backoffice data entry with ai agents",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-09T00:00:31.354Z",
+      "filePath": "portfolio/2026-09-09-replace-manual-backoffice-data-entry-with-ai-agents.md",
+      "wordCount": 671,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "full stack ai saas architect nextjs cloudflare",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-09T00:00:26.264Z",
+      "filePath": "portfolio/2026-09-09-full-stack-ai-saas-architect-nextjs-cloudflare.md",
+      "wordCount": 650,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "autonomous erp synchronization with n8n and webhooks",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-09T00:00:18.477Z",
+      "filePath": "portfolio/2026-09-09-autonomous-erp-synchronization-with-n8n-and-webhooks.md",
+      "wordCount": 699,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "self-healing vps docker multi-agent architecture",
       "app": "primuez.in",
@@ -82,60 +115,9 @@
       "wordCount": 699,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "enterprise risk assessment and fine print audit ai",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-09-02T00:00:59.482Z",
-      "filePath": "primuezsure/2026-09-02-enterprise-risk-assessment-and-fine-print-audit-ai.md",
-      "wordCount": 647,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "b2b insurance compliance document parser ai",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-30T00:01:01.105Z",
-      "filePath": "primuezsure/2026-08-30-b2b-insurance-compliance-document-parser-ai.md",
-      "wordCount": 642,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "autonomous insurance underwriting gap analysis software",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-08-30T00:00:55.621Z",
-      "filePath": "primuezsure/2026-08-30-autonomous-insurance-underwriting-gap-analysis-software.md",
-      "wordCount": 649,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "autonomous erp synchronization with n8n and webhooks",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "full stack ai saas architect nextjs cloudflare",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "replace manual backoffice data entry with ai agents",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
     {
       "keyword": "custom legal advisor and tax query ai agents",
       "app": "primuez.in",
@@ -162,6 +144,24 @@
     },
     {
       "keyword": "apify actor and google maps scraper to crm pipeline",
+      "app": "daas.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "data as a service for digital marketing agencies",
+      "app": "daas.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "automated b2b intent to pitch outbound pipeline",
+      "app": "daas.primuez.in",
+      "generated": false,
+      "addedAt": "2026-08-22T13:35:00.000Z"
+    },
+    {
+      "keyword": "cold email sequence personalization with llm and n8n",
       "app": "daas.primuez.in",
       "generated": false,
       "addedAt": "2026-08-22T13:35:00.000Z"

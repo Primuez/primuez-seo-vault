@@ -521,20 +521,35 @@
   {
     "keyword": "autonomous erp synchronization with n8n and webhooks",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-09-09T00:00:18.477Z",
+    "filePath": "portfolio/2026-09-09-autonomous-erp-synchronization-with-n8n-and-webhooks.md",
+    "wordCount": 699,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "full stack ai saas architect nextjs cloudflare",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-09-09T00:00:26.264Z",
+    "filePath": "portfolio/2026-09-09-full-stack-ai-saas-architect-nextjs-cloudflare.md",
+    "wordCount": 650,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "replace manual backoffice data entry with ai agents",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-08-22T13:35:00.000Z"
+    "generated": true,
+    "addedAt": "2026-08-22T13:35:00.000Z",
+    "generatedAt": "2026-09-09T00:00:31.354Z",
+    "filePath": "portfolio/2026-09-09-replace-manual-backoffice-data-entry-with-ai-agents.md",
+    "wordCount": 671,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "custom legal advisor and tax query ai agents",
