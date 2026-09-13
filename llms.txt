@@ -7,7 +7,7 @@
 - [Ink Twin](https://inktwin.primuez.in): Proprietary AI handwriting synthesis, homework automation, and custom font builder.
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 
-## Knowledge Nodes (62 Indexed)
+## Knowledge Nodes (65 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -70,3 +70,6 @@
 - [autonomous erp synchronization with n8n and webhooks](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-09-autonomous-erp-synchronization-with-n8n-and-webhooks.md): Primuez Autonomous Systems knowledge node.
 - [full stack ai saas architect nextjs cloudflare](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-09-full-stack-ai-saas-architect-nextjs-cloudflare.md): Primuez Autonomous Systems knowledge node.
 - [replace manual backoffice data entry with ai agents](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-09-replace-manual-backoffice-data-entry-with-ai-agents.md): Primuez Autonomous Systems knowledge node.
+- [custom legal advisor and tax query ai agents](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-13-custom-legal-advisor-and-tax-query-ai-agents.md): Primuez Autonomous Systems knowledge node.
+- [whatsapp business automation with evolution api and n8n](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-13-whatsapp-business-automation-with-evolution-api-and-n8n.md): Primuez Autonomous Systems knowledge node.
+- [automated gym checkin and rfid gate integration engineer](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-13-automated-gym-checkin-and-rfid-gate-integration-engineer.md): Primuez Autonomous Systems knowledge node.
