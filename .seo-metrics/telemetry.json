@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-09-16T00:01:12.258Z",
+  "lastSync": "2026-09-17T00:00:31.158Z",
   "totalNodes": 78,
-  "publishedNodes": 74,
-  "pendingNodes": 4,
-  "progressPercentage": 95,
+  "publishedNodes": 77,
+  "pendingNodes": 1,
+  "progressPercentage": 99,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -28,10 +28,43 @@
     },
     "daas.primuez.in": {
       "total": 5,
-      "completed": 1
+      "completed": 4
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "automated b2b intent to pitch outbound pipeline",
+      "app": "daas.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-17T00:00:31.153Z",
+      "filePath": "daas/2026-09-17-automated-b2b-intent-to-pitch-outbound-pipeline.md",
+      "wordCount": 697,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "data as a service for digital marketing agencies",
+      "app": "daas.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-17T00:00:26.268Z",
+      "filePath": "daas/2026-09-17-data-as-a-service-for-digital-marketing-agencies.md",
+      "wordCount": 794,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "apify actor and google maps scraper to crm pipeline",
+      "app": "daas.primuez.in",
+      "generated": true,
+      "addedAt": "2026-08-22T13:35:00.000Z",
+      "generatedAt": "2026-09-17T00:00:20.370Z",
+      "filePath": "daas/2026-09-17-apify-actor-and-google-maps-scraper-to-crm-pipeline.md",
+      "wordCount": 690,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "automated b2b lead generation and enrichment pipeline",
       "app": "daas.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 725,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "hire rahul kasturiya n8n workflow specialist",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": true,
-      "addedAt": "2026-09-15T13:10:50.324Z",
-      "generatedAt": "2026-09-15T13:22:35.776Z",
-      "filePath": "linkedin/2026-09-15-hire-rahul-kasturiya-n8n-workflow-specialist.md",
-      "wordCount": 737,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "autonomous multi agent systems architect rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": true,
-      "addedAt": "2026-09-15T13:10:50.324Z",
-      "generatedAt": "2026-09-15T13:16:22.684Z",
-      "filePath": "linkedin/2026-09-15-autonomous-multi-agent-systems-architect-rahul-kasturiya.md",
-      "wordCount": 715,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "top n8n automation engineer india rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": true,
-      "addedAt": "2026-09-15T13:10:50.324Z",
-      "generatedAt": "2026-09-15T13:16:15.779Z",
-      "filePath": "linkedin/2026-09-15-top-n8n-automation-engineer-india-rahul-kasturiya.md",
-      "wordCount": 743,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "apify actor and google maps scraper to crm pipeline",
-      "app": "daas.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "data as a service for digital marketing agencies",
-      "app": "daas.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
-    {
-      "keyword": "automated b2b intent to pitch outbound pipeline",
-      "app": "daas.primuez.in",
-      "generated": false,
-      "addedAt": "2026-08-22T13:35:00.000Z"
-    },
     {
       "keyword": "cold email sequence personalization with llm and n8n",
       "app": "daas.primuez.in",
