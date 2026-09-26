@@ -1,37 +1,70 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-09-26T00:00:42.541Z",
-  "totalNodes": 78,
-  "publishedNodes": 78,
-  "pendingNodes": 0,
-  "progressPercentage": 100,
+  "lastSync": "2026-09-26T02:28:51.655Z",
+  "totalNodes": 123,
+  "publishedNodes": 81,
+  "pendingNodes": 42,
+  "progressPercentage": 66,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
-      "total": 25,
+      "total": 31,
       "completed": 25
     },
     "primuezsure.primuez.in": {
-      "total": 25,
+      "total": 31,
       "completed": 25
     },
     "primuez.in": {
-      "total": 15,
-      "completed": 15
+      "total": 33,
+      "completed": 17
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
-      "total": 8,
+      "total": 14,
       "completed": 8
     },
     "daas.primuez.in": {
-      "total": 5,
-      "completed": 5
+      "total": 14,
+      "completed": 6
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "local map pack rank tracking and citation automation",
+      "app": "daas.primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-26T02:28:51.653Z",
+      "filePath": "daas/2026-09-26-local-map-pack-rank-tracking-and-citation-automation.md",
+      "wordCount": 959,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai automated gbp review reply and reputation management",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-26T02:28:32.620Z",
+      "filePath": "portfolio/2026-09-26-ai-automated-gbp-review-reply-and-reputation-management.md",
+      "wordCount": 960,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "google business profile automated local seo ranking engine",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-26T02:28:15.660Z",
+      "filePath": "portfolio/2026-09-26-google-business-profile-automated-local-seo-ranking-engine.md",
+      "wordCount": 807,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "cold email sequence personalization with llm and n8n",
       "app": "daas.primuez.in",
@@ -86,40 +119,56 @@
       "wordCount": 671,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "b2b workflow automation consultant rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": true,
-      "addedAt": "2026-09-15T13:10:50.324Z",
-      "generatedAt": "2026-09-16T00:01:06.748Z",
-      "filePath": "linkedin/2026-09-16-b2b-workflow-automation-consultant-rahul-kasturiya.md",
-      "wordCount": 743,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "enterprise ai agent pipeline developer rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": true,
-      "addedAt": "2026-09-15T13:10:50.324Z",
-      "generatedAt": "2026-09-16T00:00:59.829Z",
-      "filePath": "linkedin/2026-09-16-enterprise-ai-agent-pipeline-developer-rahul-kasturiya.md",
-      "wordCount": 670,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ibm cybersecurity specialist rahul kasturiya linkedin",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": true,
-      "addedAt": "2026-09-15T13:10:50.324Z",
-      "generatedAt": "2026-09-15T13:22:47.696Z",
-      "filePath": "linkedin/2026-09-15-ibm-cybersecurity-specialist-rahul-kasturiya-linkedin.md",
-      "wordCount": 762,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
-  "upcomingQueue": []
+  "upcomingQueue": [
+    {
+      "keyword": "programmatic geo landing pages for local service agencies",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "automated local seo audit and ranking report generator",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "apify google maps lead scraper to crm enrichment pipeline",
+      "app": "daas.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "automated hyper local landing page generation with schema markup",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "multi location gbp sync and post scheduling automation",
+      "app": "daas.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "enterprise n8n autonomous multi agent pipeline architecture",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "self healing n8n webhooks and error recovery workflows",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "n8n dynamic credential resolution and multi tenant routing",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    }
+  ]
 }
