@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-09-26T02:28:51.655Z",
+  "lastSync": "2026-09-27T00:01:21.571Z",
   "totalNodes": 123,
-  "publishedNodes": 81,
-  "pendingNodes": 42,
-  "progressPercentage": 66,
+  "publishedNodes": 84,
+  "pendingNodes": 39,
+  "progressPercentage": 68,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 33,
-      "completed": 17
+      "completed": 19
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 14,
@@ -28,10 +28,43 @@
     },
     "daas.primuez.in": {
       "total": 14,
-      "completed": 6
+      "completed": 7
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "apify google maps lead scraper to crm enrichment pipeline",
+      "app": "daas.primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-27T00:01:21.567Z",
+      "filePath": "daas/2026-09-27-apify-google-maps-lead-scraper-to-crm-enrichment-pipeline.md",
+      "wordCount": 878,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated local seo audit and ranking report generator",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-27T00:01:07.745Z",
+      "filePath": "portfolio/2026-09-27-automated-local-seo-audit-and-ranking-report-generator.md",
+      "wordCount": 808,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "programmatic geo landing pages for local service agencies",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-27T00:00:56.114Z",
+      "filePath": "portfolio/2026-09-27-programmatic-geo-landing-pages-for-local-service-agencies.md",
+      "wordCount": 825,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "local map pack rank tracking and citation automation",
       "app": "daas.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 697,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "data as a service for digital marketing agencies",
-      "app": "daas.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-09-17T00:00:26.268Z",
-      "filePath": "daas/2026-09-17-data-as-a-service-for-digital-marketing-agencies.md",
-      "wordCount": 794,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "apify actor and google maps scraper to crm pipeline",
-      "app": "daas.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-09-17T00:00:20.370Z",
-      "filePath": "daas/2026-09-17-apify-actor-and-google-maps-scraper-to-crm-pipeline.md",
-      "wordCount": 690,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated b2b lead generation and enrichment pipeline",
-      "app": "daas.primuez.in",
-      "generated": true,
-      "addedAt": "2026-08-22T13:35:00.000Z",
-      "generatedAt": "2026-09-16T00:01:12.254Z",
-      "filePath": "daas/2026-09-16-automated-b2b-lead-generation-and-enrichment-pipeline.md",
-      "wordCount": 671,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "programmatic geo landing pages for local service agencies",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "automated local seo audit and ranking report generator",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "apify google maps lead scraper to crm enrichment pipeline",
-      "app": "daas.primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
     {
       "keyword": "automated hyper local landing page generation with schema markup",
       "app": "primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "n8n dynamic credential resolution and multi tenant routing",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "hybrid langgraph and n8n production agent deployment",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "automated rag document indexing pipeline using n8n and pgvector",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "event driven slack and telegram devops alert bots with n8n",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-09-26T02:27:52.295095+00:00"
