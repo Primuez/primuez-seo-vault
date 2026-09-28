@@ -796,20 +796,35 @@
   {
     "keyword": "automated hyper local landing page generation with schema markup",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-28T00:00:57.123Z",
+    "filePath": "portfolio/2026-09-28-automated-hyper-local-landing-page-generation-with-schema-markup.md",
+    "wordCount": 823,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "multi location gbp sync and post scheduling automation",
     "app": "daas.primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-28T00:01:08.567Z",
+    "filePath": "daas/2026-09-28-multi-location-gbp-sync-and-post-scheduling-automation.md",
+    "wordCount": 1049,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "enterprise n8n autonomous multi agent pipeline architecture",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-28T00:01:20.614Z",
+    "filePath": "portfolio/2026-09-28-enterprise-n8n-autonomous-multi-agent-pipeline-architecture.md",
+    "wordCount": 801,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "self healing n8n webhooks and error recovery workflows",

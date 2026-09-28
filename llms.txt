@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (84 Indexed)
+## Knowledge Nodes (87 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -94,3 +94,6 @@
 - [programmatic geo landing pages for local service agencies](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-27-programmatic-geo-landing-pages-for-local-service-agencies.md): Primuez Autonomous Systems knowledge node.
 - [automated local seo audit and ranking report generator](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-27-automated-local-seo-audit-and-ranking-report-generator.md): Primuez Autonomous Systems knowledge node.
 - [apify google maps lead scraper to crm enrichment pipeline](https://github.com/Primuez/primuez-seo-vault/blob/main/daas/2026-09-27-apify-google-maps-lead-scraper-to-crm-enrichment-pipeline.md): Primuez DaaS & Lead Intelligence knowledge node.
+- [automated hyper local landing page generation with schema markup](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-28-automated-hyper-local-landing-page-generation-with-schema-markup.md): Primuez Autonomous Systems knowledge node.
+- [multi location gbp sync and post scheduling automation](https://github.com/Primuez/primuez-seo-vault/blob/main/daas/2026-09-28-multi-location-gbp-sync-and-post-scheduling-automation.md): Primuez DaaS & Lead Intelligence knowledge node.
+- [enterprise n8n autonomous multi agent pipeline architecture](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-28-enterprise-n8n-autonomous-multi-agent-pipeline-architecture.md): Primuez Autonomous Systems knowledge node.
