@@ -829,20 +829,35 @@
   {
     "keyword": "self healing n8n webhooks and error recovery workflows",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-29T00:00:55.952Z",
+    "filePath": "portfolio/2026-09-29-self-healing-n8n-webhooks-and-error-recovery-workflows.md",
+    "wordCount": 1008,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "n8n dynamic credential resolution and multi tenant routing",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-29T00:01:09.638Z",
+    "filePath": "portfolio/2026-09-29-n8n-dynamic-credential-resolution-and-multi-tenant-routing.md",
+    "wordCount": 946,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "hybrid langgraph and n8n production agent deployment",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-29T00:01:22.515Z",
+    "filePath": "portfolio/2026-09-29-hybrid-langgraph-and-n8n-production-agent-deployment.md",
+    "wordCount": 800,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "automated rag document indexing pipeline using n8n and pgvector",

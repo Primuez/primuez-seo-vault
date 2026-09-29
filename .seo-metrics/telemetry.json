@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-09-28T00:01:20.618Z",
+  "lastSync": "2026-09-29T00:01:22.519Z",
   "totalNodes": 123,
-  "publishedNodes": 87,
-  "pendingNodes": 36,
-  "progressPercentage": 71,
+  "publishedNodes": 90,
+  "pendingNodes": 33,
+  "progressPercentage": 73,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 33,
-      "completed": 21
+      "completed": 24
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 14,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "hybrid langgraph and n8n production agent deployment",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-29T00:01:22.515Z",
+      "filePath": "portfolio/2026-09-29-hybrid-langgraph-and-n8n-production-agent-deployment.md",
+      "wordCount": 800,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "n8n dynamic credential resolution and multi tenant routing",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-29T00:01:09.638Z",
+      "filePath": "portfolio/2026-09-29-n8n-dynamic-credential-resolution-and-multi-tenant-routing.md",
+      "wordCount": 946,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "self healing n8n webhooks and error recovery workflows",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-09-29T00:00:55.952Z",
+      "filePath": "portfolio/2026-09-29-self-healing-n8n-webhooks-and-error-recovery-workflows.md",
+      "wordCount": 1008,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "enterprise n8n autonomous multi agent pipeline architecture",
       "app": "primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 808,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "programmatic geo landing pages for local service agencies",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-09-27T00:00:56.114Z",
-      "filePath": "portfolio/2026-09-27-programmatic-geo-landing-pages-for-local-service-agencies.md",
-      "wordCount": 825,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "local map pack rank tracking and citation automation",
-      "app": "daas.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-09-26T02:28:51.653Z",
-      "filePath": "daas/2026-09-26-local-map-pack-rank-tracking-and-citation-automation.md",
-      "wordCount": 959,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai automated gbp review reply and reputation management",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-09-26T02:28:32.620Z",
-      "filePath": "portfolio/2026-09-26-ai-automated-gbp-review-reply-and-reputation-management.md",
-      "wordCount": 960,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "self healing n8n webhooks and error recovery workflows",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "n8n dynamic credential resolution and multi tenant routing",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "hybrid langgraph and n8n production agent deployment",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
     {
       "keyword": "automated rag document indexing pipeline using n8n and pgvector",
       "app": "primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "sub 50ms typesafe ai decision models vs generative llms",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "large decision model ldm architecture for algorithmic trading",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "zero drift structured output decision engine for fintech",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "low latency deterministic ai triage system for jira",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-09-26T02:27:52.295095+00:00"
