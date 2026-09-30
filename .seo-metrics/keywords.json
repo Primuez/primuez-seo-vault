@@ -862,20 +862,35 @@
   {
     "keyword": "automated rag document indexing pipeline using n8n and pgvector",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-30T00:00:53.396Z",
+    "filePath": "portfolio/2026-09-30-automated-rag-document-indexing-pipeline-using-n8n-and-pgvector.md",
+    "wordCount": 824,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "event driven slack and telegram devops alert bots with n8n",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-30T00:01:06.474Z",
+    "filePath": "portfolio/2026-09-30-event-driven-slack-and-telegram-devops-alert-bots-with-n8n.md",
+    "wordCount": 813,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "b2b enterprise workflow automation consultant primuez",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-09-30T00:01:16.883Z",
+    "filePath": "portfolio/2026-09-30-b2b-enterprise-workflow-automation-consultant-primuez.md",
+    "wordCount": 767,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "dockerized n8n horizontal scaling on vps cloud infrastructure",
