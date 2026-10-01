@@ -895,20 +895,35 @@
   {
     "keyword": "dockerized n8n horizontal scaling on vps cloud infrastructure",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-10-01T00:00:54.745Z",
+    "filePath": "portfolio/2026-10-01-dockerized-n8n-horizontal-scaling-on-vps-cloud-infrastructure.md",
+    "wordCount": 1048,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "sub 50ms typesafe ai decision models vs generative llms",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-10-01T00:01:08.576Z",
+    "filePath": "portfolio/2026-10-01-sub-50ms-typesafe-ai-decision-models-vs-generative-llms.md",
+    "wordCount": 984,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "large decision model ldm architecture for algorithmic trading",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    "generated": true,
+    "addedAt": "2026-09-26T02:27:52.295095+00:00",
+    "generatedAt": "2026-10-01T00:01:20.064Z",
+    "filePath": "portfolio/2026-10-01-large-decision-model-ldm-architecture-for-algorithmic-trading.md",
+    "wordCount": 775,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "zero drift structured output decision engine for fintech",

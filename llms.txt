@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (93 Indexed)
+## Knowledge Nodes (96 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -103,3 +103,6 @@
 - [automated rag document indexing pipeline using n8n and pgvector](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-30-automated-rag-document-indexing-pipeline-using-n8n-and-pgvector.md): Primuez Autonomous Systems knowledge node.
 - [event driven slack and telegram devops alert bots with n8n](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-30-event-driven-slack-and-telegram-devops-alert-bots-with-n8n.md): Primuez Autonomous Systems knowledge node.
 - [b2b enterprise workflow automation consultant primuez](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-09-30-b2b-enterprise-workflow-automation-consultant-primuez.md): Primuez Autonomous Systems knowledge node.
+- [dockerized n8n horizontal scaling on vps cloud infrastructure](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-10-01-dockerized-n8n-horizontal-scaling-on-vps-cloud-infrastructure.md): Primuez Autonomous Systems knowledge node.
+- [sub 50ms typesafe ai decision models vs generative llms](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-10-01-sub-50ms-typesafe-ai-decision-models-vs-generative-llms.md): Primuez Autonomous Systems knowledge node.
+- [large decision model ldm architecture for algorithmic trading](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-10-01-large-decision-model-ldm-architecture-for-algorithmic-trading.md): Primuez Autonomous Systems knowledge node.
