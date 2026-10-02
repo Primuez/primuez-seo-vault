@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-01T00:01:20.075Z",
+  "lastSync": "2026-10-02T00:01:13.333Z",
   "totalNodes": 123,
-  "publishedNodes": 96,
-  "pendingNodes": 27,
-  "progressPercentage": 78,
+  "publishedNodes": 99,
+  "pendingNodes": 24,
+  "progressPercentage": 80,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 33,
-      "completed": 30
+      "completed": 33
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 14,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "probabilistic state vector decision models in production",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-02T00:01:13.329Z",
+      "filePath": "portfolio/2026-10-02-probabilistic-state-vector-decision-models-in-production.md",
+      "wordCount": 766,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "low latency deterministic ai triage system for jira",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-02T00:01:03.357Z",
+      "filePath": "portfolio/2026-10-02-low-latency-deterministic-ai-triage-system-for-jira.md",
+      "wordCount": 780,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "zero drift structured output decision engine for fintech",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-02T00:00:52.860Z",
+      "filePath": "portfolio/2026-10-02-zero-drift-structured-output-decision-engine-for-fintech.md",
+      "wordCount": 743,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "large decision model ldm architecture for algorithmic trading",
       "app": "primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 813,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated rag document indexing pipeline using n8n and pgvector",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-09-30T00:00:53.396Z",
-      "filePath": "portfolio/2026-09-30-automated-rag-document-indexing-pipeline-using-n8n-and-pgvector.md",
-      "wordCount": 824,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "hybrid langgraph and n8n production agent deployment",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-09-29T00:01:22.515Z",
-      "filePath": "portfolio/2026-09-29-hybrid-langgraph-and-n8n-production-agent-deployment.md",
-      "wordCount": 800,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "n8n dynamic credential resolution and multi tenant routing",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-09-29T00:01:09.638Z",
-      "filePath": "portfolio/2026-09-29-n8n-dynamic-credential-resolution-and-multi-tenant-routing.md",
-      "wordCount": 946,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "zero drift structured output decision engine for fintech",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "low latency deterministic ai triage system for jira",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "probabilistic state vector decision models in production",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
     {
       "keyword": "automated 3 touch cold email follow up cadence engine",
       "app": "daas.primuez.in",
@@ -167,6 +149,24 @@
     {
       "keyword": "multi domain cold outreach warmup and deliverability monitoring",
       "app": "daas.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "b2b crm pipeline automated deal stage progression webhook",
+      "app": "daas.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "hire freelance n8n workflow developer rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "autonomous multi agent systems engineer rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
       "generated": false,
       "addedAt": "2026-09-26T02:27:52.295095+00:00"
     }
