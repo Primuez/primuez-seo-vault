@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-03T00:01:49.219Z",
+  "lastSync": "2026-10-04T00:01:41.587Z",
   "totalNodes": 123,
-  "publishedNodes": 102,
-  "pendingNodes": 21,
-  "progressPercentage": 83,
+  "publishedNodes": 105,
+  "pendingNodes": 18,
+  "progressPercentage": 85,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -28,10 +28,43 @@
     },
     "daas.primuez.in": {
       "total": 14,
-      "completed": 11
+      "completed": 14
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "b2b crm pipeline automated deal stage progression webhook",
+      "app": "daas.primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-04T00:01:41.583Z",
+      "filePath": "daas/2026-10-04-b2b-crm-pipeline-automated-deal-stage-progression-webhook.md",
+      "wordCount": 939,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "multi domain cold outreach warmup and deliverability monitoring",
+      "app": "daas.primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-04T00:01:20.513Z",
+      "filePath": "daas/2026-10-04-multi-domain-cold-outreach-warmup-and-deliverability-monitoring.md",
+      "wordCount": 953,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai personalized cold outreach email generator with proof of work",
+      "app": "daas.primuez.in",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-04T00:01:02.155Z",
+      "filePath": "daas/2026-10-04-ai-personalized-cold-outreach-email-generator-with-proof-of-work.md",
+      "wordCount": 814,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "zeptomail transactional email dispatch automation with n8n",
       "app": "daas.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 780,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "zero drift structured output decision engine for fintech",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-02T00:00:52.860Z",
-      "filePath": "portfolio/2026-10-02-zero-drift-structured-output-decision-engine-for-fintech.md",
-      "wordCount": 743,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "large decision model ldm architecture for algorithmic trading",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-01T00:01:20.064Z",
-      "filePath": "portfolio/2026-10-01-large-decision-model-ldm-architecture-for-algorithmic-trading.md",
-      "wordCount": 775,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "sub 50ms typesafe ai decision models vs generative llms",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-01T00:01:08.576Z",
-      "filePath": "portfolio/2026-10-01-sub-50ms-typesafe-ai-decision-models-vs-generative-llms.md",
-      "wordCount": 984,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "ai personalized cold outreach email generator with proof of work",
-      "app": "daas.primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "multi domain cold outreach warmup and deliverability monitoring",
-      "app": "daas.primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "b2b crm pipeline automated deal stage progression webhook",
-      "app": "daas.primuez.in",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
     {
       "keyword": "hire freelance n8n workflow developer rahul kasturiya",
       "app": "linkedin.com/in/rahul-kasturiya-796910363",
@@ -167,6 +149,24 @@
     {
       "keyword": "enterprise workflow automation expert contact rahul kasturiya",
       "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "custom llm pipeline and rag engineer rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "ai commercial insurance policy exclusion and gap detector",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "automated health insurance claim denial risk analyzer",
+      "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-09-26T02:27:52.295095+00:00"
     }
