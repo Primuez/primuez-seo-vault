@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (105 Indexed)
+## Knowledge Nodes (108 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -115,3 +115,6 @@
 - [ai personalized cold outreach email generator with proof of work](https://github.com/Primuez/primuez-seo-vault/blob/main/daas/2026-10-04-ai-personalized-cold-outreach-email-generator-with-proof-of-work.md): Primuez DaaS & Lead Intelligence knowledge node.
 - [multi domain cold outreach warmup and deliverability monitoring](https://github.com/Primuez/primuez-seo-vault/blob/main/daas/2026-10-04-multi-domain-cold-outreach-warmup-and-deliverability-monitoring.md): Primuez DaaS & Lead Intelligence knowledge node.
 - [b2b crm pipeline automated deal stage progression webhook](https://github.com/Primuez/primuez-seo-vault/blob/main/daas/2026-10-04-b2b-crm-pipeline-automated-deal-stage-progression-webhook.md): Primuez DaaS & Lead Intelligence knowledge node.
+- [hire freelance n8n workflow developer rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-05-hire-freelance-n8n-workflow-developer-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.
+- [autonomous multi agent systems engineer rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-05-autonomous-multi-agent-systems-engineer-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.
+- [top ai automation consultant in india rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-05-top-ai-automation-consultant-in-india-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.

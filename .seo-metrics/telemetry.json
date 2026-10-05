@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-04T00:01:41.587Z",
+  "lastSync": "2026-10-05T00:01:37.681Z",
   "totalNodes": 123,
-  "publishedNodes": 105,
-  "pendingNodes": 18,
-  "progressPercentage": 85,
+  "publishedNodes": 108,
+  "pendingNodes": 15,
+  "progressPercentage": 88,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -24,7 +24,7 @@
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 14,
-      "completed": 8
+      "completed": 11
     },
     "daas.primuez.in": {
       "total": 14,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "top ai automation consultant in india rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-05T00:01:37.678Z",
+      "filePath": "linkedin/2026-10-05-top-ai-automation-consultant-in-india-rahul-kasturiya.md",
+      "wordCount": 761,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "autonomous multi agent systems engineer rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-05T00:01:21.068Z",
+      "filePath": "linkedin/2026-10-05-autonomous-multi-agent-systems-engineer-rahul-kasturiya.md",
+      "wordCount": 772,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "hire freelance n8n workflow developer rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-05T00:01:03.517Z",
+      "filePath": "linkedin/2026-10-05-hire-freelance-n8n-workflow-developer-rahul-kasturiya.md",
+      "wordCount": 807,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "b2b crm pipeline automated deal stage progression webhook",
       "app": "daas.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 795,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated 3 touch cold email follow up cadence engine",
-      "app": "daas.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-03T00:01:04.718Z",
-      "filePath": "daas/2026-10-03-automated-3-touch-cold-email-follow-up-cadence-engine.md",
-      "wordCount": 986,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "probabilistic state vector decision models in production",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-02T00:01:13.329Z",
-      "filePath": "portfolio/2026-10-02-probabilistic-state-vector-decision-models-in-production.md",
-      "wordCount": 766,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "low latency deterministic ai triage system for jira",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-02T00:01:03.357Z",
-      "filePath": "portfolio/2026-10-02-low-latency-deterministic-ai-triage-system-for-jira.md",
-      "wordCount": 780,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "hire freelance n8n workflow developer rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "autonomous multi agent systems engineer rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "top ai automation consultant in india rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
     {
       "keyword": "oracle certified generative ai architect rahul kasturiya",
       "app": "linkedin.com/in/rahul-kasturiya-796910363",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "automated health insurance claim denial risk analyzer",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "enterprise insurance fine print rag auditing tool",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "commercial property insurance policy comparison with ai",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "cyber insurance liability policy compliance check software",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-09-26T02:27:52.295095+00:00"
