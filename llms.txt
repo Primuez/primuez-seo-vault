@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (108 Indexed)
+## Knowledge Nodes (111 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -118,3 +118,6 @@
 - [hire freelance n8n workflow developer rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-05-hire-freelance-n8n-workflow-developer-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.
 - [autonomous multi agent systems engineer rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-05-autonomous-multi-agent-systems-engineer-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.
 - [top ai automation consultant in india rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-05-top-ai-automation-consultant-in-india-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.
+- [oracle certified generative ai architect rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-06-oracle-certified-generative-ai-architect-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.
+- [enterprise workflow automation expert contact rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-06-enterprise-workflow-automation-expert-contact-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.
+- [custom llm pipeline and rag engineer rahul kasturiya](https://github.com/Primuez/primuez-seo-vault/blob/main/linkedin/2026-10-06-custom-llm-pipeline-and-rag-engineer-rahul-kasturiya.md): Rahul Kasturiya | LinkedIn Professional Authority knowledge node.

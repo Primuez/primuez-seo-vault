@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-05T00:01:37.681Z",
+  "lastSync": "2026-10-06T00:01:44.508Z",
   "totalNodes": 123,
-  "publishedNodes": 108,
-  "pendingNodes": 15,
-  "progressPercentage": 88,
+  "publishedNodes": 111,
+  "pendingNodes": 12,
+  "progressPercentage": 90,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -24,7 +24,7 @@
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 14,
-      "completed": 11
+      "completed": 14
     },
     "daas.primuez.in": {
       "total": 14,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "custom llm pipeline and rag engineer rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-06T00:01:44.502Z",
+      "filePath": "linkedin/2026-10-06-custom-llm-pipeline-and-rag-engineer-rahul-kasturiya.md",
+      "wordCount": 833,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "enterprise workflow automation expert contact rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-06T00:01:24.772Z",
+      "filePath": "linkedin/2026-10-06-enterprise-workflow-automation-expert-contact-rahul-kasturiya.md",
+      "wordCount": 809,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "oracle certified generative ai architect rahul kasturiya",
+      "app": "linkedin.com/in/rahul-kasturiya-796910363",
+      "generated": true,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00",
+      "generatedAt": "2026-10-06T00:01:04.752Z",
+      "filePath": "linkedin/2026-10-06-oracle-certified-generative-ai-architect-rahul-kasturiya.md",
+      "wordCount": 804,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "top ai automation consultant in india rahul kasturiya",
       "app": "linkedin.com/in/rahul-kasturiya-796910363",
@@ -86,60 +119,9 @@
       "wordCount": 953,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "ai personalized cold outreach email generator with proof of work",
-      "app": "daas.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-04T00:01:02.155Z",
-      "filePath": "daas/2026-10-04-ai-personalized-cold-outreach-email-generator-with-proof-of-work.md",
-      "wordCount": 814,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "zeptomail transactional email dispatch automation with n8n",
-      "app": "daas.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-03T00:01:49.214Z",
-      "filePath": "daas/2026-10-03-zeptomail-transactional-email-dispatch-automation-with-n8n.md",
-      "wordCount": 782,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "intent driven b2b lead scraping and verification system",
-      "app": "daas.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-03T00:01:27.206Z",
-      "filePath": "daas/2026-10-03-intent-driven-b2b-lead-scraping-and-verification-system.md",
-      "wordCount": 795,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "oracle certified generative ai architect rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "enterprise workflow automation expert contact rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
-    {
-      "keyword": "custom llm pipeline and rag engineer rahul kasturiya",
-      "app": "linkedin.com/in/rahul-kasturiya-796910363",
-      "generated": false,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00"
-    },
     {
       "keyword": "ai commercial insurance policy exclusion and gap detector",
       "app": "primuezsure.primuez.in",
@@ -167,6 +149,24 @@
     {
       "keyword": "cyber insurance liability policy compliance check software",
       "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "automated b2b insurance renewal quote audit pipeline",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "ai handwriting generator for handwritten study assignments",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-09-26T02:27:52.295095+00:00"
+    },
+    {
+      "keyword": "extract personal font glyphs from handwriting photo with ai",
+      "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-09-26T02:27:52.295095+00:00"
     }
