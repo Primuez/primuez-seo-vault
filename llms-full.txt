@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (114 Indexed)
+## Knowledge Nodes (117 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -124,3 +124,6 @@
 - [ai commercial insurance policy exclusion and gap detector](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-10-07-ai-commercial-insurance-policy-exclusion-and-gap-detector.md): PrimuezSure knowledge node.
 - [automated health insurance claim denial risk analyzer](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-10-07-automated-health-insurance-claim-denial-risk-analyzer.md): PrimuezSure knowledge node.
 - [enterprise insurance fine print rag auditing tool](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-10-07-enterprise-insurance-fine-print-rag-auditing-tool.md): PrimuezSure knowledge node.
+- [commercial property insurance policy comparison with ai](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-10-08-commercial-property-insurance-policy-comparison-with-ai.md): PrimuezSure knowledge node.
+- [cyber insurance liability policy compliance check software](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-10-08-cyber-insurance-liability-policy-compliance-check-software.md): PrimuezSure knowledge node.
+- [automated b2b insurance renewal quote audit pipeline](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-10-08-automated-b2b-insurance-renewal-quote-audit-pipeline.md): PrimuezSure knowledge node.
