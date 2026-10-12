@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (123 Indexed)
+## Knowledge Nodes (126 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -133,3 +133,6 @@
 - [automated handwritten homework sheet creator online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-10-automated-handwritten-homework-sheet-creator-online.md): Ink Twin knowledge node.
 - [handwriting synthesis api for personalized student notes](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-10-handwriting-synthesis-api-for-personalized-student-notes.md): Ink Twin knowledge node.
 - [photo of handwritten notes to editable text and markdown ocr](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-10-photo-of-handwritten-notes-to-editable-text-and-markdown-ocr.md): Ink Twin knowledge node.
+- [realistic ai handwriting generator for teachers and grading](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-12-realistic-ai-handwriting-generator-for-teachers-and-grading.md): Ink Twin knowledge node.
+- [convert typed pdf lecture notes to handwritten student notebook](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-12-convert-typed-pdf-lecture-notes-to-handwritten-student-notebook.md): Ink Twin knowledge node.
+- [handwritten font synthesis from 3 sample sentences](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-12-handwritten-font-synthesis-from-3-sample-sentences.md): Ink Twin knowledge node.

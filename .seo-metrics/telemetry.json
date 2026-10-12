@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-11T04:43:08.862992+00:00",
+  "lastSync": "2026-10-12T00:01:11.067Z",
   "totalNodes": 373,
-  "publishedNodes": 123,
-  "pendingNodes": 250,
-  "progressPercentage": 33,
+  "publishedNodes": 126,
+  "pendingNodes": 247,
+  "progressPercentage": 34,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 31
+      "completed": 34
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "handwritten font synthesis from 3 sample sentences",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-12T00:01:11.061Z",
+      "filePath": "inktwin/2026-10-12-handwritten-font-synthesis-from-3-sample-sentences.md",
+      "wordCount": 876,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "convert typed pdf lecture notes to handwritten student notebook",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-12T00:00:53.845Z",
+      "filePath": "inktwin/2026-10-12-convert-typed-pdf-lecture-notes-to-handwritten-student-notebook.md",
+      "wordCount": 975,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "realistic ai handwriting generator for teachers and grading",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-12T00:00:34.953Z",
+      "filePath": "inktwin/2026-10-12-realistic-ai-handwriting-generator-for-teachers-and-grading.md",
+      "wordCount": 982,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "photo of handwritten notes to editable text and markdown ocr",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 957,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "ai handwriting generator for handwritten study assignments",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-09T00:01:00.788Z",
-      "filePath": "inktwin/2026-10-09-ai-handwriting-generator-for-handwritten-study-assignments.md",
-      "wordCount": 1020,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated b2b insurance renewal quote audit pipeline",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-08T00:01:38.115Z",
-      "filePath": "primuezsure/2026-10-08-automated-b2b-insurance-renewal-quote-audit-pipeline.md",
-      "wordCount": 951,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "cyber insurance liability policy compliance check software",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-08T00:01:14.122Z",
-      "filePath": "primuezsure/2026-10-08-cyber-insurance-liability-policy-compliance-check-software.md",
-      "wordCount": 955,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "realistic ai handwriting generator for teachers and grading",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "convert typed pdf lecture notes to handwritten student notebook",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "handwritten font synthesis from 3 sample sentences",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automated cursive handwriting generator for greeting cards",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "export custom handwriting as true type font ttf online",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "handwritten assignment simulator with natural line variations",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "convert markdown study guide to realistic handwritten notes",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai handwriting replication with realistic ink bleed and pressure",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

@@ -1225,20 +1225,35 @@
   {
     "keyword": "realistic ai handwriting generator for teachers and grading",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-12T00:00:34.953Z",
+    "filePath": "inktwin/2026-10-12-realistic-ai-handwriting-generator-for-teachers-and-grading.md",
+    "wordCount": 982,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "convert typed pdf lecture notes to handwritten student notebook",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-12T00:00:53.845Z",
+    "filePath": "inktwin/2026-10-12-convert-typed-pdf-lecture-notes-to-handwritten-student-notebook.md",
+    "wordCount": 975,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "handwritten font synthesis from 3 sample sentences",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-12T00:01:11.061Z",
+    "filePath": "inktwin/2026-10-12-handwritten-font-synthesis-from-3-sample-sentences.md",
+    "wordCount": 876,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "automated cursive handwriting generator for greeting cards",
