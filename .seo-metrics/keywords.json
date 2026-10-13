@@ -1258,20 +1258,35 @@
   {
     "keyword": "automated cursive handwriting generator for greeting cards",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-13T00:01:03.130Z",
+    "filePath": "inktwin/2026-10-13-automated-cursive-handwriting-generator-for-greeting-cards.md",
+    "wordCount": 944,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "how to turn digital text into realistic pen on paper writing",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-13T00:01:18.801Z",
+    "filePath": "inktwin/2026-10-13-how-to-turn-digital-text-into-realistic-pen-on-paper-writing.md",
+    "wordCount": 965,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "ai tool to write assignments in neat human handwriting",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-13T00:01:35.379Z",
+    "filePath": "inktwin/2026-10-13-ai-tool-to-write-assignments-in-neat-human-handwriting.md",
+    "wordCount": 1018,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "vector svg glyph extraction from handwritten scanned pages",

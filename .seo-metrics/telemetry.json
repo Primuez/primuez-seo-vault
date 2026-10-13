@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-12T00:01:11.067Z",
+  "lastSync": "2026-10-13T00:01:35.384Z",
   "totalNodes": 373,
-  "publishedNodes": 126,
-  "pendingNodes": 247,
-  "progressPercentage": 34,
+  "publishedNodes": 129,
+  "pendingNodes": 244,
+  "progressPercentage": 35,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 34
+      "completed": 37
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "ai tool to write assignments in neat human handwriting",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-13T00:01:35.379Z",
+      "filePath": "inktwin/2026-10-13-ai-tool-to-write-assignments-in-neat-human-handwriting.md",
+      "wordCount": 1018,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "how to turn digital text into realistic pen on paper writing",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-13T00:01:18.801Z",
+      "filePath": "inktwin/2026-10-13-how-to-turn-digital-text-into-realistic-pen-on-paper-writing.md",
+      "wordCount": 965,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated cursive handwriting generator for greeting cards",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-13T00:01:03.130Z",
+      "filePath": "inktwin/2026-10-13-automated-cursive-handwriting-generator-for-greeting-cards.md",
+      "wordCount": 944,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "handwritten font synthesis from 3 sample sentences",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 980,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated handwritten homework sheet creator online",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-10T00:01:07.259Z",
-      "filePath": "inktwin/2026-10-10-automated-handwritten-homework-sheet-creator-online.md",
-      "wordCount": 892,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "convert latex math equations into realistic handwriting",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-09T00:01:57.188Z",
-      "filePath": "inktwin/2026-10-09-convert-latex-math-equations-into-realistic-handwriting.md",
-      "wordCount": 928,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "extract personal font glyphs from handwriting photo with ai",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-09T00:01:24.986Z",
-      "filePath": "inktwin/2026-10-09-extract-personal-font-glyphs-from-handwriting-photo-with-ai.md",
-      "wordCount": 957,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated cursive handwriting generator for greeting cards",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "how to turn digital text into realistic pen on paper writing",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai tool to write assignments in neat human handwriting",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "vector svg glyph extraction from handwritten scanned pages",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "ai handwriting replication with realistic ink bleed and pressure",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "open source alternative to calligraphr with ai style transfer",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "turn google docs assignment into handwritten lined paper pdf",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automatic handwriting generator with realistic margin slant",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
