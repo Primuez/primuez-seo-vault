@@ -1291,20 +1291,35 @@
   {
     "keyword": "vector svg glyph extraction from handwritten scanned pages",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-14T00:00:41.623Z",
+    "filePath": "inktwin/2026-10-14-vector-svg-glyph-extraction-from-handwritten-scanned-pages.md",
+    "wordCount": 1011,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "export custom handwriting as true type font ttf online",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-14T00:01:07.233Z",
+    "filePath": "inktwin/2026-10-14-export-custom-handwriting-as-true-type-font-ttf-online.md",
+    "wordCount": 940,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "handwritten assignment simulator with natural line variations",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-14T00:01:44.023Z",
+    "filePath": "inktwin/2026-10-14-handwritten-assignment-simulator-with-natural-line-variations.md",
+    "wordCount": 928,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "convert markdown study guide to realistic handwritten notes",

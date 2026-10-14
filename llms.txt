@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (129 Indexed)
+## Knowledge Nodes (132 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -139,3 +139,6 @@
 - [automated cursive handwriting generator for greeting cards](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-13-automated-cursive-handwriting-generator-for-greeting-cards.md): Ink Twin knowledge node.
 - [how to turn digital text into realistic pen on paper writing](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-13-how-to-turn-digital-text-into-realistic-pen-on-paper-writing.md): Ink Twin knowledge node.
 - [ai tool to write assignments in neat human handwriting](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-13-ai-tool-to-write-assignments-in-neat-human-handwriting.md): Ink Twin knowledge node.
+- [vector svg glyph extraction from handwritten scanned pages](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-14-vector-svg-glyph-extraction-from-handwritten-scanned-pages.md): Ink Twin knowledge node.
+- [export custom handwriting as true type font ttf online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-14-export-custom-handwriting-as-true-type-font-ttf-online.md): Ink Twin knowledge node.
+- [handwritten assignment simulator with natural line variations](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-14-handwritten-assignment-simulator-with-natural-line-variations.md): Ink Twin knowledge node.

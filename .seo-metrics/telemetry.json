@@ -1,10 +1,10 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-13T00:01:35.384Z",
+  "lastSync": "2026-10-14T00:01:44.032Z",
   "totalNodes": 373,
-  "publishedNodes": 129,
-  "pendingNodes": 244,
+  "publishedNodes": 132,
+  "pendingNodes": 241,
   "progressPercentage": 35,
   "geoScore": 98.8,
   "aeoScore": 99.2,
@@ -12,7 +12,7 @@
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 37
+      "completed": 40
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "handwritten assignment simulator with natural line variations",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-14T00:01:44.023Z",
+      "filePath": "inktwin/2026-10-14-handwritten-assignment-simulator-with-natural-line-variations.md",
+      "wordCount": 928,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "export custom handwriting as true type font ttf online",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-14T00:01:07.233Z",
+      "filePath": "inktwin/2026-10-14-export-custom-handwriting-as-true-type-font-ttf-online.md",
+      "wordCount": 940,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "vector svg glyph extraction from handwritten scanned pages",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-14T00:00:41.623Z",
+      "filePath": "inktwin/2026-10-14-vector-svg-glyph-extraction-from-handwritten-scanned-pages.md",
+      "wordCount": 1011,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "ai tool to write assignments in neat human handwriting",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 975,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "realistic ai handwriting generator for teachers and grading",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-12T00:00:34.953Z",
-      "filePath": "inktwin/2026-10-12-realistic-ai-handwriting-generator-for-teachers-and-grading.md",
-      "wordCount": 982,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "photo of handwritten notes to editable text and markdown ocr",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-10T00:01:53.881Z",
-      "filePath": "inktwin/2026-10-10-photo-of-handwritten-notes-to-editable-text-and-markdown-ocr.md",
-      "wordCount": 862,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "handwriting synthesis api for personalized student notes",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-09-26T02:27:52.295095+00:00",
-      "generatedAt": "2026-10-10T00:01:30.973Z",
-      "filePath": "inktwin/2026-10-10-handwriting-synthesis-api-for-personalized-student-notes.md",
-      "wordCount": 980,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "vector svg glyph extraction from handwritten scanned pages",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "export custom handwriting as true type font ttf online",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "handwritten assignment simulator with natural line variations",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "convert markdown study guide to realistic handwritten notes",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "automatic handwriting generator with realistic margin slant",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "generate personalized handwritten thank you notes at scale",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "extract alphabet letters from photo of handwriting into font",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai pen stroke simulator with realistic ballpoint texture",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
