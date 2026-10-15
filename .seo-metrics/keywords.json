@@ -1324,20 +1324,35 @@
   {
     "keyword": "convert markdown study guide to realistic handwritten notes",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-15T00:00:41.030Z",
+    "filePath": "inktwin/2026-10-15-convert-markdown-study-guide-to-realistic-handwritten-notes.md",
+    "wordCount": 936,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "ai handwriting replication with realistic ink bleed and pressure",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-15T00:01:06.978Z",
+    "filePath": "inktwin/2026-10-15-ai-handwriting-replication-with-realistic-ink-bleed-and-pressure.md",
+    "wordCount": 941,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "open source alternative to calligraphr with ai style transfer",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-15T00:01:33.969Z",
+    "filePath": "inktwin/2026-10-15-open-source-alternative-to-calligraphr-with-ai-style-transfer.md",
+    "wordCount": 952,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "turn google docs assignment into handwritten lined paper pdf",

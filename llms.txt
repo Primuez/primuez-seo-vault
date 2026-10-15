@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (132 Indexed)
+## Knowledge Nodes (135 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -142,3 +142,6 @@
 - [vector svg glyph extraction from handwritten scanned pages](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-14-vector-svg-glyph-extraction-from-handwritten-scanned-pages.md): Ink Twin knowledge node.
 - [export custom handwriting as true type font ttf online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-14-export-custom-handwriting-as-true-type-font-ttf-online.md): Ink Twin knowledge node.
 - [handwritten assignment simulator with natural line variations](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-14-handwritten-assignment-simulator-with-natural-line-variations.md): Ink Twin knowledge node.
+- [convert markdown study guide to realistic handwritten notes](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-15-convert-markdown-study-guide-to-realistic-handwritten-notes.md): Ink Twin knowledge node.
+- [ai handwriting replication with realistic ink bleed and pressure](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-15-ai-handwriting-replication-with-realistic-ink-bleed-and-pressure.md): Ink Twin knowledge node.
+- [open source alternative to calligraphr with ai style transfer](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-15-open-source-alternative-to-calligraphr-with-ai-style-transfer.md): Ink Twin knowledge node.

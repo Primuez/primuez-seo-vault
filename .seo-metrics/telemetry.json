@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-14T00:01:44.032Z",
+  "lastSync": "2026-10-15T00:01:33.976Z",
   "totalNodes": 373,
-  "publishedNodes": 132,
-  "pendingNodes": 241,
-  "progressPercentage": 35,
+  "publishedNodes": 135,
+  "pendingNodes": 238,
+  "progressPercentage": 36,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 40
+      "completed": 43
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "open source alternative to calligraphr with ai style transfer",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-15T00:01:33.969Z",
+      "filePath": "inktwin/2026-10-15-open-source-alternative-to-calligraphr-with-ai-style-transfer.md",
+      "wordCount": 952,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai handwriting replication with realistic ink bleed and pressure",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-15T00:01:06.978Z",
+      "filePath": "inktwin/2026-10-15-ai-handwriting-replication-with-realistic-ink-bleed-and-pressure.md",
+      "wordCount": 941,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "convert markdown study guide to realistic handwritten notes",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-15T00:00:41.030Z",
+      "filePath": "inktwin/2026-10-15-convert-markdown-study-guide-to-realistic-handwritten-notes.md",
+      "wordCount": 936,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "handwritten assignment simulator with natural line variations",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 965,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated cursive handwriting generator for greeting cards",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-13T00:01:03.130Z",
-      "filePath": "inktwin/2026-10-13-automated-cursive-handwriting-generator-for-greeting-cards.md",
-      "wordCount": 944,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "handwritten font synthesis from 3 sample sentences",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-12T00:01:11.061Z",
-      "filePath": "inktwin/2026-10-12-handwritten-font-synthesis-from-3-sample-sentences.md",
-      "wordCount": 876,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "convert typed pdf lecture notes to handwritten student notebook",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-12T00:00:53.845Z",
-      "filePath": "inktwin/2026-10-12-convert-typed-pdf-lecture-notes-to-handwritten-student-notebook.md",
-      "wordCount": 975,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "convert markdown study guide to realistic handwritten notes",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai handwriting replication with realistic ink bleed and pressure",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "open source alternative to calligraphr with ai style transfer",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "turn google docs assignment into handwritten lined paper pdf",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "ai pen stroke simulator with realistic ballpoint texture",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "convert word document to handwritten lined notebook pages",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "handwriting font creator with ligature and cursive join support",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "natural handwriting synthesis api for edtech platforms",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
