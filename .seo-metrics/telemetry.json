@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-15T00:01:33.976Z",
+  "lastSync": "2026-10-16T00:01:22.269Z",
   "totalNodes": 373,
-  "publishedNodes": 135,
-  "pendingNodes": 238,
-  "progressPercentage": 36,
+  "publishedNodes": 138,
+  "pendingNodes": 235,
+  "progressPercentage": 37,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 43
+      "completed": 46
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "generate personalized handwritten thank you notes at scale",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-16T00:01:22.260Z",
+      "filePath": "inktwin/2026-10-16-generate-personalized-handwritten-thank-you-notes-at-scale.md",
+      "wordCount": 945,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automatic handwriting generator with realistic margin slant",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-16T00:01:01.171Z",
+      "filePath": "inktwin/2026-10-16-automatic-handwriting-generator-with-realistic-margin-slant.md",
+      "wordCount": 961,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "turn google docs assignment into handwritten lined paper pdf",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-16T00:00:41.184Z",
+      "filePath": "inktwin/2026-10-16-turn-google-docs-assignment-into-handwritten-lined-paper-pdf.md",
+      "wordCount": 911,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "open source alternative to calligraphr with ai style transfer",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 940,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "vector svg glyph extraction from handwritten scanned pages",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-14T00:00:41.623Z",
-      "filePath": "inktwin/2026-10-14-vector-svg-glyph-extraction-from-handwritten-scanned-pages.md",
-      "wordCount": 1011,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai tool to write assignments in neat human handwriting",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-13T00:01:35.379Z",
-      "filePath": "inktwin/2026-10-13-ai-tool-to-write-assignments-in-neat-human-handwriting.md",
-      "wordCount": 1018,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "how to turn digital text into realistic pen on paper writing",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-13T00:01:18.801Z",
-      "filePath": "inktwin/2026-10-13-how-to-turn-digital-text-into-realistic-pen-on-paper-writing.md",
-      "wordCount": 965,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "turn google docs assignment into handwritten lined paper pdf",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automatic handwriting generator with realistic margin slant",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "generate personalized handwritten thank you notes at scale",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "extract alphabet letters from photo of handwriting into font",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "natural handwriting synthesis api for edtech platforms",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "realistic blue ink pen writing on loose leaf paper generator",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "batch generate handwritten letters from csv data",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai generated study flashcards with authentic handwriting style",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
