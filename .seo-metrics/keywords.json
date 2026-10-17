@@ -1390,20 +1390,35 @@
   {
     "keyword": "extract alphabet letters from photo of handwriting into font",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-17T00:00:28.882Z",
+    "filePath": "inktwin/2026-10-17-extract-alphabet-letters-from-photo-of-handwriting-into-font.md",
+    "wordCount": 1012,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "ai pen stroke simulator with realistic ballpoint texture",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-17T00:00:48.394Z",
+    "filePath": "inktwin/2026-10-17-ai-pen-stroke-simulator-with-realistic-ballpoint-texture.md",
+    "wordCount": 1028,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "convert word document to handwritten lined notebook pages",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-17T00:01:08.320Z",
+    "filePath": "inktwin/2026-10-17-convert-word-document-to-handwritten-lined-notebook-pages.md",
+    "wordCount": 923,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "handwriting font creator with ligature and cursive join support",

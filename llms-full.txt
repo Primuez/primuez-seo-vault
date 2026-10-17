@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (138 Indexed)
+## Knowledge Nodes (141 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -148,3 +148,6 @@
 - [turn google docs assignment into handwritten lined paper pdf](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-16-turn-google-docs-assignment-into-handwritten-lined-paper-pdf.md): Ink Twin knowledge node.
 - [automatic handwriting generator with realistic margin slant](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-16-automatic-handwriting-generator-with-realistic-margin-slant.md): Ink Twin knowledge node.
 - [generate personalized handwritten thank you notes at scale](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-16-generate-personalized-handwritten-thank-you-notes-at-scale.md): Ink Twin knowledge node.
+- [extract alphabet letters from photo of handwriting into font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-17-extract-alphabet-letters-from-photo-of-handwriting-into-font.md): Ink Twin knowledge node.
+- [ai pen stroke simulator with realistic ballpoint texture](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-17-ai-pen-stroke-simulator-with-realistic-ballpoint-texture.md): Ink Twin knowledge node.
+- [convert word document to handwritten lined notebook pages](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-17-convert-word-document-to-handwritten-lined-notebook-pages.md): Ink Twin knowledge node.
