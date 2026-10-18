@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (141 Indexed)
+## Knowledge Nodes (144 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -151,3 +151,6 @@
 - [extract alphabet letters from photo of handwriting into font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-17-extract-alphabet-letters-from-photo-of-handwriting-into-font.md): Ink Twin knowledge node.
 - [ai pen stroke simulator with realistic ballpoint texture](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-17-ai-pen-stroke-simulator-with-realistic-ballpoint-texture.md): Ink Twin knowledge node.
 - [convert word document to handwritten lined notebook pages](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-17-convert-word-document-to-handwritten-lined-notebook-pages.md): Ink Twin knowledge node.
+- [handwriting font creator with ligature and cursive join support](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-18-handwriting-font-creator-with-ligature-and-cursive-join-support.md): Ink Twin knowledge node.
+- [natural handwriting synthesis api for edtech platforms](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-18-natural-handwriting-synthesis-api-for-edtech-platforms.md): Ink Twin knowledge node.
+- [realistic blue ink pen writing on loose leaf paper generator](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-18-realistic-blue-ink-pen-writing-on-loose-leaf-paper-generator.md): Ink Twin knowledge node.

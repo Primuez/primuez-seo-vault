@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-17T00:01:08.323Z",
+  "lastSync": "2026-10-18T00:01:29.833Z",
   "totalNodes": 373,
-  "publishedNodes": 141,
-  "pendingNodes": 232,
-  "progressPercentage": 38,
+  "publishedNodes": 144,
+  "pendingNodes": 229,
+  "progressPercentage": 39,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 49
+      "completed": 52
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "realistic blue ink pen writing on loose leaf paper generator",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-18T00:01:29.830Z",
+      "filePath": "inktwin/2026-10-18-realistic-blue-ink-pen-writing-on-loose-leaf-paper-generator.md",
+      "wordCount": 1008,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "natural handwriting synthesis api for edtech platforms",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-18T00:01:03.636Z",
+      "filePath": "inktwin/2026-10-18-natural-handwriting-synthesis-api-for-edtech-platforms.md",
+      "wordCount": 1038,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "handwriting font creator with ligature and cursive join support",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-18T00:00:34.962Z",
+      "filePath": "inktwin/2026-10-18-handwriting-font-creator-with-ligature-and-cursive-join-support.md",
+      "wordCount": 937,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "convert word document to handwritten lined notebook pages",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 961,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "turn google docs assignment into handwritten lined paper pdf",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-16T00:00:41.184Z",
-      "filePath": "inktwin/2026-10-16-turn-google-docs-assignment-into-handwritten-lined-paper-pdf.md",
-      "wordCount": 911,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "open source alternative to calligraphr with ai style transfer",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-15T00:01:33.969Z",
-      "filePath": "inktwin/2026-10-15-open-source-alternative-to-calligraphr-with-ai-style-transfer.md",
-      "wordCount": 952,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai handwriting replication with realistic ink bleed and pressure",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-15T00:01:06.978Z",
-      "filePath": "inktwin/2026-10-15-ai-handwriting-replication-with-realistic-ink-bleed-and-pressure.md",
-      "wordCount": 941,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "handwriting font creator with ligature and cursive join support",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "natural handwriting synthesis api for edtech platforms",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "realistic blue ink pen writing on loose leaf paper generator",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "batch generate handwritten letters from csv data",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "turn typed essay into realistic college ruled handwritten pages",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "dynamic pen pressure modeling in ai handwriting generation",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "realistic fountain pen calligraphy generator from plain text",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "generate handwritten exam preparation notes automatically",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

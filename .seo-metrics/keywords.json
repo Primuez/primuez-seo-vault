@@ -1423,20 +1423,35 @@
   {
     "keyword": "handwriting font creator with ligature and cursive join support",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-18T00:00:34.962Z",
+    "filePath": "inktwin/2026-10-18-handwriting-font-creator-with-ligature-and-cursive-join-support.md",
+    "wordCount": 937,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "natural handwriting synthesis api for edtech platforms",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-18T00:01:03.636Z",
+    "filePath": "inktwin/2026-10-18-natural-handwriting-synthesis-api-for-edtech-platforms.md",
+    "wordCount": 1038,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "realistic blue ink pen writing on loose leaf paper generator",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-18T00:01:29.830Z",
+    "filePath": "inktwin/2026-10-18-realistic-blue-ink-pen-writing-on-loose-leaf-paper-generator.md",
+    "wordCount": 1008,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "batch generate handwritten letters from csv data",
