@@ -1456,20 +1456,35 @@
   {
     "keyword": "batch generate handwritten letters from csv data",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-19T00:00:29.635Z",
+    "filePath": "inktwin/2026-10-19-batch-generate-handwritten-letters-from-csv-data.md",
+    "wordCount": 941,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "ai generated study flashcards with authentic handwriting style",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-19T00:00:50.397Z",
+    "filePath": "inktwin/2026-10-19-ai-generated-study-flashcards-with-authentic-handwriting-style.md",
+    "wordCount": 917,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "convert scanned class notes to searchable text and re-synthesize",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-19T00:01:08.978Z",
+    "filePath": "inktwin/2026-10-19-convert-scanned-class-notes-to-searchable-text-and-re-synthesize.md",
+    "wordCount": 953,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "handwritten homework generator that mimics student writing style",

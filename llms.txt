@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (144 Indexed)
+## Knowledge Nodes (147 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -154,3 +154,6 @@
 - [handwriting font creator with ligature and cursive join support](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-18-handwriting-font-creator-with-ligature-and-cursive-join-support.md): Ink Twin knowledge node.
 - [natural handwriting synthesis api for edtech platforms](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-18-natural-handwriting-synthesis-api-for-edtech-platforms.md): Ink Twin knowledge node.
 - [realistic blue ink pen writing on loose leaf paper generator](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-18-realistic-blue-ink-pen-writing-on-loose-leaf-paper-generator.md): Ink Twin knowledge node.
+- [batch generate handwritten letters from csv data](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-19-batch-generate-handwritten-letters-from-csv-data.md): Ink Twin knowledge node.
+- [ai generated study flashcards with authentic handwriting style](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-19-ai-generated-study-flashcards-with-authentic-handwriting-style.md): Ink Twin knowledge node.
+- [convert scanned class notes to searchable text and re-synthesize](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-19-convert-scanned-class-notes-to-searchable-text-and-re-synthesize.md): Ink Twin knowledge node.

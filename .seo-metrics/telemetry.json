@@ -1,10 +1,10 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-18T00:01:29.833Z",
+  "lastSync": "2026-10-19T00:01:08.981Z",
   "totalNodes": 373,
-  "publishedNodes": 144,
-  "pendingNodes": 229,
+  "publishedNodes": 147,
+  "pendingNodes": 226,
   "progressPercentage": 39,
   "geoScore": 98.8,
   "aeoScore": 99.2,
@@ -12,7 +12,7 @@
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 52
+      "completed": 55
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "convert scanned class notes to searchable text and re-synthesize",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-19T00:01:08.978Z",
+      "filePath": "inktwin/2026-10-19-convert-scanned-class-notes-to-searchable-text-and-re-synthesize.md",
+      "wordCount": 953,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai generated study flashcards with authentic handwriting style",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-19T00:00:50.397Z",
+      "filePath": "inktwin/2026-10-19-ai-generated-study-flashcards-with-authentic-handwriting-style.md",
+      "wordCount": 917,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "batch generate handwritten letters from csv data",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-19T00:00:29.635Z",
+      "filePath": "inktwin/2026-10-19-batch-generate-handwritten-letters-from-csv-data.md",
+      "wordCount": 941,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "realistic blue ink pen writing on loose leaf paper generator",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 1028,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "extract alphabet letters from photo of handwriting into font",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-17T00:00:28.882Z",
-      "filePath": "inktwin/2026-10-17-extract-alphabet-letters-from-photo-of-handwriting-into-font.md",
-      "wordCount": 1012,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "generate personalized handwritten thank you notes at scale",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-16T00:01:22.260Z",
-      "filePath": "inktwin/2026-10-16-generate-personalized-handwritten-thank-you-notes-at-scale.md",
-      "wordCount": 945,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automatic handwriting generator with realistic margin slant",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-16T00:01:01.171Z",
-      "filePath": "inktwin/2026-10-16-automatic-handwriting-generator-with-realistic-margin-slant.md",
-      "wordCount": 961,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "batch generate handwritten letters from csv data",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai generated study flashcards with authentic handwriting style",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "convert scanned class notes to searchable text and re-synthesize",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "handwritten homework generator that mimics student writing style",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "generate handwritten exam preparation notes automatically",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "custom handwriting font training on multi page notebook scans",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "handwriting synthesis with randomized character variations",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "realistic gel pen and pencil texture simulation for text",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
