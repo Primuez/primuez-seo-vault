@@ -1489,20 +1489,35 @@
   {
     "keyword": "handwritten homework generator that mimics student writing style",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-20T00:00:33.630Z",
+    "filePath": "inktwin/2026-10-20-handwritten-homework-generator-that-mimics-student-writing-style.md",
+    "wordCount": 936,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "turn typed essay into realistic college ruled handwritten pages",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-20T00:00:55.529Z",
+    "filePath": "inktwin/2026-10-20-turn-typed-essay-into-realistic-college-ruled-handwritten-pages.md",
+    "wordCount": 1014,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "dynamic pen pressure modeling in ai handwriting generation",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-20T00:01:20.636Z",
+    "filePath": "inktwin/2026-10-20-dynamic-pen-pressure-modeling-in-ai-handwriting-generation.md",
+    "wordCount": 953,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "realistic fountain pen calligraphy generator from plain text",

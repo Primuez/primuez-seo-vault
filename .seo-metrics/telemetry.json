@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-19T00:01:08.981Z",
+  "lastSync": "2026-10-20T00:01:20.640Z",
   "totalNodes": 373,
-  "publishedNodes": 147,
-  "pendingNodes": 226,
-  "progressPercentage": 39,
+  "publishedNodes": 150,
+  "pendingNodes": 223,
+  "progressPercentage": 40,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 55
+      "completed": 58
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "dynamic pen pressure modeling in ai handwriting generation",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-20T00:01:20.636Z",
+      "filePath": "inktwin/2026-10-20-dynamic-pen-pressure-modeling-in-ai-handwriting-generation.md",
+      "wordCount": 953,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "turn typed essay into realistic college ruled handwritten pages",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-20T00:00:55.529Z",
+      "filePath": "inktwin/2026-10-20-turn-typed-essay-into-realistic-college-ruled-handwritten-pages.md",
+      "wordCount": 1014,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "handwritten homework generator that mimics student writing style",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-20T00:00:33.630Z",
+      "filePath": "inktwin/2026-10-20-handwritten-homework-generator-that-mimics-student-writing-style.md",
+      "wordCount": 936,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "convert scanned class notes to searchable text and re-synthesize",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 1038,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "handwriting font creator with ligature and cursive join support",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-18T00:00:34.962Z",
-      "filePath": "inktwin/2026-10-18-handwriting-font-creator-with-ligature-and-cursive-join-support.md",
-      "wordCount": 937,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "convert word document to handwritten lined notebook pages",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-17T00:01:08.320Z",
-      "filePath": "inktwin/2026-10-17-convert-word-document-to-handwritten-lined-notebook-pages.md",
-      "wordCount": 923,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai pen stroke simulator with realistic ballpoint texture",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-17T00:00:48.394Z",
-      "filePath": "inktwin/2026-10-17-ai-pen-stroke-simulator-with-realistic-ballpoint-texture.md",
-      "wordCount": 1028,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "handwritten homework generator that mimics student writing style",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "turn typed essay into realistic college ruled handwritten pages",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "dynamic pen pressure modeling in ai handwriting generation",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "realistic fountain pen calligraphy generator from plain text",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "realistic gel pen and pencil texture simulation for text",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "convert notion notes to aesthetic handwritten study aesthetic",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "student assignment generator with realistic eraser marks and smudges",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "realistic left handed slant handwriting generator",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

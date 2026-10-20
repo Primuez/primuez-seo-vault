@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (147 Indexed)
+## Knowledge Nodes (150 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -157,3 +157,6 @@
 - [batch generate handwritten letters from csv data](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-19-batch-generate-handwritten-letters-from-csv-data.md): Ink Twin knowledge node.
 - [ai generated study flashcards with authentic handwriting style](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-19-ai-generated-study-flashcards-with-authentic-handwriting-style.md): Ink Twin knowledge node.
 - [convert scanned class notes to searchable text and re-synthesize](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-19-convert-scanned-class-notes-to-searchable-text-and-re-synthesize.md): Ink Twin knowledge node.
+- [handwritten homework generator that mimics student writing style](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-20-handwritten-homework-generator-that-mimics-student-writing-style.md): Ink Twin knowledge node.
+- [turn typed essay into realistic college ruled handwritten pages](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-20-turn-typed-essay-into-realistic-college-ruled-handwritten-pages.md): Ink Twin knowledge node.
+- [dynamic pen pressure modeling in ai handwriting generation](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-20-dynamic-pen-pressure-modeling-in-ai-handwriting-generation.md): Ink Twin knowledge node.
