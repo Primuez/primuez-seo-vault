@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-20T00:01:20.640Z",
+  "lastSync": "2026-10-21T00:01:21.410Z",
   "totalNodes": 373,
-  "publishedNodes": 150,
-  "pendingNodes": 223,
-  "progressPercentage": 40,
+  "publishedNodes": 153,
+  "pendingNodes": 220,
+  "progressPercentage": 41,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 58
+      "completed": 61
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "custom handwriting font training on multi page notebook scans",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-21T00:01:21.403Z",
+      "filePath": "inktwin/2026-10-21-custom-handwriting-font-training-on-multi-page-notebook-scans.md",
+      "wordCount": 1115,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "generate handwritten exam preparation notes automatically",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-21T00:00:55.935Z",
+      "filePath": "inktwin/2026-10-21-generate-handwritten-exam-preparation-notes-automatically.md",
+      "wordCount": 928,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "realistic fountain pen calligraphy generator from plain text",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-21T00:00:35.711Z",
+      "filePath": "inktwin/2026-10-21-realistic-fountain-pen-calligraphy-generator-from-plain-text.md",
+      "wordCount": 921,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "dynamic pen pressure modeling in ai handwriting generation",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 917,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "batch generate handwritten letters from csv data",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-19T00:00:29.635Z",
-      "filePath": "inktwin/2026-10-19-batch-generate-handwritten-letters-from-csv-data.md",
-      "wordCount": 941,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "realistic blue ink pen writing on loose leaf paper generator",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-18T00:01:29.830Z",
-      "filePath": "inktwin/2026-10-18-realistic-blue-ink-pen-writing-on-loose-leaf-paper-generator.md",
-      "wordCount": 1008,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "natural handwriting synthesis api for edtech platforms",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-18T00:01:03.636Z",
-      "filePath": "inktwin/2026-10-18-natural-handwriting-synthesis-api-for-edtech-platforms.md",
-      "wordCount": 1038,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "realistic fountain pen calligraphy generator from plain text",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "generate handwritten exam preparation notes automatically",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "custom handwriting font training on multi page notebook scans",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "handwriting synthesis with randomized character variations",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "realistic left handed slant handwriting generator",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "generate handwritten legal pad notes from bullet points",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "convert typed homework questions and answers to handwritten paper",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai handwritten letter generator with mail merge integration",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

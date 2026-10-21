@@ -1522,20 +1522,35 @@
   {
     "keyword": "realistic fountain pen calligraphy generator from plain text",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-21T00:00:35.711Z",
+    "filePath": "inktwin/2026-10-21-realistic-fountain-pen-calligraphy-generator-from-plain-text.md",
+    "wordCount": 921,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "generate handwritten exam preparation notes automatically",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-21T00:00:55.935Z",
+    "filePath": "inktwin/2026-10-21-generate-handwritten-exam-preparation-notes-automatically.md",
+    "wordCount": 928,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "custom handwriting font training on multi page notebook scans",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-21T00:01:21.403Z",
+    "filePath": "inktwin/2026-10-21-custom-handwriting-font-training-on-multi-page-notebook-scans.md",
+    "wordCount": 1115,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "handwriting synthesis with randomized character variations",
