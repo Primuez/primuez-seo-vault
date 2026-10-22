@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-21T00:01:21.410Z",
+  "lastSync": "2026-10-22T00:01:17.248Z",
   "totalNodes": 373,
-  "publishedNodes": 153,
-  "pendingNodes": 220,
-  "progressPercentage": 41,
+  "publishedNodes": 156,
+  "pendingNodes": 217,
+  "progressPercentage": 42,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 61
+      "completed": 64
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "convert notion notes to aesthetic handwritten study aesthetic",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-22T00:01:17.244Z",
+      "filePath": "inktwin/2026-10-22-convert-notion-notes-to-aesthetic-handwritten-study-aesthetic.md",
+      "wordCount": 972,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "realistic gel pen and pencil texture simulation for text",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-22T00:00:57.362Z",
+      "filePath": "inktwin/2026-10-22-realistic-gel-pen-and-pencil-texture-simulation-for-text.md",
+      "wordCount": 1029,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "handwriting synthesis with randomized character variations",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-22T00:00:33.859Z",
+      "filePath": "inktwin/2026-10-22-handwriting-synthesis-with-randomized-character-variations.md",
+      "wordCount": 1018,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "custom handwriting font training on multi page notebook scans",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 1014,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "handwritten homework generator that mimics student writing style",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-20T00:00:33.630Z",
-      "filePath": "inktwin/2026-10-20-handwritten-homework-generator-that-mimics-student-writing-style.md",
-      "wordCount": 936,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "convert scanned class notes to searchable text and re-synthesize",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-19T00:01:08.978Z",
-      "filePath": "inktwin/2026-10-19-convert-scanned-class-notes-to-searchable-text-and-re-synthesize.md",
-      "wordCount": 953,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai generated study flashcards with authentic handwriting style",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-19T00:00:50.397Z",
-      "filePath": "inktwin/2026-10-19-ai-generated-study-flashcards-with-authentic-handwriting-style.md",
-      "wordCount": 917,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "handwriting synthesis with randomized character variations",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "realistic gel pen and pencil texture simulation for text",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "convert notion notes to aesthetic handwritten study aesthetic",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "student assignment generator with realistic eraser marks and smudges",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "ai handwritten letter generator with mail merge integration",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "vector font generator from photo of paper alphabet sheet",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "handwritten math equations and formula generator online",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "generate handwritten recipes from text with custom script font",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

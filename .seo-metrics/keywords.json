@@ -1555,20 +1555,35 @@
   {
     "keyword": "handwriting synthesis with randomized character variations",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-22T00:00:33.859Z",
+    "filePath": "inktwin/2026-10-22-handwriting-synthesis-with-randomized-character-variations.md",
+    "wordCount": 1018,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "realistic gel pen and pencil texture simulation for text",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-22T00:00:57.362Z",
+    "filePath": "inktwin/2026-10-22-realistic-gel-pen-and-pencil-texture-simulation-for-text.md",
+    "wordCount": 1029,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "convert notion notes to aesthetic handwritten study aesthetic",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-22T00:01:17.244Z",
+    "filePath": "inktwin/2026-10-22-convert-notion-notes-to-aesthetic-handwritten-study-aesthetic.md",
+    "wordCount": 972,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "student assignment generator with realistic eraser marks and smudges",
