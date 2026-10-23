@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (156 Indexed)
+## Knowledge Nodes (159 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -166,3 +166,6 @@
 - [handwriting synthesis with randomized character variations](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-22-handwriting-synthesis-with-randomized-character-variations.md): Ink Twin knowledge node.
 - [realistic gel pen and pencil texture simulation for text](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-22-realistic-gel-pen-and-pencil-texture-simulation-for-text.md): Ink Twin knowledge node.
 - [convert notion notes to aesthetic handwritten study aesthetic](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-22-convert-notion-notes-to-aesthetic-handwritten-study-aesthetic.md): Ink Twin knowledge node.
+- [student assignment generator with realistic eraser marks and smudges](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-23-student-assignment-generator-with-realistic-eraser-marks-and-smudges.md): Ink Twin knowledge node.
+- [realistic left handed slant handwriting generator](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-23-realistic-left-handed-slant-handwriting-generator.md): Ink Twin knowledge node.
+- [generate handwritten legal pad notes from bullet points](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-23-generate-handwritten-legal-pad-notes-from-bullet-points.md): Ink Twin knowledge node.

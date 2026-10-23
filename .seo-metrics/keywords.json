@@ -1588,20 +1588,35 @@
   {
     "keyword": "student assignment generator with realistic eraser marks and smudges",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-23T00:00:33.209Z",
+    "filePath": "inktwin/2026-10-23-student-assignment-generator-with-realistic-eraser-marks-and-smudges.md",
+    "wordCount": 976,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "realistic left handed slant handwriting generator",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-23T00:00:58.085Z",
+    "filePath": "inktwin/2026-10-23-realistic-left-handed-slant-handwriting-generator.md",
+    "wordCount": 913,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "generate handwritten legal pad notes from bullet points",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-23T00:01:19.341Z",
+    "filePath": "inktwin/2026-10-23-generate-handwritten-legal-pad-notes-from-bullet-points.md",
+    "wordCount": 964,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "convert typed homework questions and answers to handwritten paper",
