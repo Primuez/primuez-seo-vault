@@ -1,10 +1,10 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-23T00:01:19.354Z",
+  "lastSync": "2026-10-24T00:01:24.467Z",
   "totalNodes": 373,
-  "publishedNodes": 159,
-  "pendingNodes": 214,
+  "publishedNodes": 162,
+  "pendingNodes": 211,
   "progressPercentage": 43,
   "geoScore": 98.8,
   "aeoScore": 99.2,
@@ -12,7 +12,7 @@
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 67
+      "completed": 70
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "vector font generator from photo of paper alphabet sheet",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-24T00:01:24.461Z",
+      "filePath": "inktwin/2026-10-24-vector-font-generator-from-photo-of-paper-alphabet-sheet.md",
+      "wordCount": 1002,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai handwritten letter generator with mail merge integration",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-24T00:00:59.553Z",
+      "filePath": "inktwin/2026-10-24-ai-handwritten-letter-generator-with-mail-merge-integration.md",
+      "wordCount": 912,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "convert typed homework questions and answers to handwritten paper",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-24T00:00:34.937Z",
+      "filePath": "inktwin/2026-10-24-convert-typed-homework-questions-and-answers-to-handwritten-paper.md",
+      "wordCount": 1017,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "generate handwritten legal pad notes from bullet points",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 1029,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "handwriting synthesis with randomized character variations",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-22T00:00:33.859Z",
-      "filePath": "inktwin/2026-10-22-handwriting-synthesis-with-randomized-character-variations.md",
-      "wordCount": 1018,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "custom handwriting font training on multi page notebook scans",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-21T00:01:21.403Z",
-      "filePath": "inktwin/2026-10-21-custom-handwriting-font-training-on-multi-page-notebook-scans.md",
-      "wordCount": 1115,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "generate handwritten exam preparation notes automatically",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-21T00:00:55.935Z",
-      "filePath": "inktwin/2026-10-21-generate-handwritten-exam-preparation-notes-automatically.md",
-      "wordCount": 928,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "convert typed homework questions and answers to handwritten paper",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai handwritten letter generator with mail merge integration",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "vector font generator from photo of paper alphabet sheet",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "handwritten math equations and formula generator online",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "synthetic handwriting dataset generator for ocr training",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "handwriting font generator with realistic baseline drift",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "convert typed flashcards to handwritten index cards",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "realistic pencil sketch and handwriting notebook generator",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (159 Indexed)
+## Knowledge Nodes (162 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -169,3 +169,6 @@
 - [student assignment generator with realistic eraser marks and smudges](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-23-student-assignment-generator-with-realistic-eraser-marks-and-smudges.md): Ink Twin knowledge node.
 - [realistic left handed slant handwriting generator](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-23-realistic-left-handed-slant-handwriting-generator.md): Ink Twin knowledge node.
 - [generate handwritten legal pad notes from bullet points](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-23-generate-handwritten-legal-pad-notes-from-bullet-points.md): Ink Twin knowledge node.
+- [convert typed homework questions and answers to handwritten paper](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-24-convert-typed-homework-questions-and-answers-to-handwritten-paper.md): Ink Twin knowledge node.
+- [ai handwritten letter generator with mail merge integration](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-24-ai-handwritten-letter-generator-with-mail-merge-integration.md): Ink Twin knowledge node.
+- [vector font generator from photo of paper alphabet sheet](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-24-vector-font-generator-from-photo-of-paper-alphabet-sheet.md): Ink Twin knowledge node.
