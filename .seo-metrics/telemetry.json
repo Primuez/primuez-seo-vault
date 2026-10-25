@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-24T00:01:24.467Z",
+  "lastSync": "2026-10-25T00:01:24.525Z",
   "totalNodes": 373,
-  "publishedNodes": 162,
-  "pendingNodes": 211,
-  "progressPercentage": 43,
+  "publishedNodes": 165,
+  "pendingNodes": 208,
+  "progressPercentage": 44,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 70
+      "completed": 73
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "convert digital books into handwritten journal format",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-25T00:01:24.518Z",
+      "filePath": "inktwin/2026-10-25-convert-digital-books-into-handwritten-journal-format.md",
+      "wordCount": 944,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "generate handwritten recipes from text with custom script font",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-25T00:01:00.684Z",
+      "filePath": "inktwin/2026-10-25-generate-handwritten-recipes-from-text-with-custom-script-font.md",
+      "wordCount": 946,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "handwritten math equations and formula generator online",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-25T00:00:36.012Z",
+      "filePath": "inktwin/2026-10-25-handwritten-math-equations-and-formula-generator-online.md",
+      "wordCount": 958,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "vector font generator from photo of paper alphabet sheet",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 913,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "student assignment generator with realistic eraser marks and smudges",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-23T00:00:33.209Z",
-      "filePath": "inktwin/2026-10-23-student-assignment-generator-with-realistic-eraser-marks-and-smudges.md",
-      "wordCount": 976,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "convert notion notes to aesthetic handwritten study aesthetic",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-22T00:01:17.244Z",
-      "filePath": "inktwin/2026-10-22-convert-notion-notes-to-aesthetic-handwritten-study-aesthetic.md",
-      "wordCount": 972,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "realistic gel pen and pencil texture simulation for text",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-22T00:00:57.362Z",
-      "filePath": "inktwin/2026-10-22-realistic-gel-pen-and-pencil-texture-simulation-for-text.md",
-      "wordCount": 1029,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "handwritten math equations and formula generator online",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "generate handwritten recipes from text with custom script font",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "convert digital books into handwritten journal format",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "ai cursive writing generator with connected script letters",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "realistic pencil sketch and handwriting notebook generator",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "generate handwritten laboratory reports from raw data",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "realistic ballpoint pen handwriting effect for graphic design",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai handwriting style mimicry without mechanical repetition",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

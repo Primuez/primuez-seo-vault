@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (162 Indexed)
+## Knowledge Nodes (165 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -172,3 +172,6 @@
 - [convert typed homework questions and answers to handwritten paper](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-24-convert-typed-homework-questions-and-answers-to-handwritten-paper.md): Ink Twin knowledge node.
 - [ai handwritten letter generator with mail merge integration](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-24-ai-handwritten-letter-generator-with-mail-merge-integration.md): Ink Twin knowledge node.
 - [vector font generator from photo of paper alphabet sheet](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-24-vector-font-generator-from-photo-of-paper-alphabet-sheet.md): Ink Twin knowledge node.
+- [handwritten math equations and formula generator online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-25-handwritten-math-equations-and-formula-generator-online.md): Ink Twin knowledge node.
+- [generate handwritten recipes from text with custom script font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-25-generate-handwritten-recipes-from-text-with-custom-script-font.md): Ink Twin knowledge node.
+- [convert digital books into handwritten journal format](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-25-convert-digital-books-into-handwritten-journal-format.md): Ink Twin knowledge node.
