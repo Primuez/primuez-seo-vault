@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-25T00:01:24.525Z",
+  "lastSync": "2026-10-26T00:01:22.121Z",
   "totalNodes": 373,
-  "publishedNodes": 165,
-  "pendingNodes": 208,
-  "progressPercentage": 44,
+  "publishedNodes": 168,
+  "pendingNodes": 205,
+  "progressPercentage": 45,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 73
+      "completed": 76
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "handwriting font generator with realistic baseline drift",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-26T00:01:22.118Z",
+      "filePath": "inktwin/2026-10-26-handwriting-font-generator-with-realistic-baseline-drift.md",
+      "wordCount": 908,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "synthetic handwriting dataset generator for ocr training",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-26T00:01:01.716Z",
+      "filePath": "inktwin/2026-10-26-synthetic-handwriting-dataset-generator-for-ocr-training.md",
+      "wordCount": 925,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai cursive writing generator with connected script letters",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-26T00:00:39.320Z",
+      "filePath": "inktwin/2026-10-26-ai-cursive-writing-generator-with-connected-script-letters.md",
+      "wordCount": 930,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "convert digital books into handwritten journal format",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 912,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "convert typed homework questions and answers to handwritten paper",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-24T00:00:34.937Z",
-      "filePath": "inktwin/2026-10-24-convert-typed-homework-questions-and-answers-to-handwritten-paper.md",
-      "wordCount": 1017,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "generate handwritten legal pad notes from bullet points",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-23T00:01:19.341Z",
-      "filePath": "inktwin/2026-10-23-generate-handwritten-legal-pad-notes-from-bullet-points.md",
-      "wordCount": 964,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "realistic left handed slant handwriting generator",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-23T00:00:58.085Z",
-      "filePath": "inktwin/2026-10-23-realistic-left-handed-slant-handwriting-generator.md",
-      "wordCount": 913,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "ai cursive writing generator with connected script letters",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "synthetic handwriting dataset generator for ocr training",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "handwriting font generator with realistic baseline drift",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "convert typed flashcards to handwritten index cards",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "ai handwriting style mimicry without mechanical repetition",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "convert digital code snippets to stylized handwritten notes",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "generate authentic handwritten apology letters from templates",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "custom signature and cursive handwriting vector generator",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

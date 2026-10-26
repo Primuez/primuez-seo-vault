@@ -1687,20 +1687,35 @@
   {
     "keyword": "ai cursive writing generator with connected script letters",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-26T00:00:39.320Z",
+    "filePath": "inktwin/2026-10-26-ai-cursive-writing-generator-with-connected-script-letters.md",
+    "wordCount": 930,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "synthetic handwriting dataset generator for ocr training",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-26T00:01:01.716Z",
+    "filePath": "inktwin/2026-10-26-synthetic-handwriting-dataset-generator-for-ocr-training.md",
+    "wordCount": 925,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "handwriting font generator with realistic baseline drift",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-26T00:01:22.118Z",
+    "filePath": "inktwin/2026-10-26-handwriting-font-generator-with-realistic-baseline-drift.md",
+    "wordCount": 908,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "convert typed flashcards to handwritten index cards",
