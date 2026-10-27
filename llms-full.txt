@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (168 Indexed)
+## Knowledge Nodes (171 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -178,3 +178,6 @@
 - [ai cursive writing generator with connected script letters](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-26-ai-cursive-writing-generator-with-connected-script-letters.md): Ink Twin knowledge node.
 - [synthetic handwriting dataset generator for ocr training](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-26-synthetic-handwriting-dataset-generator-for-ocr-training.md): Ink Twin knowledge node.
 - [handwriting font generator with realistic baseline drift](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-26-handwriting-font-generator-with-realistic-baseline-drift.md): Ink Twin knowledge node.
+- [convert typed flashcards to handwritten index cards](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-27-convert-typed-flashcards-to-handwritten-index-cards.md): Ink Twin knowledge node.
+- [realistic pencil sketch and handwriting notebook generator](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-27-realistic-pencil-sketch-and-handwriting-notebook-generator.md): Ink Twin knowledge node.
+- [generate handwritten laboratory reports from raw data](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-27-generate-handwritten-laboratory-reports-from-raw-data.md): Ink Twin knowledge node.

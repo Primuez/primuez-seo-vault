@@ -1720,20 +1720,35 @@
   {
     "keyword": "convert typed flashcards to handwritten index cards",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-27T00:00:44.075Z",
+    "filePath": "inktwin/2026-10-27-convert-typed-flashcards-to-handwritten-index-cards.md",
+    "wordCount": 988,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "realistic pencil sketch and handwriting notebook generator",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-27T00:01:07.247Z",
+    "filePath": "inktwin/2026-10-27-realistic-pencil-sketch-and-handwriting-notebook-generator.md",
+    "wordCount": 974,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "generate handwritten laboratory reports from raw data",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-27T00:01:27.739Z",
+    "filePath": "inktwin/2026-10-27-generate-handwritten-laboratory-reports-from-raw-data.md",
+    "wordCount": 942,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "realistic ballpoint pen handwriting effect for graphic design",

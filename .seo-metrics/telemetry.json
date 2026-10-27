@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-26T00:01:22.121Z",
+  "lastSync": "2026-10-27T00:01:27.746Z",
   "totalNodes": 373,
-  "publishedNodes": 168,
-  "pendingNodes": 205,
-  "progressPercentage": 45,
+  "publishedNodes": 171,
+  "pendingNodes": 202,
+  "progressPercentage": 46,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 76
+      "completed": 79
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "generate handwritten laboratory reports from raw data",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-27T00:01:27.739Z",
+      "filePath": "inktwin/2026-10-27-generate-handwritten-laboratory-reports-from-raw-data.md",
+      "wordCount": 942,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "realistic pencil sketch and handwriting notebook generator",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-27T00:01:07.247Z",
+      "filePath": "inktwin/2026-10-27-realistic-pencil-sketch-and-handwriting-notebook-generator.md",
+      "wordCount": 974,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "convert typed flashcards to handwritten index cards",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-27T00:00:44.075Z",
+      "filePath": "inktwin/2026-10-27-convert-typed-flashcards-to-handwritten-index-cards.md",
+      "wordCount": 988,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "handwriting font generator with realistic baseline drift",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 946,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "handwritten math equations and formula generator online",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-25T00:00:36.012Z",
-      "filePath": "inktwin/2026-10-25-handwritten-math-equations-and-formula-generator-online.md",
-      "wordCount": 958,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "vector font generator from photo of paper alphabet sheet",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-24T00:01:24.461Z",
-      "filePath": "inktwin/2026-10-24-vector-font-generator-from-photo-of-paper-alphabet-sheet.md",
-      "wordCount": 1002,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai handwritten letter generator with mail merge integration",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-24T00:00:59.553Z",
-      "filePath": "inktwin/2026-10-24-ai-handwritten-letter-generator-with-mail-merge-integration.md",
-      "wordCount": 912,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "convert typed flashcards to handwritten index cards",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "realistic pencil sketch and handwriting notebook generator",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "generate handwritten laboratory reports from raw data",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "realistic ballpoint pen handwriting effect for graphic design",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "custom signature and cursive handwriting vector generator",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "turn scanned teacher feedback into handwritten digital annotations",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "batch convert customer support notes to handwritten style cards",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "realistic paper texture and ink absorption generator for handwriting",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
