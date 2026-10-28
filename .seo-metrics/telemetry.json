@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-27T00:01:27.746Z",
+  "lastSync": "2026-10-28T00:01:33.437Z",
   "totalNodes": 373,
-  "publishedNodes": 171,
-  "pendingNodes": 202,
-  "progressPercentage": 46,
+  "publishedNodes": 174,
+  "pendingNodes": 199,
+  "progressPercentage": 47,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 79
+      "completed": 82
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "convert digital code snippets to stylized handwritten notes",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-28T00:01:33.433Z",
+      "filePath": "inktwin/2026-10-28-convert-digital-code-snippets-to-stylized-handwritten-notes.md",
+      "wordCount": 889,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai handwriting style mimicry without mechanical repetition",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-28T00:01:10.791Z",
+      "filePath": "inktwin/2026-10-28-ai-handwriting-style-mimicry-without-mechanical-repetition.md",
+      "wordCount": 960,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "realistic ballpoint pen handwriting effect for graphic design",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-28T00:00:44.954Z",
+      "filePath": "inktwin/2026-10-28-realistic-ballpoint-pen-handwriting-effect-for-graphic-design.md",
+      "wordCount": 958,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "generate handwritten laboratory reports from raw data",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 925,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "ai cursive writing generator with connected script letters",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-26T00:00:39.320Z",
-      "filePath": "inktwin/2026-10-26-ai-cursive-writing-generator-with-connected-script-letters.md",
-      "wordCount": 930,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "convert digital books into handwritten journal format",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-25T00:01:24.518Z",
-      "filePath": "inktwin/2026-10-25-convert-digital-books-into-handwritten-journal-format.md",
-      "wordCount": 944,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "generate handwritten recipes from text with custom script font",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-25T00:01:00.684Z",
-      "filePath": "inktwin/2026-10-25-generate-handwritten-recipes-from-text-with-custom-script-font.md",
-      "wordCount": 946,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "realistic ballpoint pen handwriting effect for graphic design",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai handwriting style mimicry without mechanical repetition",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "convert digital code snippets to stylized handwritten notes",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "generate authentic handwritten apology letters from templates",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "realistic paper texture and ink absorption generator for handwriting",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "handwriting synthesis engine for personalized direct mail marketing",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "convert typed poetry to vintage handwritten manuscript format",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "realistic handwriting overlay on crumpled paper background",
       "app": "inktwin.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
