@@ -1786,20 +1786,35 @@
   {
     "keyword": "generate authentic handwritten apology letters from templates",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-29T00:00:32.897Z",
+    "filePath": "inktwin/2026-10-29-generate-authentic-handwritten-apology-letters-from-templates.md",
+    "wordCount": 919,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "custom signature and cursive handwriting vector generator",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-29T00:00:55.071Z",
+    "filePath": "inktwin/2026-10-29-custom-signature-and-cursive-handwriting-vector-generator.md",
+    "wordCount": 964,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "turn scanned teacher feedback into handwritten digital annotations",
     "app": "inktwin.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-10-29T00:01:21.333Z",
+    "filePath": "inktwin/2026-10-29-turn-scanned-teacher-feedback-into-handwritten-digital-annotations.md",
+    "wordCount": 996,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "batch convert customer support notes to handwritten style cards",

@@ -1,10 +1,10 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-28T00:01:33.437Z",
+  "lastSync": "2026-10-29T00:01:21.338Z",
   "totalNodes": 373,
-  "publishedNodes": 174,
-  "pendingNodes": 199,
+  "publishedNodes": 177,
+  "pendingNodes": 196,
   "progressPercentage": 47,
   "geoScore": 98.8,
   "aeoScore": 99.2,
@@ -12,7 +12,7 @@
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 82
+      "completed": 85
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "turn scanned teacher feedback into handwritten digital annotations",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-29T00:01:21.333Z",
+      "filePath": "inktwin/2026-10-29-turn-scanned-teacher-feedback-into-handwritten-digital-annotations.md",
+      "wordCount": 996,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "custom signature and cursive handwriting vector generator",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-29T00:00:55.071Z",
+      "filePath": "inktwin/2026-10-29-custom-signature-and-cursive-handwriting-vector-generator.md",
+      "wordCount": 964,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "generate authentic handwritten apology letters from templates",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-29T00:00:32.897Z",
+      "filePath": "inktwin/2026-10-29-generate-authentic-handwritten-apology-letters-from-templates.md",
+      "wordCount": 919,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "convert digital code snippets to stylized handwritten notes",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 974,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "convert typed flashcards to handwritten index cards",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-27T00:00:44.075Z",
-      "filePath": "inktwin/2026-10-27-convert-typed-flashcards-to-handwritten-index-cards.md",
-      "wordCount": 988,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "handwriting font generator with realistic baseline drift",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-26T00:01:22.118Z",
-      "filePath": "inktwin/2026-10-26-handwriting-font-generator-with-realistic-baseline-drift.md",
-      "wordCount": 908,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "synthetic handwriting dataset generator for ocr training",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-26T00:01:01.716Z",
-      "filePath": "inktwin/2026-10-26-synthetic-handwriting-dataset-generator-for-ocr-training.md",
-      "wordCount": 925,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "generate authentic handwritten apology letters from templates",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "custom signature and cursive handwriting vector generator",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "turn scanned teacher feedback into handwritten digital annotations",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "batch convert customer support notes to handwritten style cards",
       "app": "inktwin.primuez.in",
@@ -167,6 +149,24 @@
     {
       "keyword": "realistic handwriting overlay on crumpled paper background",
       "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated handwriting font generator for procreate and goodnotes",
+      "app": "inktwin.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai commercial insurance policy comparison and risk evaluation",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated hidden exclusion detection in enterprise cyber insurance",
+      "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
     }

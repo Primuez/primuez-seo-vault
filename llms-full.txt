@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (174 Indexed)
+## Knowledge Nodes (177 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -184,3 +184,6 @@
 - [realistic ballpoint pen handwriting effect for graphic design](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-28-realistic-ballpoint-pen-handwriting-effect-for-graphic-design.md): Ink Twin knowledge node.
 - [ai handwriting style mimicry without mechanical repetition](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-28-ai-handwriting-style-mimicry-without-mechanical-repetition.md): Ink Twin knowledge node.
 - [convert digital code snippets to stylized handwritten notes](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-28-convert-digital-code-snippets-to-stylized-handwritten-notes.md): Ink Twin knowledge node.
+- [generate authentic handwritten apology letters from templates](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-29-generate-authentic-handwritten-apology-letters-from-templates.md): Ink Twin knowledge node.
+- [custom signature and cursive handwriting vector generator](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-29-custom-signature-and-cursive-handwriting-vector-generator.md): Ink Twin knowledge node.
+- [turn scanned teacher feedback into handwritten digital annotations](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-29-turn-scanned-teacher-feedback-into-handwritten-digital-annotations.md): Ink Twin knowledge node.
