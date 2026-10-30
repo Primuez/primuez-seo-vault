@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-29T00:01:21.338Z",
+  "lastSync": "2026-10-30T00:01:34.313Z",
   "totalNodes": 373,
-  "publishedNodes": 177,
-  "pendingNodes": 196,
-  "progressPercentage": 47,
+  "publishedNodes": 180,
+  "pendingNodes": 193,
+  "progressPercentage": 48,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 85
+      "completed": 88
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "handwriting synthesis engine for personalized direct mail marketing",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-30T00:01:34.306Z",
+      "filePath": "inktwin/2026-10-30-handwriting-synthesis-engine-for-personalized-direct-mail-marketing.md",
+      "wordCount": 942,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "realistic paper texture and ink absorption generator for handwriting",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-30T00:01:11.989Z",
+      "filePath": "inktwin/2026-10-30-realistic-paper-texture-and-ink-absorption-generator-for-handwriting.md",
+      "wordCount": 970,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "batch convert customer support notes to handwritten style cards",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-30T00:00:43.244Z",
+      "filePath": "inktwin/2026-10-30-batch-convert-customer-support-notes-to-handwritten-style-cards.md",
+      "wordCount": 982,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "turn scanned teacher feedback into handwritten digital annotations",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 960,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "realistic ballpoint pen handwriting effect for graphic design",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-28T00:00:44.954Z",
-      "filePath": "inktwin/2026-10-28-realistic-ballpoint-pen-handwriting-effect-for-graphic-design.md",
-      "wordCount": 958,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "generate handwritten laboratory reports from raw data",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-27T00:01:27.739Z",
-      "filePath": "inktwin/2026-10-27-generate-handwritten-laboratory-reports-from-raw-data.md",
-      "wordCount": 942,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "realistic pencil sketch and handwriting notebook generator",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-27T00:01:07.247Z",
-      "filePath": "inktwin/2026-10-27-realistic-pencil-sketch-and-handwriting-notebook-generator.md",
-      "wordCount": 974,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "batch convert customer support notes to handwritten style cards",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "realistic paper texture and ink absorption generator for handwriting",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "handwriting synthesis engine for personalized direct mail marketing",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "convert typed poetry to vintage handwritten manuscript format",
       "app": "inktwin.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "automated hidden exclusion detection in enterprise cyber insurance",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "b2b policy fine print audit with rag and vector embeddings",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai health insurance claim denial prediction and appeal generator",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "enterprise property and casualty policy gap analyzer",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

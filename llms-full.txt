@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (177 Indexed)
+## Knowledge Nodes (180 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -187,3 +187,6 @@
 - [generate authentic handwritten apology letters from templates](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-29-generate-authentic-handwritten-apology-letters-from-templates.md): Ink Twin knowledge node.
 - [custom signature and cursive handwriting vector generator](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-29-custom-signature-and-cursive-handwriting-vector-generator.md): Ink Twin knowledge node.
 - [turn scanned teacher feedback into handwritten digital annotations](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-29-turn-scanned-teacher-feedback-into-handwritten-digital-annotations.md): Ink Twin knowledge node.
+- [batch convert customer support notes to handwritten style cards](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-30-batch-convert-customer-support-notes-to-handwritten-style-cards.md): Ink Twin knowledge node.
+- [realistic paper texture and ink absorption generator for handwriting](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-30-realistic-paper-texture-and-ink-absorption-generator-for-handwriting.md): Ink Twin knowledge node.
+- [handwriting synthesis engine for personalized direct mail marketing](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-30-handwriting-synthesis-engine-for-personalized-direct-mail-marketing.md): Ink Twin knowledge node.
