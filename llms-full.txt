@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (180 Indexed)
+## Knowledge Nodes (183 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -190,3 +190,6 @@
 - [batch convert customer support notes to handwritten style cards](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-30-batch-convert-customer-support-notes-to-handwritten-style-cards.md): Ink Twin knowledge node.
 - [realistic paper texture and ink absorption generator for handwriting](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-30-realistic-paper-texture-and-ink-absorption-generator-for-handwriting.md): Ink Twin knowledge node.
 - [handwriting synthesis engine for personalized direct mail marketing](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-30-handwriting-synthesis-engine-for-personalized-direct-mail-marketing.md): Ink Twin knowledge node.
+- [convert typed poetry to vintage handwritten manuscript format](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-31-convert-typed-poetry-to-vintage-handwritten-manuscript-format.md): Ink Twin knowledge node.
+- [realistic handwriting overlay on crumpled paper background](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-31-realistic-handwriting-overlay-on-crumpled-paper-background.md): Ink Twin knowledge node.
+- [automated handwriting font generator for procreate and goodnotes](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-10-31-automated-handwriting-font-generator-for-procreate-and-goodnotes.md): Ink Twin knowledge node.

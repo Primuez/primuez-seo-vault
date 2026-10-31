@@ -1,18 +1,18 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-30T00:01:34.313Z",
+  "lastSync": "2026-10-31T00:01:37.510Z",
   "totalNodes": 373,
-  "publishedNodes": 180,
-  "pendingNodes": 193,
-  "progressPercentage": 48,
+  "publishedNodes": 183,
+  "pendingNodes": 190,
+  "progressPercentage": 49,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
   "domainStats": {
     "inktwin.primuez.in": {
       "total": 91,
-      "completed": 88
+      "completed": 91
     },
     "primuezsure.primuez.in": {
       "total": 91,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "automated handwriting font generator for procreate and goodnotes",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-31T00:01:37.507Z",
+      "filePath": "inktwin/2026-10-31-automated-handwriting-font-generator-for-procreate-and-goodnotes.md",
+      "wordCount": 1018,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "realistic handwriting overlay on crumpled paper background",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-31T00:01:11.642Z",
+      "filePath": "inktwin/2026-10-31-realistic-handwriting-overlay-on-crumpled-paper-background.md",
+      "wordCount": 924,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "convert typed poetry to vintage handwritten manuscript format",
+      "app": "inktwin.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-10-31T00:00:46.026Z",
+      "filePath": "inktwin/2026-10-31-convert-typed-poetry-to-vintage-handwritten-manuscript-format.md",
+      "wordCount": 784,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "handwriting synthesis engine for personalized direct mail marketing",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 964,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "generate authentic handwritten apology letters from templates",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-29T00:00:32.897Z",
-      "filePath": "inktwin/2026-10-29-generate-authentic-handwritten-apology-letters-from-templates.md",
-      "wordCount": 919,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "convert digital code snippets to stylized handwritten notes",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-28T00:01:33.433Z",
-      "filePath": "inktwin/2026-10-28-convert-digital-code-snippets-to-stylized-handwritten-notes.md",
-      "wordCount": 889,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai handwriting style mimicry without mechanical repetition",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-28T00:01:10.791Z",
-      "filePath": "inktwin/2026-10-28-ai-handwriting-style-mimicry-without-mechanical-repetition.md",
-      "wordCount": 960,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "convert typed poetry to vintage handwritten manuscript format",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "realistic handwriting overlay on crumpled paper background",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automated handwriting font generator for procreate and goodnotes",
-      "app": "inktwin.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "ai commercial insurance policy comparison and risk evaluation",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "enterprise property and casualty policy gap analyzer",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automate commercial liability policy review for procurement teams",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "extract endorsement clauses and exclusions from 100 page insurance pdf",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai tool to verify compliance between insurance policy and vendor contract",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
