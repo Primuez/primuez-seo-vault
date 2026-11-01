@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-10-31T00:01:37.510Z",
+  "lastSync": "2026-11-01T00:01:20.208Z",
   "totalNodes": 373,
-  "publishedNodes": 183,
-  "pendingNodes": 190,
-  "progressPercentage": 49,
+  "publishedNodes": 186,
+  "pendingNodes": 187,
+  "progressPercentage": 50,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 31
+      "completed": 34
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "b2b policy fine print audit with rag and vector embeddings",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-01T00:01:20.201Z",
+      "filePath": "primuezsure/2026-11-01-b2b-policy-fine-print-audit-with-rag-and-vector-embeddings.md",
+      "wordCount": 966,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated hidden exclusion detection in enterprise cyber insurance",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-01T00:01:01.378Z",
+      "filePath": "primuezsure/2026-11-01-automated-hidden-exclusion-detection-in-enterprise-cyber-insurance.md",
+      "wordCount": 858,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai commercial insurance policy comparison and risk evaluation",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-01T00:00:42.101Z",
+      "filePath": "primuezsure/2026-11-01-ai-commercial-insurance-policy-comparison-and-risk-evaluation.md",
+      "wordCount": 910,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "automated handwriting font generator for procreate and goodnotes",
       "app": "inktwin.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 970,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "batch convert customer support notes to handwritten style cards",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-30T00:00:43.244Z",
-      "filePath": "inktwin/2026-10-30-batch-convert-customer-support-notes-to-handwritten-style-cards.md",
-      "wordCount": 982,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "turn scanned teacher feedback into handwritten digital annotations",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-29T00:01:21.333Z",
-      "filePath": "inktwin/2026-10-29-turn-scanned-teacher-feedback-into-handwritten-digital-annotations.md",
-      "wordCount": 996,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "custom signature and cursive handwriting vector generator",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-29T00:00:55.071Z",
-      "filePath": "inktwin/2026-10-29-custom-signature-and-cursive-handwriting-vector-generator.md",
-      "wordCount": 964,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "ai commercial insurance policy comparison and risk evaluation",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automated hidden exclusion detection in enterprise cyber insurance",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "b2b policy fine print audit with rag and vector embeddings",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "ai health insurance claim denial prediction and appeal generator",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "ai tool to verify compliance between insurance policy and vendor contract",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "detect deceptive wording in directors and officers liability policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated insurance coverage gap matrix generator for brokers",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai insurance certificate coi verification and validation pipeline",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
