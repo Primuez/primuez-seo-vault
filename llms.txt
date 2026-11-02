@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (186 Indexed)
+## Knowledge Nodes (189 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -196,3 +196,6 @@
 - [ai commercial insurance policy comparison and risk evaluation](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-01-ai-commercial-insurance-policy-comparison-and-risk-evaluation.md): PrimuezSure knowledge node.
 - [automated hidden exclusion detection in enterprise cyber insurance](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-01-automated-hidden-exclusion-detection-in-enterprise-cyber-insurance.md): PrimuezSure knowledge node.
 - [b2b policy fine print audit with rag and vector embeddings](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-01-b2b-policy-fine-print-audit-with-rag-and-vector-embeddings.md): PrimuezSure knowledge node.
+- [ai health insurance claim denial prediction and appeal generator](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-02-ai-health-insurance-claim-denial-prediction-and-appeal-generator.md): PrimuezSure knowledge node.
+- [enterprise property and casualty policy gap analyzer](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-02-enterprise-property-and-casualty-policy-gap-analyzer.md): PrimuezSure knowledge node.
+- [automate commercial liability policy review for procurement teams](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-02-automate-commercial-liability-policy-review-for-procurement-teams.md): PrimuezSure knowledge node.

@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-01T00:01:20.208Z",
+  "lastSync": "2026-11-02T00:01:20.760Z",
   "totalNodes": 373,
-  "publishedNodes": 186,
-  "pendingNodes": 187,
-  "progressPercentage": 50,
+  "publishedNodes": 189,
+  "pendingNodes": 184,
+  "progressPercentage": 51,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 34
+      "completed": 37
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "automate commercial liability policy review for procurement teams",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-02T00:01:20.755Z",
+      "filePath": "primuezsure/2026-11-02-automate-commercial-liability-policy-review-for-procurement-teams.md",
+      "wordCount": 917,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "enterprise property and casualty policy gap analyzer",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-02T00:00:59.456Z",
+      "filePath": "primuezsure/2026-11-02-enterprise-property-and-casualty-policy-gap-analyzer.md",
+      "wordCount": 972,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai health insurance claim denial prediction and appeal generator",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-02T00:00:35.938Z",
+      "filePath": "primuezsure/2026-11-02-ai-health-insurance-claim-denial-prediction-and-appeal-generator.md",
+      "wordCount": 978,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "b2b policy fine print audit with rag and vector embeddings",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 924,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "convert typed poetry to vintage handwritten manuscript format",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-31T00:00:46.026Z",
-      "filePath": "inktwin/2026-10-31-convert-typed-poetry-to-vintage-handwritten-manuscript-format.md",
-      "wordCount": 784,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "handwriting synthesis engine for personalized direct mail marketing",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-30T00:01:34.306Z",
-      "filePath": "inktwin/2026-10-30-handwriting-synthesis-engine-for-personalized-direct-mail-marketing.md",
-      "wordCount": 942,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "realistic paper texture and ink absorption generator for handwriting",
-      "app": "inktwin.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-10-30T00:01:11.989Z",
-      "filePath": "inktwin/2026-10-30-realistic-paper-texture-and-ink-absorption-generator-for-handwriting.md",
-      "wordCount": 970,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "ai health insurance claim denial prediction and appeal generator",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "enterprise property and casualty policy gap analyzer",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automate commercial liability policy review for procurement teams",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "extract endorsement clauses and exclusions from 100 page insurance pdf",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "ai insurance certificate coi verification and validation pipeline",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "compare terms conditions across multiple reinsurance treaties",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "extract sub limits and deductible schedules using multimodal llm",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automate business interruption insurance policy review",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
