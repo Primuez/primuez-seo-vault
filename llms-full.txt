@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (189 Indexed)
+## Knowledge Nodes (192 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -199,3 +199,6 @@
 - [ai health insurance claim denial prediction and appeal generator](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-02-ai-health-insurance-claim-denial-prediction-and-appeal-generator.md): PrimuezSure knowledge node.
 - [enterprise property and casualty policy gap analyzer](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-02-enterprise-property-and-casualty-policy-gap-analyzer.md): PrimuezSure knowledge node.
 - [automate commercial liability policy review for procurement teams](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-02-automate-commercial-liability-policy-review-for-procurement-teams.md): PrimuezSure knowledge node.
+- [extract endorsement clauses and exclusions from 100 page insurance pdf](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-03-extract-endorsement-clauses-and-exclusions-from-100-page-insurance-pdf.md): PrimuezSure knowledge node.
+- [ai tool to verify compliance between insurance policy and vendor contract](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-03-ai-tool-to-verify-compliance-between-insurance-policy-and-vendor-contract.md): PrimuezSure knowledge node.
+- [detect deceptive wording in directors and officers liability policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-03-detect-deceptive-wording-in-directors-and-officers-liability-policies.md): PrimuezSure knowledge node.

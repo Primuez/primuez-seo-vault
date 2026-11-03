@@ -1951,20 +1951,35 @@
   {
     "keyword": "extract endorsement clauses and exclusions from 100 page insurance pdf",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-03T00:00:39.943Z",
+    "filePath": "primuezsure/2026-11-03-extract-endorsement-clauses-and-exclusions-from-100-page-insurance-pdf.md",
+    "wordCount": 728,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "ai tool to verify compliance between insurance policy and vendor contract",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-03T00:01:04.451Z",
+    "filePath": "primuezsure/2026-11-03-ai-tool-to-verify-compliance-between-insurance-policy-and-vendor-contract.md",
+    "wordCount": 942,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "detect deceptive wording in directors and officers liability policies",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-03T00:01:27.792Z",
+    "filePath": "primuezsure/2026-11-03-detect-deceptive-wording-in-directors-and-officers-liability-policies.md",
+    "wordCount": 990,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "automated insurance coverage gap matrix generator for brokers",
