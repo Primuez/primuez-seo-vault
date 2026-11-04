@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-03T00:01:27.801Z",
+  "lastSync": "2026-11-04T00:01:33.958Z",
   "totalNodes": 373,
-  "publishedNodes": 192,
-  "pendingNodes": 181,
-  "progressPercentage": 51,
+  "publishedNodes": 195,
+  "pendingNodes": 178,
+  "progressPercentage": 52,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 40
+      "completed": 43
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "compare terms conditions across multiple reinsurance treaties",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-04T00:01:33.951Z",
+      "filePath": "primuezsure/2026-11-04-compare-terms-conditions-across-multiple-reinsurance-treaties.md",
+      "wordCount": 975,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai insurance certificate coi verification and validation pipeline",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-04T00:01:09.010Z",
+      "filePath": "primuezsure/2026-11-04-ai-insurance-certificate-coi-verification-and-validation-pipeline.md",
+      "wordCount": 992,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated insurance coverage gap matrix generator for brokers",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-04T00:00:40.704Z",
+      "filePath": "primuezsure/2026-11-04-automated-insurance-coverage-gap-matrix-generator-for-brokers.md",
+      "wordCount": 1013,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "detect deceptive wording in directors and officers liability policies",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 972,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "ai health insurance claim denial prediction and appeal generator",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-02T00:00:35.938Z",
-      "filePath": "primuezsure/2026-11-02-ai-health-insurance-claim-denial-prediction-and-appeal-generator.md",
-      "wordCount": 978,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "b2b policy fine print audit with rag and vector embeddings",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-01T00:01:20.201Z",
-      "filePath": "primuezsure/2026-11-01-b2b-policy-fine-print-audit-with-rag-and-vector-embeddings.md",
-      "wordCount": 966,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated hidden exclusion detection in enterprise cyber insurance",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-01T00:01:01.378Z",
-      "filePath": "primuezsure/2026-11-01-automated-hidden-exclusion-detection-in-enterprise-cyber-insurance.md",
-      "wordCount": 858,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated insurance coverage gap matrix generator for brokers",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai insurance certificate coi verification and validation pipeline",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "compare terms conditions across multiple reinsurance treaties",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "extract sub limits and deductible schedules using multimodal llm",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "automated audit of professional indemnity insurance fine print",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "identify missing coverage in errors and omissions insurance policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai automated insurance claim dispute argument builder",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "compare workers compensation policy definitions and state mandates",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

@@ -1984,20 +1984,35 @@
   {
     "keyword": "automated insurance coverage gap matrix generator for brokers",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-04T00:00:40.704Z",
+    "filePath": "primuezsure/2026-11-04-automated-insurance-coverage-gap-matrix-generator-for-brokers.md",
+    "wordCount": 1013,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "ai insurance certificate coi verification and validation pipeline",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-04T00:01:09.010Z",
+    "filePath": "primuezsure/2026-11-04-ai-insurance-certificate-coi-verification-and-validation-pipeline.md",
+    "wordCount": 992,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "compare terms conditions across multiple reinsurance treaties",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-04T00:01:33.951Z",
+    "filePath": "primuezsure/2026-11-04-compare-terms-conditions-across-multiple-reinsurance-treaties.md",
+    "wordCount": 975,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "extract sub limits and deductible schedules using multimodal llm",
