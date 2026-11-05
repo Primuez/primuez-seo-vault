@@ -2017,20 +2017,35 @@
   {
     "keyword": "extract sub limits and deductible schedules using multimodal llm",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-05T00:00:42.163Z",
+    "filePath": "primuezsure/2026-11-05-extract-sub-limits-and-deductible-schedules-using-multimodal-llm.md",
+    "wordCount": 945,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "automate business interruption insurance policy review",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-05T00:01:10.217Z",
+    "filePath": "primuezsure/2026-11-05-automate-business-interruption-insurance-policy-review.md",
+    "wordCount": 939,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "commercial lease insurance requirement compliance checker",
     "app": "primuezsure.primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-05T00:01:32.836Z",
+    "filePath": "primuezsure/2026-11-05-commercial-lease-insurance-requirement-compliance-checker.md",
+    "wordCount": 792,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "ai legal analysis of umbrella insurance policy coverage limits",

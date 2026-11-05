@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (195 Indexed)
+## Knowledge Nodes (198 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -205,3 +205,6 @@
 - [automated insurance coverage gap matrix generator for brokers](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-04-automated-insurance-coverage-gap-matrix-generator-for-brokers.md): PrimuezSure knowledge node.
 - [ai insurance certificate coi verification and validation pipeline](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-04-ai-insurance-certificate-coi-verification-and-validation-pipeline.md): PrimuezSure knowledge node.
 - [compare terms conditions across multiple reinsurance treaties](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-04-compare-terms-conditions-across-multiple-reinsurance-treaties.md): PrimuezSure knowledge node.
+- [extract sub limits and deductible schedules using multimodal llm](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-05-extract-sub-limits-and-deductible-schedules-using-multimodal-llm.md): PrimuezSure knowledge node.
+- [automate business interruption insurance policy review](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-05-automate-business-interruption-insurance-policy-review.md): PrimuezSure knowledge node.
+- [commercial lease insurance requirement compliance checker](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-05-commercial-lease-insurance-requirement-compliance-checker.md): PrimuezSure knowledge node.

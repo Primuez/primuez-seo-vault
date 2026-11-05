@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-04T00:01:33.958Z",
+  "lastSync": "2026-11-05T00:01:32.841Z",
   "totalNodes": 373,
-  "publishedNodes": 195,
-  "pendingNodes": 178,
-  "progressPercentage": 52,
+  "publishedNodes": 198,
+  "pendingNodes": 175,
+  "progressPercentage": 53,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 43
+      "completed": 46
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "commercial lease insurance requirement compliance checker",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-05T00:01:32.836Z",
+      "filePath": "primuezsure/2026-11-05-commercial-lease-insurance-requirement-compliance-checker.md",
+      "wordCount": 792,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automate business interruption insurance policy review",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-05T00:01:10.217Z",
+      "filePath": "primuezsure/2026-11-05-automate-business-interruption-insurance-policy-review.md",
+      "wordCount": 939,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "extract sub limits and deductible schedules using multimodal llm",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-05T00:00:42.163Z",
+      "filePath": "primuezsure/2026-11-05-extract-sub-limits-and-deductible-schedules-using-multimodal-llm.md",
+      "wordCount": 945,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "compare terms conditions across multiple reinsurance treaties",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 942,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "extract endorsement clauses and exclusions from 100 page insurance pdf",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-03T00:00:39.943Z",
-      "filePath": "primuezsure/2026-11-03-extract-endorsement-clauses-and-exclusions-from-100-page-insurance-pdf.md",
-      "wordCount": 728,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automate commercial liability policy review for procurement teams",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-02T00:01:20.755Z",
-      "filePath": "primuezsure/2026-11-02-automate-commercial-liability-policy-review-for-procurement-teams.md",
-      "wordCount": 917,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "enterprise property and casualty policy gap analyzer",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-02T00:00:59.456Z",
-      "filePath": "primuezsure/2026-11-02-enterprise-property-and-casualty-policy-gap-analyzer.md",
-      "wordCount": 972,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "extract sub limits and deductible schedules using multimodal llm",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automate business interruption insurance policy review",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "commercial lease insurance requirement compliance checker",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "ai legal analysis of umbrella insurance policy coverage limits",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "compare workers compensation policy definitions and state mandates",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "enterprise insurance risk assessment rag pipeline for underwriter assistants",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated comparison of commercial auto fleet policy coverage",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "parse ambiguous insurance policy language using legal domain llm",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
