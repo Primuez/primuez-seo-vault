@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-05T00:01:32.841Z",
+  "lastSync": "2026-11-06T00:01:39.102Z",
   "totalNodes": 373,
-  "publishedNodes": 198,
-  "pendingNodes": 175,
-  "progressPercentage": 53,
+  "publishedNodes": 201,
+  "pendingNodes": 172,
+  "progressPercentage": 54,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 46
+      "completed": 49
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "identify missing coverage in errors and omissions insurance policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-06T00:01:39.099Z",
+      "filePath": "primuezsure/2026-11-06-identify-missing-coverage-in-errors-and-omissions-insurance-policies.md",
+      "wordCount": 944,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated audit of professional indemnity insurance fine print",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-06T00:01:15.609Z",
+      "filePath": "primuezsure/2026-11-06-automated-audit-of-professional-indemnity-insurance-fine-print.md",
+      "wordCount": 926,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai legal analysis of umbrella insurance policy coverage limits",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-06T00:00:51.373Z",
+      "filePath": "primuezsure/2026-11-06-ai-legal-analysis-of-umbrella-insurance-policy-coverage-limits.md",
+      "wordCount": 932,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "commercial lease insurance requirement compliance checker",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 992,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated insurance coverage gap matrix generator for brokers",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-04T00:00:40.704Z",
-      "filePath": "primuezsure/2026-11-04-automated-insurance-coverage-gap-matrix-generator-for-brokers.md",
-      "wordCount": 1013,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "detect deceptive wording in directors and officers liability policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-03T00:01:27.792Z",
-      "filePath": "primuezsure/2026-11-03-detect-deceptive-wording-in-directors-and-officers-liability-policies.md",
-      "wordCount": 990,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai tool to verify compliance between insurance policy and vendor contract",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-03T00:01:04.451Z",
-      "filePath": "primuezsure/2026-11-03-ai-tool-to-verify-compliance-between-insurance-policy-and-vendor-contract.md",
-      "wordCount": 942,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "ai legal analysis of umbrella insurance policy coverage limits",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automated audit of professional indemnity insurance fine print",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "identify missing coverage in errors and omissions insurance policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "ai automated insurance claim dispute argument builder",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "parse ambiguous insurance policy language using legal domain llm",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "detect coverage loopholes in commercial general liability cgl policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated insurance renewal comparison tool for cfo and risk managers",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "evaluate product liability insurance definitions and exclusions",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
