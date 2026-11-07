@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-06T00:01:39.102Z",
+  "lastSync": "2026-11-07T00:02:05.335Z",
   "totalNodes": 373,
-  "publishedNodes": 201,
-  "pendingNodes": 172,
-  "progressPercentage": 54,
+  "publishedNodes": 204,
+  "pendingNodes": 169,
+  "progressPercentage": 55,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 49
+      "completed": 52
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "enterprise insurance risk assessment rag pipeline for underwriter assistants",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-07T00:02:05.326Z",
+      "filePath": "primuezsure/2026-11-07-enterprise-insurance-risk-assessment-rag-pipeline-for-underwriter-assistants.md",
+      "wordCount": 1026,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "compare workers compensation policy definitions and state mandates",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-07T00:01:38.349Z",
+      "filePath": "primuezsure/2026-11-07-compare-workers-compensation-policy-definitions-and-state-mandates.md",
+      "wordCount": 949,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai automated insurance claim dispute argument builder",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-07T00:01:15.640Z",
+      "filePath": "primuezsure/2026-11-07-ai-automated-insurance-claim-dispute-argument-builder.md",
+      "wordCount": 957,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "identify missing coverage in errors and omissions insurance policies",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 939,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "extract sub limits and deductible schedules using multimodal llm",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-05T00:00:42.163Z",
-      "filePath": "primuezsure/2026-11-05-extract-sub-limits-and-deductible-schedules-using-multimodal-llm.md",
-      "wordCount": 945,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "compare terms conditions across multiple reinsurance treaties",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-04T00:01:33.951Z",
-      "filePath": "primuezsure/2026-11-04-compare-terms-conditions-across-multiple-reinsurance-treaties.md",
-      "wordCount": 975,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai insurance certificate coi verification and validation pipeline",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-04T00:01:09.010Z",
-      "filePath": "primuezsure/2026-11-04-ai-insurance-certificate-coi-verification-and-validation-pipeline.md",
-      "wordCount": 992,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "ai automated insurance claim dispute argument builder",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "compare workers compensation policy definitions and state mandates",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "enterprise insurance risk assessment rag pipeline for underwriter assistants",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automated comparison of commercial auto fleet policy coverage",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "evaluate product liability insurance definitions and exclusions",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "compare cyber risk insurance policies for ransomware coverage limits",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated environmental liability insurance policy clause extractor",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai tool for insurance brokers to audit client policy portfolios",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

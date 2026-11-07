@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (201 Indexed)
+## Knowledge Nodes (204 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -211,3 +211,6 @@
 - [ai legal analysis of umbrella insurance policy coverage limits](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-06-ai-legal-analysis-of-umbrella-insurance-policy-coverage-limits.md): PrimuezSure knowledge node.
 - [automated audit of professional indemnity insurance fine print](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-06-automated-audit-of-professional-indemnity-insurance-fine-print.md): PrimuezSure knowledge node.
 - [identify missing coverage in errors and omissions insurance policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-06-identify-missing-coverage-in-errors-and-omissions-insurance-policies.md): PrimuezSure knowledge node.
+- [ai automated insurance claim dispute argument builder](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-07-ai-automated-insurance-claim-dispute-argument-builder.md): PrimuezSure knowledge node.
+- [compare workers compensation policy definitions and state mandates](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-07-compare-workers-compensation-policy-definitions-and-state-mandates.md): PrimuezSure knowledge node.
+- [enterprise insurance risk assessment rag pipeline for underwriter assistants](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-07-enterprise-insurance-risk-assessment-rag-pipeline-for-underwriter-assistants.md): PrimuezSure knowledge node.
