@@ -1,10 +1,10 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-07T00:02:05.335Z",
+  "lastSync": "2026-11-08T00:02:03.429Z",
   "totalNodes": 373,
-  "publishedNodes": 204,
-  "pendingNodes": 169,
+  "publishedNodes": 207,
+  "pendingNodes": 166,
   "progressPercentage": 55,
   "geoScore": 98.8,
   "aeoScore": 99.2,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 52
+      "completed": 55
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "detect coverage loopholes in commercial general liability cgl policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-08T00:02:03.426Z",
+      "filePath": "primuezsure/2026-11-08-detect-coverage-loopholes-in-commercial-general-liability-cgl-policies.md",
+      "wordCount": 871,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "parse ambiguous insurance policy language using legal domain llm",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-08T00:01:38.644Z",
+      "filePath": "primuezsure/2026-11-08-parse-ambiguous-insurance-policy-language-using-legal-domain-llm.md",
+      "wordCount": 872,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated comparison of commercial auto fleet policy coverage",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-08T00:01:15.960Z",
+      "filePath": "primuezsure/2026-11-08-automated-comparison-of-commercial-auto-fleet-policy-coverage.md",
+      "wordCount": 972,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "enterprise insurance risk assessment rag pipeline for underwriter assistants",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 926,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "ai legal analysis of umbrella insurance policy coverage limits",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-06T00:00:51.373Z",
-      "filePath": "primuezsure/2026-11-06-ai-legal-analysis-of-umbrella-insurance-policy-coverage-limits.md",
-      "wordCount": 932,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "commercial lease insurance requirement compliance checker",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-05T00:01:32.836Z",
-      "filePath": "primuezsure/2026-11-05-commercial-lease-insurance-requirement-compliance-checker.md",
-      "wordCount": 792,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automate business interruption insurance policy review",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-05T00:01:10.217Z",
-      "filePath": "primuezsure/2026-11-05-automate-business-interruption-insurance-policy-review.md",
-      "wordCount": 939,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated comparison of commercial auto fleet policy coverage",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "parse ambiguous insurance policy language using legal domain llm",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "detect coverage loopholes in commercial general liability cgl policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automated insurance renewal comparison tool for cfo and risk managers",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "ai tool for insurance brokers to audit client policy portfolios",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "detect conflicting clauses across master services agreement and insurance",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated cargo and marine insurance fine print audit",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "extract insurance claim notification windows and strict deadlines",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

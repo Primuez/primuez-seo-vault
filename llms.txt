@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (204 Indexed)
+## Knowledge Nodes (207 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -214,3 +214,6 @@
 - [ai automated insurance claim dispute argument builder](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-07-ai-automated-insurance-claim-dispute-argument-builder.md): PrimuezSure knowledge node.
 - [compare workers compensation policy definitions and state mandates](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-07-compare-workers-compensation-policy-definitions-and-state-mandates.md): PrimuezSure knowledge node.
 - [enterprise insurance risk assessment rag pipeline for underwriter assistants](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-07-enterprise-insurance-risk-assessment-rag-pipeline-for-underwriter-assistants.md): PrimuezSure knowledge node.
+- [automated comparison of commercial auto fleet policy coverage](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-08-automated-comparison-of-commercial-auto-fleet-policy-coverage.md): PrimuezSure knowledge node.
+- [parse ambiguous insurance policy language using legal domain llm](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-08-parse-ambiguous-insurance-policy-language-using-legal-domain-llm.md): PrimuezSure knowledge node.
+- [detect coverage loopholes in commercial general liability cgl policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-08-detect-coverage-loopholes-in-commercial-general-liability-cgl-policies.md): PrimuezSure knowledge node.
