@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-08T00:02:03.429Z",
+  "lastSync": "2026-11-09T00:02:03.252Z",
   "totalNodes": 373,
-  "publishedNodes": 207,
-  "pendingNodes": 166,
-  "progressPercentage": 55,
+  "publishedNodes": 210,
+  "pendingNodes": 163,
+  "progressPercentage": 56,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 55
+      "completed": 58
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "compare cyber risk insurance policies for ransomware coverage limits",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-09T00:02:03.245Z",
+      "filePath": "primuezsure/2026-11-09-compare-cyber-risk-insurance-policies-for-ransomware-coverage-limits.md",
+      "wordCount": 1019,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "evaluate product liability insurance definitions and exclusions",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-09T00:01:37.379Z",
+      "filePath": "primuezsure/2026-11-09-evaluate-product-liability-insurance-definitions-and-exclusions.md",
+      "wordCount": 1034,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated insurance renewal comparison tool for cfo and risk managers",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-09T00:01:14.160Z",
+      "filePath": "primuezsure/2026-11-09-automated-insurance-renewal-comparison-tool-for-cfo-and-risk-managers.md",
+      "wordCount": 1020,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "detect coverage loopholes in commercial general liability cgl policies",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 949,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "ai automated insurance claim dispute argument builder",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-07T00:01:15.640Z",
-      "filePath": "primuezsure/2026-11-07-ai-automated-insurance-claim-dispute-argument-builder.md",
-      "wordCount": 957,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "identify missing coverage in errors and omissions insurance policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-06T00:01:39.099Z",
-      "filePath": "primuezsure/2026-11-06-identify-missing-coverage-in-errors-and-omissions-insurance-policies.md",
-      "wordCount": 944,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated audit of professional indemnity insurance fine print",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-06T00:01:15.609Z",
-      "filePath": "primuezsure/2026-11-06-automated-audit-of-professional-indemnity-insurance-fine-print.md",
-      "wordCount": 926,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated insurance renewal comparison tool for cfo and risk managers",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "evaluate product liability insurance definitions and exclusions",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "compare cyber risk insurance policies for ransomware coverage limits",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automated environmental liability insurance policy clause extractor",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "extract insurance claim notification windows and strict deadlines",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "compare business owners policy bop coverage versus standalone policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated key person insurance policy terms evaluation",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "extract retroactive dates and prior acts exclusion in claims made policies",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
