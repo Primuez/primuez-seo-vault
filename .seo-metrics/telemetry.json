@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-09T00:02:03.252Z",
+  "lastSync": "2026-11-10T00:01:51.578Z",
   "totalNodes": 373,
-  "publishedNodes": 210,
-  "pendingNodes": 163,
-  "progressPercentage": 56,
+  "publishedNodes": 213,
+  "pendingNodes": 160,
+  "progressPercentage": 57,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 58
+      "completed": 61
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "detect conflicting clauses across master services agreement and insurance",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-10T00:01:51.571Z",
+      "filePath": "primuezsure/2026-11-10-detect-conflicting-clauses-across-master-services-agreement-and-insurance.md",
+      "wordCount": 942,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai tool for insurance brokers to audit client policy portfolios",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-10T00:01:35.458Z",
+      "filePath": "primuezsure/2026-11-10-ai-tool-for-insurance-brokers-to-audit-client-policy-portfolios.md",
+      "wordCount": 1029,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated environmental liability insurance policy clause extractor",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-10T00:01:12.915Z",
+      "filePath": "primuezsure/2026-11-10-automated-environmental-liability-insurance-policy-clause-extractor.md",
+      "wordCount": 963,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "compare cyber risk insurance policies for ransomware coverage limits",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 872,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated comparison of commercial auto fleet policy coverage",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-08T00:01:15.960Z",
-      "filePath": "primuezsure/2026-11-08-automated-comparison-of-commercial-auto-fleet-policy-coverage.md",
-      "wordCount": 972,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "enterprise insurance risk assessment rag pipeline for underwriter assistants",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-07T00:02:05.326Z",
-      "filePath": "primuezsure/2026-11-07-enterprise-insurance-risk-assessment-rag-pipeline-for-underwriter-assistants.md",
-      "wordCount": 1026,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "compare workers compensation policy definitions and state mandates",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-07T00:01:38.349Z",
-      "filePath": "primuezsure/2026-11-07-compare-workers-compensation-policy-definitions-and-state-mandates.md",
-      "wordCount": 949,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated environmental liability insurance policy clause extractor",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai tool for insurance brokers to audit client policy portfolios",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "detect conflicting clauses across master services agreement and insurance",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automated cargo and marine insurance fine print audit",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "extract retroactive dates and prior acts exclusion in claims made policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "identify punitive damages exclusions in commercial insurance",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated trade credit insurance policy review tool",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "compare cyber extortion and social engineering coverage endorsements",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (210 Indexed)
+## Knowledge Nodes (213 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -220,3 +220,6 @@
 - [automated insurance renewal comparison tool for cfo and risk managers](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-09-automated-insurance-renewal-comparison-tool-for-cfo-and-risk-managers.md): PrimuezSure knowledge node.
 - [evaluate product liability insurance definitions and exclusions](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-09-evaluate-product-liability-insurance-definitions-and-exclusions.md): PrimuezSure knowledge node.
 - [compare cyber risk insurance policies for ransomware coverage limits](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-09-compare-cyber-risk-insurance-policies-for-ransomware-coverage-limits.md): PrimuezSure knowledge node.
+- [automated environmental liability insurance policy clause extractor](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-10-automated-environmental-liability-insurance-policy-clause-extractor.md): PrimuezSure knowledge node.
+- [ai tool for insurance brokers to audit client policy portfolios](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-10-ai-tool-for-insurance-brokers-to-audit-client-policy-portfolios.md): PrimuezSure knowledge node.
+- [detect conflicting clauses across master services agreement and insurance](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-10-detect-conflicting-clauses-across-master-services-agreement-and-insurance.md): PrimuezSure knowledge node.
