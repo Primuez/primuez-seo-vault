@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-10T00:01:51.578Z",
+  "lastSync": "2026-11-11T00:02:04.856Z",
   "totalNodes": 373,
-  "publishedNodes": 213,
-  "pendingNodes": 160,
-  "progressPercentage": 57,
+  "publishedNodes": 216,
+  "pendingNodes": 157,
+  "progressPercentage": 58,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 61
+      "completed": 64
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "compare business owners policy bop coverage versus standalone policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-11T00:02:04.852Z",
+      "filePath": "primuezsure/2026-11-11-compare-business-owners-policy-bop-coverage-versus-standalone-policies.md",
+      "wordCount": 984,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "extract insurance claim notification windows and strict deadlines",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-11T00:01:43.513Z",
+      "filePath": "primuezsure/2026-11-11-extract-insurance-claim-notification-windows-and-strict-deadlines.md",
+      "wordCount": 937,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated cargo and marine insurance fine print audit",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-11T00:01:19.129Z",
+      "filePath": "primuezsure/2026-11-11-automated-cargo-and-marine-insurance-fine-print-audit.md",
+      "wordCount": 964,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "detect conflicting clauses across master services agreement and insurance",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 1034,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated insurance renewal comparison tool for cfo and risk managers",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-09T00:01:14.160Z",
-      "filePath": "primuezsure/2026-11-09-automated-insurance-renewal-comparison-tool-for-cfo-and-risk-managers.md",
-      "wordCount": 1020,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "detect coverage loopholes in commercial general liability cgl policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-08T00:02:03.426Z",
-      "filePath": "primuezsure/2026-11-08-detect-coverage-loopholes-in-commercial-general-liability-cgl-policies.md",
-      "wordCount": 871,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "parse ambiguous insurance policy language using legal domain llm",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-08T00:01:38.644Z",
-      "filePath": "primuezsure/2026-11-08-parse-ambiguous-insurance-policy-language-using-legal-domain-llm.md",
-      "wordCount": 872,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated cargo and marine insurance fine print audit",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "extract insurance claim notification windows and strict deadlines",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "compare business owners policy bop coverage versus standalone policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automated key person insurance policy terms evaluation",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "compare cyber extortion and social engineering coverage endorsements",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated insurance deductible calculation across multi tier perils",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "enterprise insurance policy summarizer with citation to exact page numbers",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai contract review to match required additional insured endorsements",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
