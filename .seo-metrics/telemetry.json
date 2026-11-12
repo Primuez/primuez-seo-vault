@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-11T00:02:04.856Z",
+  "lastSync": "2026-11-12T00:02:00.172Z",
   "totalNodes": 373,
-  "publishedNodes": 216,
-  "pendingNodes": 157,
-  "progressPercentage": 58,
+  "publishedNodes": 219,
+  "pendingNodes": 154,
+  "progressPercentage": 59,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 64
+      "completed": 67
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "identify punitive damages exclusions in commercial insurance",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-12T00:02:00.168Z",
+      "filePath": "primuezsure/2026-11-12-identify-punitive-damages-exclusions-in-commercial-insurance.md",
+      "wordCount": 925,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "extract retroactive dates and prior acts exclusion in claims made policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-12T00:01:36.683Z",
+      "filePath": "primuezsure/2026-11-12-extract-retroactive-dates-and-prior-acts-exclusion-in-claims-made-policies.md",
+      "wordCount": 907,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated key person insurance policy terms evaluation",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-12T00:01:12.292Z",
+      "filePath": "primuezsure/2026-11-12-automated-key-person-insurance-policy-terms-evaluation.md",
+      "wordCount": 877,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "compare business owners policy bop coverage versus standalone policies",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 1029,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated environmental liability insurance policy clause extractor",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-10T00:01:12.915Z",
-      "filePath": "primuezsure/2026-11-10-automated-environmental-liability-insurance-policy-clause-extractor.md",
-      "wordCount": 963,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "compare cyber risk insurance policies for ransomware coverage limits",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-09T00:02:03.245Z",
-      "filePath": "primuezsure/2026-11-09-compare-cyber-risk-insurance-policies-for-ransomware-coverage-limits.md",
-      "wordCount": 1019,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "evaluate product liability insurance definitions and exclusions",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-09T00:01:37.379Z",
-      "filePath": "primuezsure/2026-11-09-evaluate-product-liability-insurance-definitions-and-exclusions.md",
-      "wordCount": 1034,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated key person insurance policy terms evaluation",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "extract retroactive dates and prior acts exclusion in claims made policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "identify punitive damages exclusions in commercial insurance",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automated trade credit insurance policy review tool",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "ai contract review to match required additional insured endorsements",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "evaluate flood and earthquake sub limits in commercial property policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "detect war and terrorism exclusion applicability in cyber policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated builder risk insurance policy gap analysis",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

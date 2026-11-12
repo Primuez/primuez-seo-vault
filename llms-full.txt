@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (216 Indexed)
+## Knowledge Nodes (219 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -226,3 +226,6 @@
 - [automated cargo and marine insurance fine print audit](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-11-automated-cargo-and-marine-insurance-fine-print-audit.md): PrimuezSure knowledge node.
 - [extract insurance claim notification windows and strict deadlines](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-11-extract-insurance-claim-notification-windows-and-strict-deadlines.md): PrimuezSure knowledge node.
 - [compare business owners policy bop coverage versus standalone policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-11-compare-business-owners-policy-bop-coverage-versus-standalone-policies.md): PrimuezSure knowledge node.
+- [automated key person insurance policy terms evaluation](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-12-automated-key-person-insurance-policy-terms-evaluation.md): PrimuezSure knowledge node.
+- [extract retroactive dates and prior acts exclusion in claims made policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-12-extract-retroactive-dates-and-prior-acts-exclusion-in-claims-made-policies.md): PrimuezSure knowledge node.
+- [identify punitive damages exclusions in commercial insurance](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-12-identify-punitive-damages-exclusions-in-commercial-insurance.md): PrimuezSure knowledge node.
