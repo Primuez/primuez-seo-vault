@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (219 Indexed)
+## Knowledge Nodes (222 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -229,3 +229,6 @@
 - [automated key person insurance policy terms evaluation](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-12-automated-key-person-insurance-policy-terms-evaluation.md): PrimuezSure knowledge node.
 - [extract retroactive dates and prior acts exclusion in claims made policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-12-extract-retroactive-dates-and-prior-acts-exclusion-in-claims-made-policies.md): PrimuezSure knowledge node.
 - [identify punitive damages exclusions in commercial insurance](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-12-identify-punitive-damages-exclusions-in-commercial-insurance.md): PrimuezSure knowledge node.
+- [automated trade credit insurance policy review tool](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-13-automated-trade-credit-insurance-policy-review-tool.md): PrimuezSure knowledge node.
+- [compare cyber extortion and social engineering coverage endorsements](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-13-compare-cyber-extortion-and-social-engineering-coverage-endorsements.md): PrimuezSure knowledge node.
+- [automated insurance deductible calculation across multi tier perils](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-13-automated-insurance-deductible-calculation-across-multi-tier-perils.md): PrimuezSure knowledge node.
