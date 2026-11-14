@@ -1,10 +1,10 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-13T00:02:08.911Z",
+  "lastSync": "2026-11-14T00:01:57.152Z",
   "totalNodes": 373,
-  "publishedNodes": 222,
-  "pendingNodes": 151,
+  "publishedNodes": 225,
+  "pendingNodes": 148,
   "progressPercentage": 60,
   "geoScore": 98.8,
   "aeoScore": 99.2,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 70
+      "completed": 73
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "evaluate flood and earthquake sub limits in commercial property policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-14T00:01:57.149Z",
+      "filePath": "primuezsure/2026-11-14-evaluate-flood-and-earthquake-sub-limits-in-commercial-property-policies.md",
+      "wordCount": 903,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "ai contract review to match required additional insured endorsements",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-14T00:01:33.509Z",
+      "filePath": "primuezsure/2026-11-14-ai-contract-review-to-match-required-additional-insured-endorsements.md",
+      "wordCount": 941,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "enterprise insurance policy summarizer with citation to exact page numbers",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-14T00:01:09.699Z",
+      "filePath": "primuezsure/2026-11-14-enterprise-insurance-policy-summarizer-with-citation-to-exact-page-numbers.md",
+      "wordCount": 804,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "automated insurance deductible calculation across multi tier perils",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 907,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated key person insurance policy terms evaluation",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-12T00:01:12.292Z",
-      "filePath": "primuezsure/2026-11-12-automated-key-person-insurance-policy-terms-evaluation.md",
-      "wordCount": 877,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "compare business owners policy bop coverage versus standalone policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-11T00:02:04.852Z",
-      "filePath": "primuezsure/2026-11-11-compare-business-owners-policy-bop-coverage-versus-standalone-policies.md",
-      "wordCount": 984,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "extract insurance claim notification windows and strict deadlines",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-11T00:01:43.513Z",
-      "filePath": "primuezsure/2026-11-11-extract-insurance-claim-notification-windows-and-strict-deadlines.md",
-      "wordCount": 937,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "enterprise insurance policy summarizer with citation to exact page numbers",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai contract review to match required additional insured endorsements",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "evaluate flood and earthquake sub limits in commercial property policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "detect war and terrorism exclusion applicability in cyber policies",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "automated representations and warranties insurance policy audit",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "identify silent cyber exclusions in traditional property policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated employment practices liability epli policy clause extractor",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "evaluate coinsurance penalty clauses in commercial building policies",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
