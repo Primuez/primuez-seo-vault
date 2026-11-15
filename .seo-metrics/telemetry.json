@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-14T00:01:57.152Z",
+  "lastSync": "2026-11-15T00:01:57.338Z",
   "totalNodes": 373,
-  "publishedNodes": 225,
-  "pendingNodes": 148,
-  "progressPercentage": 60,
+  "publishedNodes": 228,
+  "pendingNodes": 145,
+  "progressPercentage": 61,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 73
+      "completed": 76
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "verify waiver of subrogation clauses in vendor insurance certificates",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-15T00:01:57.333Z",
+      "filePath": "primuezsure/2026-11-15-verify-waiver-of-subrogation-clauses-in-vendor-insurance-certificates.md",
+      "wordCount": 802,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated builder risk insurance policy gap analysis",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-15T00:01:34.005Z",
+      "filePath": "primuezsure/2026-11-15-automated-builder-risk-insurance-policy-gap-analysis.md",
+      "wordCount": 942,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "detect war and terrorism exclusion applicability in cyber policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-15T00:01:18.976Z",
+      "filePath": "primuezsure/2026-11-15-detect-war-and-terrorism-exclusion-applicability-in-cyber-policies.md",
+      "wordCount": 974,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "evaluate flood and earthquake sub limits in commercial property policies",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 938,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated trade credit insurance policy review tool",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-13T00:01:14.960Z",
-      "filePath": "primuezsure/2026-11-13-automated-trade-credit-insurance-policy-review-tool.md",
-      "wordCount": 928,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "identify punitive damages exclusions in commercial insurance",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-12T00:02:00.168Z",
-      "filePath": "primuezsure/2026-11-12-identify-punitive-damages-exclusions-in-commercial-insurance.md",
-      "wordCount": 925,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "extract retroactive dates and prior acts exclusion in claims made policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-12T00:01:36.683Z",
-      "filePath": "primuezsure/2026-11-12-extract-retroactive-dates-and-prior-acts-exclusion-in-claims-made-policies.md",
-      "wordCount": 907,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "detect war and terrorism exclusion applicability in cyber policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automated builder risk insurance policy gap analysis",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "verify waiver of subrogation clauses in vendor insurance certificates",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "compare fiduciary liability insurance policy terms and definitions",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "evaluate coinsurance penalty clauses in commercial building policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "ai audit of reinsurance slip treaties and retrocession agreements",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "compare aviation insurance policy hull and liability terms",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated surety bond and performance guarantee terms analysis",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
