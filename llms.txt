@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (228 Indexed)
+## Knowledge Nodes (231 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -238,3 +238,6 @@
 - [detect war and terrorism exclusion applicability in cyber policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-15-detect-war-and-terrorism-exclusion-applicability-in-cyber-policies.md): PrimuezSure knowledge node.
 - [automated builder risk insurance policy gap analysis](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-15-automated-builder-risk-insurance-policy-gap-analysis.md): PrimuezSure knowledge node.
 - [verify waiver of subrogation clauses in vendor insurance certificates](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-15-verify-waiver-of-subrogation-clauses-in-vendor-insurance-certificates.md): PrimuezSure knowledge node.
+- [compare fiduciary liability insurance policy terms and definitions](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-16-compare-fiduciary-liability-insurance-policy-terms-and-definitions.md): PrimuezSure knowledge node.
+- [automated representations and warranties insurance policy audit](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-16-automated-representations-and-warranties-insurance-policy-audit.md): PrimuezSure knowledge node.
+- [identify silent cyber exclusions in traditional property policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-16-identify-silent-cyber-exclusions-in-traditional-property-policies.md): PrimuezSure knowledge node.

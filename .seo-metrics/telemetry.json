@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-15T00:01:57.338Z",
+  "lastSync": "2026-11-16T00:01:56.687Z",
   "totalNodes": 373,
-  "publishedNodes": 228,
-  "pendingNodes": 145,
-  "progressPercentage": 61,
+  "publishedNodes": 231,
+  "pendingNodes": 142,
+  "progressPercentage": 62,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 76
+      "completed": 79
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "identify silent cyber exclusions in traditional property policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-16T00:01:56.683Z",
+      "filePath": "primuezsure/2026-11-16-identify-silent-cyber-exclusions-in-traditional-property-policies.md",
+      "wordCount": 973,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated representations and warranties insurance policy audit",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-16T00:01:33.622Z",
+      "filePath": "primuezsure/2026-11-16-automated-representations-and-warranties-insurance-policy-audit.md",
+      "wordCount": 938,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "compare fiduciary liability insurance policy terms and definitions",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-16T00:01:11.074Z",
+      "filePath": "primuezsure/2026-11-16-compare-fiduciary-liability-insurance-policy-terms-and-definitions.md",
+      "wordCount": 895,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "verify waiver of subrogation clauses in vendor insurance certificates",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 941,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "enterprise insurance policy summarizer with citation to exact page numbers",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-14T00:01:09.699Z",
-      "filePath": "primuezsure/2026-11-14-enterprise-insurance-policy-summarizer-with-citation-to-exact-page-numbers.md",
-      "wordCount": 804,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated insurance deductible calculation across multi tier perils",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-13T00:02:08.903Z",
-      "filePath": "primuezsure/2026-11-13-automated-insurance-deductible-calculation-across-multi-tier-perils.md",
-      "wordCount": 899,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "compare cyber extortion and social engineering coverage endorsements",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-13T00:01:40.848Z",
-      "filePath": "primuezsure/2026-11-13-compare-cyber-extortion-and-social-engineering-coverage-endorsements.md",
-      "wordCount": 938,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "compare fiduciary liability insurance policy terms and definitions",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automated representations and warranties insurance policy audit",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "identify silent cyber exclusions in traditional property policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automated employment practices liability epli policy clause extractor",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "automated surety bond and performance guarantee terms analysis",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "detect territorial limits exclusions in global commercial policies",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated clinical trial insurance policy review and compliance",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "extract reservation of rights defense obligations in liability claims",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
