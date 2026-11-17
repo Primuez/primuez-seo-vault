@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-16T00:01:56.687Z",
+  "lastSync": "2026-11-17T00:02:15.023Z",
   "totalNodes": 373,
-  "publishedNodes": 231,
-  "pendingNodes": 142,
-  "progressPercentage": 62,
+  "publishedNodes": 234,
+  "pendingNodes": 139,
+  "progressPercentage": 63,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 79
+      "completed": 82
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "ai audit of reinsurance slip treaties and retrocession agreements",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-17T00:02:15.012Z",
+      "filePath": "primuezsure/2026-11-17-ai-audit-of-reinsurance-slip-treaties-and-retrocession-agreements.md",
+      "wordCount": 899,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "evaluate coinsurance penalty clauses in commercial building policies",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-17T00:01:45.479Z",
+      "filePath": "primuezsure/2026-11-17-evaluate-coinsurance-penalty-clauses-in-commercial-building-policies.md",
+      "wordCount": 917,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated employment practices liability epli policy clause extractor",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-17T00:01:22.836Z",
+      "filePath": "primuezsure/2026-11-17-automated-employment-practices-liability-epli-policy-clause-extractor.md",
+      "wordCount": 971,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "identify silent cyber exclusions in traditional property policies",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 942,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "detect war and terrorism exclusion applicability in cyber policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-15T00:01:18.976Z",
-      "filePath": "primuezsure/2026-11-15-detect-war-and-terrorism-exclusion-applicability-in-cyber-policies.md",
-      "wordCount": 974,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "evaluate flood and earthquake sub limits in commercial property policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-14T00:01:57.149Z",
-      "filePath": "primuezsure/2026-11-14-evaluate-flood-and-earthquake-sub-limits-in-commercial-property-policies.md",
-      "wordCount": 903,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "ai contract review to match required additional insured endorsements",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-14T00:01:33.509Z",
-      "filePath": "primuezsure/2026-11-14-ai-contract-review-to-match-required-additional-insured-endorsements.md",
-      "wordCount": 941,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated employment practices liability epli policy clause extractor",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "evaluate coinsurance penalty clauses in commercial building policies",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "ai audit of reinsurance slip treaties and retrocession agreements",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "compare aviation insurance policy hull and liability terms",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "extract reservation of rights defense obligations in liability claims",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "identify uninsurable risks in custom enterprise software contracts",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "evaluate contingent business interruption cbi policy triggers",
+      "app": "primuezsure.primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated intellectual property infringement defense policy audit",
       "app": "primuezsure.primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
