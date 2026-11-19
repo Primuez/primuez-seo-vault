@@ -1,10 +1,10 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-18T00:01:50.561Z",
+  "lastSync": "2026-11-19T00:01:51.365Z",
   "totalNodes": 373,
-  "publishedNodes": 237,
-  "pendingNodes": 136,
+  "publishedNodes": 240,
+  "pendingNodes": 133,
   "progressPercentage": 64,
   "geoScore": 98.8,
   "aeoScore": 99.2,
@@ -16,7 +16,7 @@
     },
     "primuezsure.primuez.in": {
       "total": 91,
-      "completed": 85
+      "completed": 88
     },
     "primuez.in": {
       "total": 93,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "identify uninsurable risks in custom enterprise software contracts",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-19T00:01:51.349Z",
+      "filePath": "primuezsure/2026-11-19-identify-uninsurable-risks-in-custom-enterprise-software-contracts.md",
+      "wordCount": 962,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "extract reservation of rights defense obligations in liability claims",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-19T00:01:27.862Z",
+      "filePath": "primuezsure/2026-11-19-extract-reservation-of-rights-defense-obligations-in-liability-claims.md",
+      "wordCount": 716,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automated clinical trial insurance policy review and compliance",
+      "app": "primuezsure.primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-19T00:01:09.293Z",
+      "filePath": "primuezsure/2026-11-19-automated-clinical-trial-insurance-policy-review-and-compliance.md",
+      "wordCount": 976,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "detect territorial limits exclusions in global commercial policies",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 917,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated employment practices liability epli policy clause extractor",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-17T00:01:22.836Z",
-      "filePath": "primuezsure/2026-11-17-automated-employment-practices-liability-epli-policy-clause-extractor.md",
-      "wordCount": 971,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "identify silent cyber exclusions in traditional property policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-16T00:01:56.683Z",
-      "filePath": "primuezsure/2026-11-16-identify-silent-cyber-exclusions-in-traditional-property-policies.md",
-      "wordCount": 973,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated representations and warranties insurance policy audit",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-16T00:01:33.622Z",
-      "filePath": "primuezsure/2026-11-16-automated-representations-and-warranties-insurance-policy-audit.md",
-      "wordCount": 938,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automated clinical trial insurance policy review and compliance",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "extract reservation of rights defense obligations in liability claims",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "identify uninsurable risks in custom enterprise software contracts",
-      "app": "primuezsure.primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "evaluate contingent business interruption cbi policy triggers",
       "app": "primuezsure.primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "build autonomous multi agent pipelines with deterministic error handling",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "hire freelance n8n engineer for complex api orchestration",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "self hosted n8n production deployment on docker with postgres and redis",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "replace brittle zapier zaps with high leverage n8n workflows",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

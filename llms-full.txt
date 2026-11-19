@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (237 Indexed)
+## Knowledge Nodes (240 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -247,3 +247,6 @@
 - [compare aviation insurance policy hull and liability terms](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-18-compare-aviation-insurance-policy-hull-and-liability-terms.md): PrimuezSure knowledge node.
 - [automated surety bond and performance guarantee terms analysis](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-18-automated-surety-bond-and-performance-guarantee-terms-analysis.md): PrimuezSure knowledge node.
 - [detect territorial limits exclusions in global commercial policies](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-18-detect-territorial-limits-exclusions-in-global-commercial-policies.md): PrimuezSure knowledge node.
+- [automated clinical trial insurance policy review and compliance](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-19-automated-clinical-trial-insurance-policy-review-and-compliance.md): PrimuezSure knowledge node.
+- [extract reservation of rights defense obligations in liability claims](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-19-extract-reservation-of-rights-defense-obligations-in-liability-claims.md): PrimuezSure knowledge node.
+- [identify uninsurable risks in custom enterprise software contracts](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-19-identify-uninsurable-risks-in-custom-enterprise-software-contracts.md): PrimuezSure knowledge node.
