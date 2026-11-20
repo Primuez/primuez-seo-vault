@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (240 Indexed)
+## Knowledge Nodes (243 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -250,3 +250,6 @@
 - [automated clinical trial insurance policy review and compliance](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-19-automated-clinical-trial-insurance-policy-review-and-compliance.md): PrimuezSure knowledge node.
 - [extract reservation of rights defense obligations in liability claims](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-19-extract-reservation-of-rights-defense-obligations-in-liability-claims.md): PrimuezSure knowledge node.
 - [identify uninsurable risks in custom enterprise software contracts](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-19-identify-uninsurable-risks-in-custom-enterprise-software-contracts.md): PrimuezSure knowledge node.
+- [evaluate contingent business interruption cbi policy triggers](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-20-evaluate-contingent-business-interruption-cbi-policy-triggers.md): PrimuezSure knowledge node.
+- [automated intellectual property infringement defense policy audit](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-20-automated-intellectual-property-infringement-defense-policy-audit.md): PrimuezSure knowledge node.
+- [compare kidnap ransom and extortion policy crisis response terms](https://github.com/Primuez/primuez-seo-vault/blob/main/primuezsure/2026-11-20-compare-kidnap-ransom-and-extortion-policy-crisis-response-terms.md): PrimuezSure knowledge node.
