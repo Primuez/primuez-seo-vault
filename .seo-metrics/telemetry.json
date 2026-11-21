@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-20T00:01:47.482Z",
+  "lastSync": "2026-11-21T00:01:58.509Z",
   "totalNodes": 373,
-  "publishedNodes": 243,
-  "pendingNodes": 130,
-  "progressPercentage": 65,
+  "publishedNodes": 246,
+  "pendingNodes": 127,
+  "progressPercentage": 66,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 93,
-      "completed": 33
+      "completed": 36
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 44,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "hire freelance n8n engineer for complex api orchestration",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-21T00:01:58.503Z",
+      "filePath": "portfolio/2026-11-21-hire-freelance-n8n-engineer-for-complex-api-orchestration.md",
+      "wordCount": 800,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "build autonomous multi agent pipelines with deterministic error handling",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-21T00:01:33.946Z",
+      "filePath": "portfolio/2026-11-21-build-autonomous-multi-agent-pipelines-with-deterministic-error-handling.md",
+      "wordCount": 945,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "enterprise n8n workflow architecture and production best practices",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-21T00:01:07.255Z",
+      "filePath": "portfolio/2026-11-21-enterprise-n8n-workflow-architecture-and-production-best-practices.md",
+      "wordCount": 983,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "compare kidnap ransom and extortion policy crisis response terms",
       "app": "primuezsure.primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 716,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "automated clinical trial insurance policy review and compliance",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-19T00:01:09.293Z",
-      "filePath": "primuezsure/2026-11-19-automated-clinical-trial-insurance-policy-review-and-compliance.md",
-      "wordCount": 976,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "detect territorial limits exclusions in global commercial policies",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-18T00:01:50.557Z",
-      "filePath": "primuezsure/2026-11-18-detect-territorial-limits-exclusions-in-global-commercial-policies.md",
-      "wordCount": 947,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated surety bond and performance guarantee terms analysis",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-18T00:01:27.905Z",
-      "filePath": "primuezsure/2026-11-18-automated-surety-bond-and-performance-guarantee-terms-analysis.md",
-      "wordCount": 901,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "enterprise n8n workflow architecture and production best practices",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "build autonomous multi agent pipelines with deterministic error handling",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "hire freelance n8n engineer for complex api orchestration",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "self hosted n8n production deployment on docker with postgres and redis",
       "app": "primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "production grade prompt injection defense and input sanitization in agents",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "build stateful ai agents with persistent sqlite memory and vector store",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "enterprise web scraping and crm synchronization with n8n and apify",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "hire autonomous ai systems engineer for business process automation",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

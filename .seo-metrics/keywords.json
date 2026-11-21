@@ -2545,20 +2545,35 @@
   {
     "keyword": "enterprise n8n workflow architecture and production best practices",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-21T00:01:07.255Z",
+    "filePath": "portfolio/2026-11-21-enterprise-n8n-workflow-architecture-and-production-best-practices.md",
+    "wordCount": 983,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "build autonomous multi agent pipelines with deterministic error handling",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-21T00:01:33.946Z",
+    "filePath": "portfolio/2026-11-21-build-autonomous-multi-agent-pipelines-with-deterministic-error-handling.md",
+    "wordCount": 945,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "hire freelance n8n engineer for complex api orchestration",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-21T00:01:58.503Z",
+    "filePath": "portfolio/2026-11-21-hire-freelance-n8n-engineer-for-complex-api-orchestration.md",
+    "wordCount": 800,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "self hosted n8n production deployment on docker with postgres and redis",
