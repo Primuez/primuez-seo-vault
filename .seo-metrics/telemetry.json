@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-21T00:01:58.509Z",
+  "lastSync": "2026-11-22T00:02:03.898Z",
   "totalNodes": 373,
-  "publishedNodes": 246,
-  "pendingNodes": 127,
-  "progressPercentage": 66,
+  "publishedNodes": 249,
+  "pendingNodes": 124,
+  "progressPercentage": 67,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 93,
-      "completed": 36
+      "completed": 39
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 44,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "multi model llm routing with fallback and rate limit failover",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-22T00:02:03.888Z",
+      "filePath": "portfolio/2026-11-22-multi-model-llm-routing-with-fallback-and-rate-limit-failover.md",
+      "wordCount": 801,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "replace brittle zapier zaps with high leverage n8n workflows",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-22T00:01:36.881Z",
+      "filePath": "portfolio/2026-11-22-replace-brittle-zapier-zaps-with-high-leverage-n8n-workflows.md",
+      "wordCount": 748,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "self hosted n8n production deployment on docker with postgres and redis",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-22T00:01:12.102Z",
+      "filePath": "portfolio/2026-11-22-self-hosted-n8n-production-deployment-on-docker-with-postgres-and-redis.md",
+      "wordCount": 1067,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "hire freelance n8n engineer for complex api orchestration",
       "app": "primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 930,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "evaluate contingent business interruption cbi policy triggers",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-20T00:01:06.331Z",
-      "filePath": "primuezsure/2026-11-20-evaluate-contingent-business-interruption-cbi-policy-triggers.md",
-      "wordCount": 782,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "identify uninsurable risks in custom enterprise software contracts",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-19T00:01:51.349Z",
-      "filePath": "primuezsure/2026-11-19-identify-uninsurable-risks-in-custom-enterprise-software-contracts.md",
-      "wordCount": 962,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "extract reservation of rights defense obligations in liability claims",
-      "app": "primuezsure.primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-19T00:01:27.862Z",
-      "filePath": "primuezsure/2026-11-19-extract-reservation-of-rights-defense-obligations-in-liability-claims.md",
-      "wordCount": 716,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "self hosted n8n production deployment on docker with postgres and redis",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "replace brittle zapier zaps with high leverage n8n workflows",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "multi model llm routing with fallback and rate limit failover",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automate b2b sales prospecting using n8n and perplexity api",
       "app": "primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "hire autonomous ai systems engineer for business process automation",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated customer onboarding workflows using n8n and supabase",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "multi agent supervisor pattern implementation in production python",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "deploy high availability n8n cluster on cloud vps with traefik ssl",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

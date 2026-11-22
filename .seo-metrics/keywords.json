@@ -2578,20 +2578,35 @@
   {
     "keyword": "self hosted n8n production deployment on docker with postgres and redis",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-22T00:01:12.102Z",
+    "filePath": "portfolio/2026-11-22-self-hosted-n8n-production-deployment-on-docker-with-postgres-and-redis.md",
+    "wordCount": 1067,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "replace brittle zapier zaps with high leverage n8n workflows",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-22T00:01:36.881Z",
+    "filePath": "portfolio/2026-11-22-replace-brittle-zapier-zaps-with-high-leverage-n8n-workflows.md",
+    "wordCount": 748,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "multi model llm routing with fallback and rate limit failover",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-22T00:02:03.888Z",
+    "filePath": "portfolio/2026-11-22-multi-model-llm-routing-with-fallback-and-rate-limit-failover.md",
+    "wordCount": 801,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "automate b2b sales prospecting using n8n and perplexity api",
