@@ -2644,20 +2644,35 @@
   {
     "keyword": "enterprise web scraping and crm synchronization with n8n and apify",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-24T00:01:13.788Z",
+    "filePath": "portfolio/2026-11-24-enterprise-web-scraping-and-crm-synchronization-with-n8n-and-apify.md",
+    "wordCount": 996,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "hire autonomous ai systems engineer for business process automation",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-24T00:01:49.785Z",
+    "filePath": "portfolio/2026-11-24-hire-autonomous-ai-systems-engineer-for-business-process-automation.md",
+    "wordCount": 955,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "automated customer onboarding workflows using n8n and supabase",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-24T00:02:16.398Z",
+    "filePath": "portfolio/2026-11-24-automated-customer-onboarding-workflows-using-n8n-and-supabase.md",
+    "wordCount": 773,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "multi agent supervisor pattern implementation in production python",

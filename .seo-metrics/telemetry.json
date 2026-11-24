@@ -1,10 +1,10 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-23T00:01:43.451Z",
+  "lastSync": "2026-11-24T00:02:16.401Z",
   "totalNodes": 373,
-  "publishedNodes": 252,
-  "pendingNodes": 121,
+  "publishedNodes": 255,
+  "pendingNodes": 118,
   "progressPercentage": 68,
   "geoScore": 98.8,
   "aeoScore": 99.2,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 93,
-      "completed": 42
+      "completed": 45
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 44,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "automated customer onboarding workflows using n8n and supabase",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-24T00:02:16.398Z",
+      "filePath": "portfolio/2026-11-24-automated-customer-onboarding-workflows-using-n8n-and-supabase.md",
+      "wordCount": 773,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "hire autonomous ai systems engineer for business process automation",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-24T00:01:49.785Z",
+      "filePath": "portfolio/2026-11-24-hire-autonomous-ai-systems-engineer-for-business-process-automation.md",
+      "wordCount": 955,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "enterprise web scraping and crm synchronization with n8n and apify",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-24T00:01:13.788Z",
+      "filePath": "portfolio/2026-11-24-enterprise-web-scraping-and-crm-synchronization-with-n8n-and-apify.md",
+      "wordCount": 996,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "build stateful ai agents with persistent sqlite memory and vector store",
       "app": "primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 748,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "self hosted n8n production deployment on docker with postgres and redis",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-22T00:01:12.102Z",
-      "filePath": "portfolio/2026-11-22-self-hosted-n8n-production-deployment-on-docker-with-postgres-and-redis.md",
-      "wordCount": 1067,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "hire freelance n8n engineer for complex api orchestration",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-21T00:01:58.503Z",
-      "filePath": "portfolio/2026-11-21-hire-freelance-n8n-engineer-for-complex-api-orchestration.md",
-      "wordCount": 800,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "build autonomous multi agent pipelines with deterministic error handling",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-21T00:01:33.946Z",
-      "filePath": "portfolio/2026-11-21-build-autonomous-multi-agent-pipelines-with-deterministic-error-handling.md",
-      "wordCount": 945,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "enterprise web scraping and crm synchronization with n8n and apify",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "hire autonomous ai systems engineer for business process automation",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automated customer onboarding workflows using n8n and supabase",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "multi agent supervisor pattern implementation in production python",
       "app": "primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "n8n webhook security api key validation and rate limiting",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated invoice processing and reconciliation using multimodal vision llms",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "architect custom ai agents with structured json schema outputs",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "self healing autonomous cron jobs with telegram alert notifications",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

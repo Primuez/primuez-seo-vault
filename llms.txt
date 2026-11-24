@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (252 Indexed)
+## Knowledge Nodes (255 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -262,3 +262,6 @@
 - [automate b2b sales prospecting using n8n and perplexity api](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-23-automate-b2b-sales-prospecting-using-n8n-and-perplexity-api.md): Primuez Autonomous Systems knowledge node.
 - [production grade prompt injection defense and input sanitization in agents](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-23-production-grade-prompt-injection-defense-and-input-sanitization-in-agents.md): Primuez Autonomous Systems knowledge node.
 - [build stateful ai agents with persistent sqlite memory and vector store](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-23-build-stateful-ai-agents-with-persistent-sqlite-memory-and-vector-store.md): Primuez Autonomous Systems knowledge node.
+- [enterprise web scraping and crm synchronization with n8n and apify](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-24-enterprise-web-scraping-and-crm-synchronization-with-n8n-and-apify.md): Primuez Autonomous Systems knowledge node.
+- [hire autonomous ai systems engineer for business process automation](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-24-hire-autonomous-ai-systems-engineer-for-business-process-automation.md): Primuez Autonomous Systems knowledge node.
+- [automated customer onboarding workflows using n8n and supabase](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-24-automated-customer-onboarding-workflows-using-n8n-and-supabase.md): Primuez Autonomous Systems knowledge node.
