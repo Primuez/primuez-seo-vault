@@ -2677,20 +2677,35 @@
   {
     "keyword": "multi agent supervisor pattern implementation in production python",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-25T00:01:13.180Z",
+    "filePath": "portfolio/2026-11-25-multi-agent-supervisor-pattern-implementation-in-production-python.md",
+    "wordCount": 800,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "deploy high availability n8n cluster on cloud vps with traefik ssl",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-25T00:01:42.767Z",
+    "filePath": "portfolio/2026-11-25-deploy-high-availability-n8n-cluster-on-cloud-vps-with-traefik-ssl.md",
+    "wordCount": 815,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "migrate zapier make com workflows to self hosted n8n instance",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-25T00:02:13.713Z",
+    "filePath": "portfolio/2026-11-25-migrate-zapier-make-com-workflows-to-self-hosted-n8n-instance.md",
+    "wordCount": 1024,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "building revenue generating ai automation tools for boutique agencies",
