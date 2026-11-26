@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-25T00:02:13.720Z",
+  "lastSync": "2026-11-26T00:01:27.621Z",
   "totalNodes": 373,
-  "publishedNodes": 258,
-  "pendingNodes": 115,
-  "progressPercentage": 69,
+  "publishedNodes": 261,
+  "pendingNodes": 112,
+  "progressPercentage": 70,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 93,
-      "completed": 48
+      "completed": 51
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 44,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "automated invoice processing and reconciliation using multimodal vision llms",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-26T00:01:27.616Z",
+      "filePath": "portfolio/2026-11-26-automated-invoice-processing-and-reconciliation-using-multimodal-vision-llms.md",
+      "wordCount": 854,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "n8n webhook security api key validation and rate limiting",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-26T00:01:03.758Z",
+      "filePath": "portfolio/2026-11-26-n8n-webhook-security-api-key-validation-and-rate-limiting.md",
+      "wordCount": 1005,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "building revenue generating ai automation tools for boutique agencies",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-26T00:00:39.988Z",
+      "filePath": "portfolio/2026-11-26-building-revenue-generating-ai-automation-tools-for-boutique-agencies.md",
+      "wordCount": 767,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "migrate zapier make com workflows to self hosted n8n instance",
       "app": "primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 955,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "enterprise web scraping and crm synchronization with n8n and apify",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-24T00:01:13.788Z",
-      "filePath": "portfolio/2026-11-24-enterprise-web-scraping-and-crm-synchronization-with-n8n-and-apify.md",
-      "wordCount": 996,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "build stateful ai agents with persistent sqlite memory and vector store",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-23T00:01:43.441Z",
-      "filePath": "portfolio/2026-11-23-build-stateful-ai-agents-with-persistent-sqlite-memory-and-vector-store.md",
-      "wordCount": 772,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "production grade prompt injection defense and input sanitization in agents",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-23T00:01:32.089Z",
-      "filePath": "portfolio/2026-11-23-production-grade-prompt-injection-defense-and-input-sanitization-in-agents.md",
-      "wordCount": 973,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "building revenue generating ai automation tools for boutique agencies",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "n8n webhook security api key validation and rate limiting",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "automated invoice processing and reconciliation using multimodal vision llms",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "architect custom ai agents with structured json schema outputs",
       "app": "primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "fine tune small language models for deterministic function calling",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "build autonomous research agents that synthesize multi source data",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "n8n workflow testing automated regression tests and mocking",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "integrate deepseek and claude models in production n8n workflows",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

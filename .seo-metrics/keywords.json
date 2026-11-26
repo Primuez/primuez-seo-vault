@@ -2710,20 +2710,35 @@
   {
     "keyword": "building revenue generating ai automation tools for boutique agencies",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-26T00:00:39.988Z",
+    "filePath": "portfolio/2026-11-26-building-revenue-generating-ai-automation-tools-for-boutique-agencies.md",
+    "wordCount": 767,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "n8n webhook security api key validation and rate limiting",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-26T00:01:03.758Z",
+    "filePath": "portfolio/2026-11-26-n8n-webhook-security-api-key-validation-and-rate-limiting.md",
+    "wordCount": 1005,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "automated invoice processing and reconciliation using multimodal vision llms",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-26T00:01:27.616Z",
+    "filePath": "portfolio/2026-11-26-automated-invoice-processing-and-reconciliation-using-multimodal-vision-llms.md",
+    "wordCount": 854,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "architect custom ai agents with structured json schema outputs",
