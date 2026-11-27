@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-26T00:01:27.621Z",
+  "lastSync": "2026-11-27T00:01:19.950Z",
   "totalNodes": 373,
-  "publishedNodes": 261,
-  "pendingNodes": 112,
-  "progressPercentage": 70,
+  "publishedNodes": 264,
+  "pendingNodes": 109,
+  "progressPercentage": 71,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 93,
-      "completed": 51
+      "completed": 54
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 44,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "build custom n8n community nodes for internal enterprise apis",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-27T00:01:19.945Z",
+      "filePath": "portfolio/2026-11-27-build-custom-n8n-community-nodes-for-internal-enterprise-apis.md",
+      "wordCount": 1061,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "self healing autonomous cron jobs with telegram alert notifications",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-27T00:00:57.243Z",
+      "filePath": "portfolio/2026-11-27-self-healing-autonomous-cron-jobs-with-telegram-alert-notifications.md",
+      "wordCount": 771,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "architect custom ai agents with structured json schema outputs",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-27T00:00:37.040Z",
+      "filePath": "portfolio/2026-11-27-architect-custom-ai-agents-with-structured-json-schema-outputs.md",
+      "wordCount": 775,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "automated invoice processing and reconciliation using multimodal vision llms",
       "app": "primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 815,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "multi agent supervisor pattern implementation in production python",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-25T00:01:13.180Z",
-      "filePath": "portfolio/2026-11-25-multi-agent-supervisor-pattern-implementation-in-production-python.md",
-      "wordCount": 800,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "automated customer onboarding workflows using n8n and supabase",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-24T00:02:16.398Z",
-      "filePath": "portfolio/2026-11-24-automated-customer-onboarding-workflows-using-n8n-and-supabase.md",
-      "wordCount": 773,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "hire autonomous ai systems engineer for business process automation",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-24T00:01:49.785Z",
-      "filePath": "portfolio/2026-11-24-hire-autonomous-ai-systems-engineer-for-business-process-automation.md",
-      "wordCount": 955,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "architect custom ai agents with structured json schema outputs",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "self healing autonomous cron jobs with telegram alert notifications",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "build custom n8n community nodes for internal enterprise apis",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "automate outbound sales cadence with n8n zeptomail and crm sync",
       "app": "primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "integrate deepseek and claude models in production n8n workflows",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automated lead qualification scoring engine with n8n and llms",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "build custom rag knowledge base with hybrid bm25 and vector search",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "enterprise data pipeline orchestration without expensive saas tools",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"

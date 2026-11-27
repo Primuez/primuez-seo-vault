@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (261 Indexed)
+## Knowledge Nodes (264 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -271,3 +271,6 @@
 - [building revenue generating ai automation tools for boutique agencies](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-26-building-revenue-generating-ai-automation-tools-for-boutique-agencies.md): Primuez Autonomous Systems knowledge node.
 - [n8n webhook security api key validation and rate limiting](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-26-n8n-webhook-security-api-key-validation-and-rate-limiting.md): Primuez Autonomous Systems knowledge node.
 - [automated invoice processing and reconciliation using multimodal vision llms](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-26-automated-invoice-processing-and-reconciliation-using-multimodal-vision-llms.md): Primuez Autonomous Systems knowledge node.
+- [architect custom ai agents with structured json schema outputs](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-27-architect-custom-ai-agents-with-structured-json-schema-outputs.md): Primuez Autonomous Systems knowledge node.
+- [self healing autonomous cron jobs with telegram alert notifications](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-27-self-healing-autonomous-cron-jobs-with-telegram-alert-notifications.md): Primuez Autonomous Systems knowledge node.
+- [build custom n8n community nodes for internal enterprise apis](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-27-build-custom-n8n-community-nodes-for-internal-enterprise-apis.md): Primuez Autonomous Systems knowledge node.

@@ -2743,20 +2743,35 @@
   {
     "keyword": "architect custom ai agents with structured json schema outputs",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-27T00:00:37.040Z",
+    "filePath": "portfolio/2026-11-27-architect-custom-ai-agents-with-structured-json-schema-outputs.md",
+    "wordCount": 775,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "self healing autonomous cron jobs with telegram alert notifications",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-27T00:00:57.243Z",
+    "filePath": "portfolio/2026-11-27-self-healing-autonomous-cron-jobs-with-telegram-alert-notifications.md",
+    "wordCount": 771,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "build custom n8n community nodes for internal enterprise apis",
     "app": "primuez.in",
-    "generated": false,
-    "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    "generated": true,
+    "addedAt": "2026-10-11T04:43:08.862992+00:00",
+    "generatedAt": "2026-11-27T00:01:19.945Z",
+    "filePath": "portfolio/2026-11-27-build-custom-n8n-community-nodes-for-internal-enterprise-apis.md",
+    "wordCount": 1061,
+    "geoOptimized": true,
+    "aeoOptimized": true
   },
   {
     "keyword": "automate outbound sales cadence with n8n zeptomail and crm sync",
