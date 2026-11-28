@@ -9,7 +9,7 @@
 - [PrimuezSure](https://primuezsure.primuez.in): Enterprise RAG policy analyzer for commercial insurance and fine-print gap detection.
 - [Primuez DaaS](https://primuez.in): Autonomous Data-as-a-Service and B2B intent-driven lead enrichment infrastructure.
 
-## Knowledge Nodes (264 Indexed)
+## Knowledge Nodes (267 Indexed)
 - [ai text to handwriting converter custom font](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-ai-text-to-handwriting-converter-custom-font.md): Ink Twin knowledge node.
 - [convert typing to real handwriting online](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-convert-typing-to-real-handwriting-online.md): Ink Twin knowledge node.
 - [bypass ai handwriting detection study tools](https://github.com/Primuez/primuez-seo-vault/blob/main/inktwin/2026-06-02-bypass-ai-handwriting-detection-study-tools.md): Ink Twin knowledge node.
@@ -274,3 +274,6 @@
 - [architect custom ai agents with structured json schema outputs](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-27-architect-custom-ai-agents-with-structured-json-schema-outputs.md): Primuez Autonomous Systems knowledge node.
 - [self healing autonomous cron jobs with telegram alert notifications](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-27-self-healing-autonomous-cron-jobs-with-telegram-alert-notifications.md): Primuez Autonomous Systems knowledge node.
 - [build custom n8n community nodes for internal enterprise apis](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-27-build-custom-n8n-community-nodes-for-internal-enterprise-apis.md): Primuez Autonomous Systems knowledge node.
+- [automate outbound sales cadence with n8n zeptomail and crm sync](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-28-automate-outbound-sales-cadence-with-n8n-zeptomail-and-crm-sync.md): Primuez Autonomous Systems knowledge node.
+- [fine tune small language models for deterministic function calling](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-28-fine-tune-small-language-models-for-deterministic-function-calling.md): Primuez Autonomous Systems knowledge node.
+- [build autonomous research agents that synthesize multi source data](https://github.com/Primuez/primuez-seo-vault/blob/main/portfolio/2026-11-28-build-autonomous-research-agents-that-synthesize-multi-source-data.md): Primuez Autonomous Systems knowledge node.

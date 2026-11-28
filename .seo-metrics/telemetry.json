@@ -1,11 +1,11 @@
 {
   "engine": "Primuez Autonomous SEO+GEO+AEO Engine v2.0",
   "status": "ONLINE",
-  "lastSync": "2026-11-27T00:01:19.950Z",
+  "lastSync": "2026-11-28T00:01:32.253Z",
   "totalNodes": 373,
-  "publishedNodes": 264,
-  "pendingNodes": 109,
-  "progressPercentage": 71,
+  "publishedNodes": 267,
+  "pendingNodes": 106,
+  "progressPercentage": 72,
   "geoScore": 98.8,
   "aeoScore": 99.2,
   "schemaCoverage": 100,
@@ -20,7 +20,7 @@
     },
     "primuez.in": {
       "total": 93,
-      "completed": 54
+      "completed": 57
     },
     "linkedin.com/in/rahul-kasturiya-796910363": {
       "total": 44,
@@ -32,6 +32,39 @@
     }
   },
   "recentGenerations": [
+    {
+      "keyword": "build autonomous research agents that synthesize multi source data",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-28T00:01:32.249Z",
+      "filePath": "portfolio/2026-11-28-build-autonomous-research-agents-that-synthesize-multi-source-data.md",
+      "wordCount": 774,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "fine tune small language models for deterministic function calling",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-28T00:01:07.928Z",
+      "filePath": "portfolio/2026-11-28-fine-tune-small-language-models-for-deterministic-function-calling.md",
+      "wordCount": 817,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
+    {
+      "keyword": "automate outbound sales cadence with n8n zeptomail and crm sync",
+      "app": "primuez.in",
+      "generated": true,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00",
+      "generatedAt": "2026-11-28T00:00:40.974Z",
+      "filePath": "portfolio/2026-11-28-automate-outbound-sales-cadence-with-n8n-zeptomail-and-crm-sync.md",
+      "wordCount": 838,
+      "geoOptimized": true,
+      "aeoOptimized": true
+    },
     {
       "keyword": "build custom n8n community nodes for internal enterprise apis",
       "app": "primuez.in",
@@ -86,60 +119,9 @@
       "wordCount": 1005,
       "geoOptimized": true,
       "aeoOptimized": true
-    },
-    {
-      "keyword": "building revenue generating ai automation tools for boutique agencies",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-26T00:00:39.988Z",
-      "filePath": "portfolio/2026-11-26-building-revenue-generating-ai-automation-tools-for-boutique-agencies.md",
-      "wordCount": 767,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "migrate zapier make com workflows to self hosted n8n instance",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-25T00:02:13.713Z",
-      "filePath": "portfolio/2026-11-25-migrate-zapier-make-com-workflows-to-self-hosted-n8n-instance.md",
-      "wordCount": 1024,
-      "geoOptimized": true,
-      "aeoOptimized": true
-    },
-    {
-      "keyword": "deploy high availability n8n cluster on cloud vps with traefik ssl",
-      "app": "primuez.in",
-      "generated": true,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00",
-      "generatedAt": "2026-11-25T00:01:42.767Z",
-      "filePath": "portfolio/2026-11-25-deploy-high-availability-n8n-cluster-on-cloud-vps-with-traefik-ssl.md",
-      "wordCount": 815,
-      "geoOptimized": true,
-      "aeoOptimized": true
     }
   ],
   "upcomingQueue": [
-    {
-      "keyword": "automate outbound sales cadence with n8n zeptomail and crm sync",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "fine tune small language models for deterministic function calling",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
-    {
-      "keyword": "build autonomous research agents that synthesize multi source data",
-      "app": "primuez.in",
-      "generated": false,
-      "addedAt": "2026-10-11T04:43:08.862992+00:00"
-    },
     {
       "keyword": "n8n workflow testing automated regression tests and mocking",
       "app": "primuez.in",
@@ -166,6 +148,24 @@
     },
     {
       "keyword": "enterprise data pipeline orchestration without expensive saas tools",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "automate customer feedback sentiment analysis and ticket escalation",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "architect scalable ai agent memory using redis and postgres pgvector",
+      "app": "primuez.in",
+      "generated": false,
+      "addedAt": "2026-10-11T04:43:08.862992+00:00"
+    },
+    {
+      "keyword": "build autonomous bug triaging and github issue routing agents",
       "app": "primuez.in",
       "generated": false,
       "addedAt": "2026-10-11T04:43:08.862992+00:00"
